@@ -101,7 +101,16 @@ for line in part('DIO 2')['lines']:
                 continue
             if not d['_in_table']:
                 d['tables'] += 1; d['_in_table'] = True
-            t, txt = cells[0], '|'.join(cells[1:])
+            t = cells[0]
+            if len(cells) == 3:
+                # A/B day: header row is skipped; column A is the main table, column B becomes the alternative (table 2)
+                if '🅰' in cells[1]: continue
+                a, b = cells[1], cells[2]
+                if b.strip().lower() == 'isto': b = a
+                d['rows'].append({'time': t.replace('**', ''), 'text': a, 'table': 1})
+                if b: d['rows'].append({'time': t.replace('**', ''), 'text': b, 'table': 2})
+                continue
+            txt = '|'.join(cells[1:])
             d['rows'].append({'time': t.replace('**', ''), 'text': txt, 'table': d['tables']})
         elif line.strip() == '':
             d['_in_table'] = False
@@ -243,7 +252,7 @@ for sec in sections:
 
 # --- merge Dio 2 rows with Dio 3 slots
 PLANS = {
-    '20.10': [{'match': None, 'label': 'Alternativni raspored', 'altTable': 2, 'replaces': 'all'}],
+    '20.10': [{'match': None, 'label': 'Verzija 🅱️', 'altTable': 2, 'replaces': 'all'}],
     '23.10': [{'match': 'Delpino', 'label': 'Plan B · Delpino', 'replaces': ['14:00', '15:30']}],
     '24.10': [{'match': 'Plan C', 'label': 'Plan C · Gangneung', 'replaces': ['06:35', '06:55', '08:00', '09:36', '12:30', '13:30', '14:30', '17:00']}],
     '27.10': [{'match': 'Eonyang', 'label': 'Plan B · Eonyang', 'replaces': ['10:00']}],
@@ -270,6 +279,13 @@ for day in data['days']:
     last_idx = -1
     for si, s in enumerate(day['slots']):
         idx = next((i for i, r in enumerate(rows) if r['slot'] is None and r['key'] == s['key'] and i not in used), None)
+        if idx is None:
+            # A/B days use time ranges ("Jutro 09:30–11:45"); attach the slot to the range row that names it
+            w = re.sub(r'[*_]', '', s['title']).split()[0].lower()
+            idx = next((i for i, r in enumerate(rows) if r['slot'] is None and '–' in r['time'] and len(w) > 3 and w in re.sub(r'[*_]', '', r['text']).lower()), None)
+            if idx is not None:
+                rows[idx]['slot'] = si; used.add(idx); last_idx = idx
+                continue
         if idx is None:
             newrow = {'time': s['timeLabel'].lstrip('⏰ '), 'key': s['key'], 'text': '**' + s['title'] + '**', 'altHint': False, 'slot': si, 'd3only': True}
             pos = last_idx + 1

@@ -1,28 +1,28 @@
 # 🇰🇷 KOREJA 2026 — MASTER ITINERAR
-**Manuel · Goran · Lucija · Matej** · 19.10. – 2.11.2026. · *v9, 10.10.2026.*
+**Manuel · Goran · Lucija · Matej** · 19.10. – 2.11.2026. · *v10.2, 20.10.2026. · uključeni komentari Gorana i Lucije · 19.10. odrađen, 20.10. s A/B verzijama*
 --
 **Oznake:** 🔒 traži rezervaciju · 💸 splurge · ⚠️ kvaka · **WIP** neprovjereno, popis u `KorejaWIP.md` · **↔** termin ima zamjene · 🧱 dodatne opcije za grad
 ---
 
 # DIO 1 — FLASH ITINERAR
 
-**Ponedjeljak, 19. 10. · Seoul — dolazak i Lucijin rođendan** — Slijetanje u Seoul u 12:30. Nakon preuzimanja prtljage slijedi vožnja vlakom AREX i taksijem do apartmana u blizini Dongdaemuna, gdje je planiran check-in u 16:00. Kad se smjestimo, odlazimo pješice na **Gwangjang tržnicu**, jednu od najpoznatijih tradicionalnih tržnica u Seoulu. Idealna je za prvo upoznavanje s korejskom uličnom hranom — od hrskavih palačinki *bindaetteok* do knedli i rezanaca. Navečer slavimo **Lucijin rođendan**! Za početak možemo odabrati screen golf ili screen baseball, zabavnu korejsku verziju sporta u zatvorenom prostoru, uz simulatore i natjecateljsku atmosferu. Nakon toga slijede plastični stolci, pivo i grickalice u **Nogari Alleyju**, poznatoj uličici s jednostavnim pivskim barovima. Večer završavamo u **Ace Four Clubu**, retro baru s posebnim ugođajem.
-**Utorak, 20. 10. · Seoul — hramovi, povijest i noćni grad** — Ako se probudimo dovoljno rano, dan počinjemo kratkom šetnjom uz gradske zidine na **Naksanu**, odmah iza kuće. Slijedi **hram Jogyesa**, koji bi u ovo doba godine trebao biti posebno lijep ukrašen krizantemama. Nakon 10:00 odlazimo u **Bukchon Hanok Village**, povijesnu četvrt s tradicionalnim korejskim kućama (*hanok*). Kasniji dolazak omogućuje nam da poštujemo jutarnja ograničenja posjeta u pojedinim dijelovima četvrti. Za ručak idemo na **Tongin tržnicu**, gdje se može kupiti posudica s tradicionalnim mjedenim novčićima i njima plaćati različita jela na tržnici. Popodne je rezervirano za **Nacionalni muzej Koreje**, posebno zbog zbirke zlata iz kraljevstva Silla — dobar uvod u povijest prije nego što stignemo u Gyeongju, nekadašnje središte tog kraljevstva. Predvečer se penjemo na **Seoul Sky**, vidikovac na vrhu nebodera Lotte World Tower, kako bismo grad promatrali dok se dnevno svjetlo pretvara u noćna svjetla. Potom slijedi **palača Deoksugung**, čiji su zidovi i dvorišta posebno atmosferični nakon mraka. Za večeru biramo poznati **Myeongdong Kyoja**, restoran poznat po ručno rezanim rezancima *kalguksu* i knedlama *mandu*. Večer završavamo u Euljiro četvrti, u malim barovima skrivenima iza neoznačenih vrata i neuglednih ulaza.
+**Ponedjeljak, 19. 10. · Seoul — dolazak i Lucijin rođendan** ✅ — Slijetanje u Seoul u 12:30, AREX i taksijem do apartmana u blizini Dongdaemuna, check-in u 16:00. Plan je promijenjen na licu mjesta: umjesto Gwangjanga i Euljira prvu smo večer proveli u **Hongdaeu**. Prvo **korejski roštilj**, zatim šetnja studentskom četvrti punom glazbe i neona, **fluffy pancakes** za desert, **streličarstvo i pucanje** umjesto batting cagea, i na kraju **kokteli** za Lucijin rođendan. Gwangjang, Nogari Alley i Ace Four Club prebačeni su na utorak, a pravi batting cage na Hongdae u drugom boravku.
+**Utorak, 20. 10. · Seoul — hramovi, muzej, Seoul Sky i Euljiro noću (A/B dan)** — Dan ima dvije verzije za svaki dio, a biramo na licu mjesta prema umoru. Ujutro **🅰️ hram Jogyesa** s krizantemama i **Bukchon Hanok Village**, ili **🅱️ duže spavanje** i samo Jogyesa. Za ručak **🅰️ Tongin tržnica** s mjedenim novčićima ili **🅱️ rezanci kalguksu** kod Bukchona. Popodne **🅰️ Nacionalni muzej Koreje** sa zlatom kraljevstva Silla, ili **🅱️ odmor i pakiranje** pa Namdaemun ili DDP. Fiksna točka dana je **Seoul Sky** u 16:30, vidikovac na vrhu Lotte World Towera, za zalazak sunca i paljenje gradskih svjetala. Za večeru odlazimo na **Gwangjang tržnicu** (bindaetteok, kalguksu, mayak kimbap), a zatim pješice na **Nogari Alley**, gdje se pivo pije na plastičnim stolcima nasred ulice. Večer završavamo u **Ace Four Clubu**, retro baru u staroj čajani, ili u šatorima na Jongnu i noraebangu. Kofere pakiramo prije izlaska, jer sutra u 08:00 krećemo za Sokcho.
 **Srijeda, 21. 10. · Seoul → Sokcho — iz grada prema moru** — Ujutro hvatamo izravni autobus za **Sokcho**, vožnja traje približno 2 sata i 20 minuta, ovisno o prometu. Po dolasku ostavljamo kofere u hotelu uz plažu i krećemo istraživati grad. Prvo posjećujemo paviljon smješten na stijenama uz more, a zatim ručamo **mulgomtang**, blagi gulaš od ribe eelpout, lokalni specijalitet ove obale. Popodne je rezervirano za kafić uređen u prostoru starog brodogradilišta, a zatim odlazimo u **Abai Village**, četvrt poznatu po zajednici doseljenika iz Sjeverne Koreje i njihovoj gastronomskoj tradiciji. Ondje ćemo isprobati i neobičnu ručno pokretanu skelu *gaetbae*, koju putnici povlače užetom preko vode. Slijedi obilazak tržnice, gdje ćemo zastati na nekoliko zalogaja umjesto na velikom obroku. Navečer sjedamo u restoran s ribom koja se peče na stolu, a nakon večere možemo popiti nekoliko pića u jednostavnim šatorima uz more.
 **Četvrtak, 22. 10. · Sokcho — Seoraksan i planinski vrhovi** — U 06:30 krećemo prema **Nacionalnom parku Seoraksan**, jednom od najljepših planinskih područja u Južnoj Koreji. Po dolasku prvo provjeravamo i kupujemo karte za žičaru, kako bismo osigurali tu opciju prije nego što se stvore gužve. Zatim posjećujemo hram **Sinheungsa**, smješten među planinama, koji u jutarnjoj magli ima posebno mirnu atmosferu. Glavni izazov dana je **Ulsanbawi** — impresivna granitna stijena do čijeg se vrha dolazi dugim nizom metalnih stepenica. Uspon je fizički zahtjevan, pa idemo polako, uz stanke i prema mogućnostima svakog člana ekipe. Nije nužno da svi dođu do samog vrha. Nakon planinarenja slijedi zasluženi odmor u **Montbeeru**, uz ručak ili barem pivo i pogled na planinske stijene. Poslijepodne odlazimo u **Waterpie**, kompleks termalnih bazena i vodenih atrakcija u kojem možemo opustiti umorne mišiće. Navečer se pripremamo za pravi gastronomski vrhunac Sokcha: 💸 **gozbu od crvenih rakova**. Dan završavamo plesom u neobičnom prostoru starog hladnjaka za ribu.
-**Petak, 23. 10. · Sokcho — slapovi, obala i lokalni život** — Danas nas čekaju dvije umjerenije šetnje u Nacionalnom parku Seoraksan. Prva je staza do **Biseondaea**, slikovitog mjesta uz potok, okruženog golemim granitnim gromadama. Druga vodi prema **Biryong slapovima**, kroz šumu i preko visećih mostova. Ove dvije rute nude odličan doživljaj prirode bez ponavljanja zahtjevnog uspona prethodnog dana. Popodne se vraćamo u grad i posjećujemo **planinarski muzej**, uključujući sobu koja simulira uvjete velike nadmorske visine. Zatim slijedi šetnja uz jezero **Cheongcho**, gdje ćemo potražiti jesenske krizanteme, i drvenom obalnom stazom do područja **Oeongchi**, poznatog po pogledima na more i stjenovitu obalu. Navečer istražujemo lokalni noćni život: prvo **Dalbit Yajang**, a zatim **Freezer Club**. Budući da nas sutra čeka rano putovanje, ne ostajemo predugo.
-**Subota, 24. 10. · Sokcho → Gyeongju — dolazak u kraljevstvo Silla** — U 06:55 krećemo autobusom prema **Gangneungu**, gdje se ukrcavamo na novi izravni vlak uz obalu do Gyeongjua. Nakon dolaska i odlaska do smještaja počinje istraživanje starog grada, okvirno od 12:30. Prvo ručamo, a zatim obilazimo **Daereungwon**, kompleks kraljevskih grobnica iz razdoblja Silla. Njegovi veliki travnati humci izgledaju poput brežuljaka usred grada, a zapravo skrivaju drevna grobna mjesta. Nastavljamo prema **selu Gyochon**, povijesnoj četvrti s tradicionalnim kućama, i posjećujemo kuću obitelji **Choi**, jedne od najpoznatijih imućnih obitelji Gyeongjua, povezane s dugom tradicijom lokalnog ugleda, učenja i filantropije. U sumrak odlazimo do **Donggung Palacea i ribnjaka Wolji**, poznatog i pod starim nazivom Anapji. Osvijetljeni paviljoni i njihovi odrazi u vodi jedan su od najljepših prizora u gradu. Nakon toga prelazimo drveni most **Woljeonggyo**, čija se tradicionalna arhitektura posebno ističe noću. Večer završavamo na **noćnoj tržnici**, uz pladanj različitih lokalnih zalogaja i pivo pokraj vatre.
-**Nedjelja, 25. 10. · Gyeongju — selo koje živi i blaga Silla** — Dan počinjemo doručkom u **uličici s bifeima na tržnici Seongdong**, gdje se za oko 8.000 ₩ bira među tridesetak domaćih jela. To je prilika za pravi korejski doručak, s mnogo malih priloga i nekoliko različitih okusa. Ujutro odlazimo u **Yangdong**, UNESCO-ovo selo u kojem se i danas živi. Tradicionalne kuće, dvorišta i položaj naselja na brežuljcima pružaju dojam kako je izgledao život u korejskom plemićkom selu prije nekoliko stoljeća. Poslijepodne unajmljujemo bicikle i istražujemo mirniju, istočnu stranu Gyeongjua. Ondje tražimo ostatke mjesta na kojem je nekoć stajala pagoda visoka oko 80 metara te kamenu pagodu od kamenih opeka iz 634. godine. Nastavljamo do **Nacionalnog muzeja Gyeongjua**, gdje su izloženi izvanredni arheološki nalazi kraljevstva Silla, uključujući poznate zlatne krune. One pokazuju koliko je bogato i umjetnički razvijeno bilo kraljevstvo prije više od tisuću godina. Navečer kušamo **ssambap** s bulgogijem, obrok u kojem se meso i prilozi zamataju u listove salate ili drugog povrća. Nakon večere slijedi pogled na osvijetljeni humak **Bonghwangdae** i kušanje rižina vina povezanog s obitelji Choi.
-**Ponedjeljak, 26. 10. · Gyeongju — hramovi i budistička umjetnost** — Ujutro odlazimo u **hram Bulguksa**, s ciljem dolaska na otvaranje u 09:00. Posebno se veselimo stazama kroz crvene javorove, koji krajem listopada mogu biti u prekrasnim jesenskim bojama. ⏰ **Točno u 10:00 otvaraju se online rezervacije za Tajni vrt (Changdeokgung, Seoul) za nedjelju 1. 11.** — termini se otvaraju 6 dana unaprijed i u jesen nestanu u minutama. Alarm na mobitelu, dvoje pokušava paralelno na ticket.cdg.go.kr, iz Bulgukse. *(Rezerva: blagajna 1. 11. od 09:00.)* Nakon Bulgukse nastavljamo prema **Seokguramu**, špiljskom svetištu s monumentalnim granitnim Budom iz 8. stoljeća. Povratak planiramo šumskom stazom, ako stanje koljena i umor to dopuste. Popodne istražujemo niže dijelove planine **Namsan**, područja poznatog po ostacima budističkih hramova, kamenim kipovima i reljefima. Šetnja kroz borovu šumu vodi nas do kraljevskih grobnica i mjesta sa **šest Buda uklesanih u stijenu**. Za posljednju večer u Gyeongjuu rezerviramo poseban doživljaj: 💸 🔒 **Yosukgung 1779**, tradicionalni obrok u povijesnom imanju obitelji Choi. Ovo je gastronomski vrhunac boravka u gradu, pa vrijedi unaprijed provjeriti rezervaciju, jelovnik i trajanje večere.
-**Utorak, 27. 10. · Gyeongju → Busan — more, vidikovci i most** — Ujutro putujemo KTX-om prema **Busanu**, vožnja traje oko pola sata. Nakon dolaska ostavljamo kofere u hotelu blizu kolodvora i krećemo u istraživanje grada. Za prvi obrok biramo **dwaeji gukbap**, tradicionalnu juhu od svinjetine i riže, jedno od zaštitnih jela Busana. Na popisu je i lokal koji se preporučuje u Michelinovu vodiču, pa je dobro unaprijed provjeriti točnu lokaciju i radno vrijeme. Potom odlazimo na **Oryukdo Skywalk**, staklenu platformu 37 metara iznad mora s pogledom na stijene i valove, a zatim na blaži, sjeverni dio obalne staze **Igidae**. Šetnja nudi pogled na dramatičnu obalu bez potrebe za dugim planinarenjem. Navečer je na redu **Gwangalli Beach**. Promatramo zalazak sunca, a potom i osvijetljeni most Gwangan, koji se proteže preko zaljeva i dominira noćnom panoramom. Za piće svraćamo u **Galmegi Brewing**, poznatu lokalnu craft pivovaru. Ako ogladnimo kasnije, dan završavamo još jednom zdjelom tople svinjske juhe.
-**Srijeda, 28. 10. · Busan — tržnice, šareno selo i otočni ugođaj** — Jutro počinjemo u **uličici pečene ribe na Jagalchi tržnici**, gdje se svježa riba priprema na licu mjesta. Nakon toga slijedi *ssiat hotteok*, slatka palačinka punjena sjemenkama i orašastim plodovima, na **BIFF trgu**, a zatim obilazak **tržnice Gukje**, poznate po hrani, odjeći i raznovrsnoj robi. Za ručak biramo između dva lokalna specijaliteta: **nakgopsae**, pikantnog gulaša s hobotnicom, govedinom i škampima, ili **yubu jeongola**, vrućeg lonca s tofuom od soje i različitim nadjevima. Poslijepodne odlazimo u **Huinnyeoul Culture Village**, slikovito naselje na litici iznad mora, s uskim uličicama, malim kafićima i pogledom na brodove koji prolaze kroz luku. Pred zalazak posjećujemo područje **168 stepenica**, poznato po strmom stubištu i pogledu na starije gradske četvrti. Za uspon i silazak na raspolaganju je besplatno dizalo, pa ne moramo svladavati sve stepenice pješice. Navečer biramo između **hladnih svinjskih nogica s meduzom**, zanimljive lokalne kombinacije tekstura i okusa, uz obilazak noćne tržnice **Kkangtong**, ili večere s jelom **Dongnae pajeon**, bogatom slanom palačinkom s mladim lukom i morskim plodovima.
-**Četvrtak, 29. 10. · Busan → Seoul — povratak u glavni grad** — Prije odlaska iz Busana doručkujemo riblje kolače u **Samjin Eomuku**, jednoj od najpoznatijih lokalnih adresa za korejski *eomuk*. Zatim putujemo KTX-om prema Seoulu, uz opcionalnu stanku u **Daejeonu** radi posjeta legendarnoj pekarnici **Sungsimdang**. Ako se odlučimo za stanku, potrebno je provjeriti mogućnost ostavljanja prtljage, vrijeme potrebno za izlazak s kolodvora i sljedeći vlak, jer se to može odraziti na ostatak dana. Po dolasku u Seoul ostavljamo kofere u smještaju u **Yeonnam-dongu**. Poslijepodne posvećujemo jednom satu u palači **Gyeongbokgung**, a zatim laganoj šetnji kroz **Seochon**, mirniju četvrt s tradicionalnim kućama, galerijama i malim kafićima. Navečer nas čeka korejski roštilj u restoranu **Yukmong**. Nakon večere slijedi unaprijed rezervirana 🔒 **escape room avantura na engleskom jeziku**, otprilike deset minuta od kuće. Dan završavamo u Hongdaeu, poznatom po mladenačkoj atmosferi, glazbi i noćnom životu.
-**Petak, 30. 10. · Suwon — tvrđava, kraljevska povijest i piletina** — Ujutro vlakom ITX putujemo do **Suwona**, udaljenog otprilike pola sata, ovisno o polaznoj stanici i vezi. Glavni cilj je **tvrđava Hwaseong**, impresivan kompleks zidina, vrata, tornjeva i obrambenih građevina iz 18. stoljeća, danas pod zaštitom UNESCO-a. Obilazak počinjemo kod kraljevske palače **Hwaseong Haenggung**, gdje je planiran borilački nastup u 11:00. Nakon toga slijedi ručak uz poznatu suwonšku prženu piletinu, tradicionalno pripremljenu u velikim kotlovima. Poslijepodne istražujemo ravnije sjeverne i istočne dijelove zidina. Ondje možemo isprobati **tradicionalno korejsko streličarstvo** i koristiti turistički vlakić za lakše kretanje između pojedinih dijelova tvrđave. Navečer kušamo **Suwon galbi**, goveđa rebarca po kojima je grad poznat, na mjestu gdje je jelo i nastalo. Zatim promatramo osvijetljene zidine, a ako vremenski uvjeti dopuštaju, penjemo se balonom **Flying Suwon** na približno 150 metara visine za panoramski pogled na tvrđavu. **Plan B:** ako vrijeme bude loše ili nam se ne bude ostajalo do kasno, vraćamo se u Seoul oko 17:30 i odlazimo do fontane **Banpo** na večernju šetnju. Prije polaska provjeravamo raspored rada fontane i eventualnog svjetlosnog programa.
-**Subota, 31. 10. · Seoul — industrijski chic, Han i Halloween** — Jutro provodimo u **Seongsuu**, nekadašnjoj industrijskoj četvrti koja je danas poznata po kafićima u preuređenim skladištima, dizajnerskim trgovinama i kreativnim prostorima. Nastavljamo u **Seoul Forest**, velikom gradskom parku u kojem možemo malo predahnuti od užurbanog centra. Za ručak biramo **gamjatang**, bogato varivo od svinjskih kostiju, krumpira i začina. Poslijepodne ostavljamo slobodnim za odmor u apartmanu — važno je napuniti baterije prije večernjih planova. Navečer idemo u **Sindang**, četvrt poznatu po restoranima s *tteokbokkijem*, gdje se rižini kolači, umak i dodaci kuhaju zajedno u loncu na stolu. Potom odlazimo do rijeke Han na **besplatni drone show** u parku Ttukseom, ako se održava prema rasporedu za taj datum (otkazuje se po kiši i vjetru). Večer završavamo na **Halloween u Hongdaeu**, uz kostime, glazbu i živu atmosferu na ulicama. Budući da je riječ o popularnom području za noćni izlazak, najbolje je unaprijed dogovoriti mjesto sastanka i povratak pješice do smještaja.
-**Nedjelja, 1. 11. · Seoul — javori, palača i posljednja večer** — Dan počinjemo posjetom 🔒 **palači Changdeokgung i Tajnom vrtu**, jednom od najljepših mjesta za jesenske boje u Seoulu. Krajem listopada i početkom studenoga javori često su u vrhuncu jesenske ljepote, iako stvarno stanje ovisi o vremenu te godine. Termin ovisi o rezervaciji napravljenoj 26. 10.; ako online nije uspjelo, blagajna otvara u 09:00 i treba doći ranije. Za ručak biramo **juhu od volovskih kostiju**, poznatu kao *seolleongtang*, u restoranu s tradicijom koja seže do 1904. godine. Poslijepodne slijedi lagana šetnja **podno planine Inwangsan**, ravnijom stazom od doline Suseong-dong do vidikovca s pogledom na palaču i grad. Tko želi, može dodatno posjetiti i obližnje šamansko svetište, ovisno o vremenu i energiji. Za posljednju večer biramo između dvije opcije. Prva je **samgyetang**, korejska juha od cijelog mladog pileta punjenog rižom, češnjakom i ginsengom, uz koktel u baru uređenom u tradicionalnoj kući *hanok* u Seochonu. Druga je jednostavnija večera uz **korejski BBQ blizu kuće**. Nakon večere slijedi pakiranje i priprema za rano jutarnje putovanje prema aerodromu.
+**Petak, 23. 10. · Sokcho — slapovi, obala i lokalni život** — Danas nas čekaju dvije umjerenije šetnje u Nacionalnom parku Seoraksan. Prva je staza do **Biseondaea**, slikovitog mjesta uz potok, okruženog golemim granitnim gromadama. Druga vodi prema **Biryong slapovima**, kroz šumu i preko visećih mostova. Ove dvije rute nude odličan doživljaj prirode bez ponavljanja zahtjevnog uspona prethodnog dana. Popodne se vraćamo u grad i posjećujemo **planinarski muzej**, uključujući sobu koja simulira uvjete velike nadmorske visine. Zatim slijedi šetnja uz jezero **Cheongcho**, gdje ćemo potražiti jesenske krizanteme, i drvenom obalnom stazom do područja **Oeongchi**, poznatog po pogledima na more i stjenovitu obalu. Navečer istražujemo lokalni noćni život: prvo **Dalbit Yajang**, a zatim **Freezer Club**. Budući da nas sutra čeka rano putovanje, ne ostajemo predugo. ⏰ **U ponoć rezerviramo escape room** za četvrtak, jer se termini otvaraju samo pet dana unaprijed.
+**Subota, 24. 10. · Sokcho → Gyeongju — dolazak u kraljevstvo Silla** — U 06:55 krećemo autobusom prema **Gangneungu**, gdje se ukrcavamo na novi izravni vlak uz obalu do Gyeongjua. Ako escape room sinoć nije rezerviran, to je prva stvar ujutro. Nakon dolaska i odlaska do smještaja počinje istraživanje starog grada, okvirno od 12:30. Prvo ručamo, a zatim obilazimo **Daereungwon**, kompleks kraljevskih grobnica iz razdoblja Silla, uz toplu lepinju **Hwangnam-ppang** s crvenim grahom. Njegovi veliki travnati humci izgledaju poput brežuljaka usred grada, a zapravo skrivaju drevna grobna mjesta. Nastavljamo prema **selu Gyochon**, povijesnoj četvrti s tradicionalnim kućama, i posjećujemo kuću obitelji **Choi**, jedne od najpoznatijih imućnih obitelji Gyeongjua, povezane s dugom tradicijom lokalnog ugleda, učenja i filantropije. U sumrak odlazimo do **Donggung Palacea i ribnjaka Wolji**, poznatog i pod starim nazivom Anapji. Osvijetljeni paviljoni i njihovi odrazi u vodi jedan su od najljepših prizora u gradu. Nakon toga prelazimo drveni most **Woljeonggyo**, čija se tradicionalna arhitektura posebno ističe noću. Večer završavamo na **noćnoj tržnici**, uz pladanj različitih lokalnih zalogaja i pivo pokraj vatre.
+**Nedjelja, 25. 10. · Gyeongju — selo koje živi i blaga Silla** — Dan počinjemo doručkom u **uličici s bifeima na tržnici Seongdong**, gdje se za oko 8.000 ₩ bira među tridesetak domaćih jela. To je prilika za pravi korejski doručak, s mnogo malih priloga i nekoliko različitih okusa. Ujutro odlazimo u **Yangdong**, UNESCO-ovo selo u kojem se i danas živi. Tradicionalne kuće, dvorišta i položaj naselja na brežuljcima pružaju dojam kako je izgledao život u korejskom plemićkom selu prije nekoliko stoljeća. Poslijepodne unajmljujemo bicikle i istražujemo mirniju, istočnu stranu Gyeongjua. Ondje tražimo ostatke mjesta na kojem je nekoć stajala pagoda visoka oko 80 metara te kamenu pagodu od kamenih opeka iz 634. godine. Usput zastajemo kod polja ružičaste trave (*pink muhly*) uz zvjezdarnicu Cheomseongdae. Nastavljamo do **Nacionalnog muzeja Gyeongjua**, gdje su izloženi izvanredni arheološki nalazi kraljevstva Silla, uključujući poznate zlatne krune. One pokazuju koliko je bogato i umjetnički razvijeno bilo kraljevstvo prije više od tisuću godina. Navečer kušamo **ssambap** s bulgogijem, obrok u kojem se meso i prilozi zamataju u listove salate ili drugog povrća. Nakon večere slijedi pogled na osvijetljeni humak **Bonghwangdae** i kušanje rižina vina povezanog s obitelji Choi.
+**Ponedjeljak, 26. 10. · Gyeongju — hramovi i budistička umjetnost** — Ujutro odlazimo u **hram Bulguksa**, s ciljem dolaska na otvaranje u 09:00. Posebno se veselimo stazama kroz crvene javorove, koji krajem listopada mogu biti u prekrasnim jesenskim bojama. ⏰ **Točno u 10:00 otvaraju se online rezervacije za Tajni vrt (Changdeokgung, Seoul) za nedjelju 1. 11.** — termini se otvaraju 6 dana unaprijed i u jesen nestanu u minutama. Alarm na mobitelu, dvoje pokušava paralelno na ticket.cdg.go.kr, iz Bulgukse. *(Rezerva: blagajna 1. 11. od 09:00.)* Nakon Bulgukse nastavljamo prema **Seokguramu**, špiljskom svetištu s monumentalnim granitnim Budom iz 8. stoljeća. Povratak planiramo šumskom stazom, ako stanje koljena i umor to dopuste. Popodne istražujemo niže dijelove planine **Namsan**, područja poznatog po ostacima budističkih hramova, kamenim kipovima i reljefima. Šetnja kroz borovu šumu vodi nas do kraljevskih grobnica i mjesta sa **šest Buda uklesanih u stijenu**. Za posljednju večer u Gyeongjuu biramo **Jeongsugaseong**, svečanu korejsku večeru sa slavnom sušenom ribom *gulbi*, pirjanim rebrima i rižom kuhanom u listu lotosa. (Plemićka kuhinja u **Yosukgungu 1779** ostaje samo kao malo vjerojatna opcija, ako uspijemo rezervirati stol sa stolicama.) Navečer odlučujemo hoćemo li sutra hodati cijelu stazu Igidae, prema tome kako se osjeća koljeno.
+**Utorak, 27. 10. · Gyeongju → Busan — litice, plaža, most i jahta** — Ujutro putujemo KTX-om prema **Busanu**, vožnja traje oko pola sata. Kofere ostavljamo u ormarićima na kolodvoru i odmah krećemo. Za prvi obrok biramo **dwaeji gukbap**, tradicionalnu juhu od svinjetine i riže, jedno od zaštitnih jela Busana, u lokalu preporučenom u Michelinovu vodiču. Potom odlazimo na **Oryukdo Skywalk**, staklenu platformu 37 metara iznad mora, a odande hodamo **cijelom obalnom stazom Igidae**: 4,7 kilometara uz litice, viseće mostove i morske špilje, s puno strmih stepenica. ⚠️ Večer prije odlučujemo prema Lucijinu koljenu; ako boli, hodamo samo kratki, ravni sjeverni dio staze. Sa kraja staze idemo ravno na **Gwangalli Beach**, gdje promatramo zalazak sunca i paljenje svjetala na mostu Gwangan. Zatim nas čeka **noćna vožnja jahtom** ispod osvijetljenog mosta, uz mali vatromet na brodu. Dan završavamo večerom uz plažu i pivom u **Galmegi Brewingu**, poznatoj lokalnoj craft pivovari.
+**Srijeda, 28. 10. · Busan — Blueline Park, hram na stijenama i šareno selo** — Nakon normalnog doručka u kafiću odlazimo na istočnu obalu, na Haeundae. Ondje je **Blueline Park**, stara obalna pruga tik uz more, a odmah do njega **Haedong Yonggungsa**, jednog od rijetkih korejskih hramova smještenih na stijenama uz samo more. Nakon ručka vraćamo se prema centru i odlazimo u **Gamcheon Culture Village**, selo iz doba rata s pastelnim kućicama na terasama brda: prolazimo samo glavnu, ravniju gornju ulicu i jedan vidikovac. Zalazak gledamo s vidikovca nad lukom na vrhu **168 stepenica**, do kojeg vozi besplatno koso dizalo. Za večeru biramo **Dongnae pajeon**, debelu, mekanu palačinku s mladim lukom i plodovima mora, a dan završavamo noćnim pogledom na cijeli Busan i most Gwangan s brda **Hwangnyeongsan**.
+**Četvrtak, 29. 10. · Busan → Seoul — pekara, slap i escape room** — Rano ujutro putujemo KTX-om prema Seoulu, uz stanku u **Daejeonu** radi doručka u legendarnoj pekarnici **Sungsimdang**. Po dolasku u Seoul ostavljamo kofere u smještaju u **Yeonnam-dongu** i odlazimo na kavu u **Cafe Pokpo**, kafić s terasom ispred umjetnog slapa usred grada. Poslijepodne posvećujemo jednom satu u palači **Gyeongbokgung**, a zatim kratkoj šetnji kroz **Seochon**, mirniju četvrt s tradicionalnim kućama, galerijama i malim kafićima. Navečer nas čeka korejski roštilj u restoranu **Yukmong**. Nakon večere slijedi 🔒 **escape room avantura na engleskom jeziku**, otprilike deset minuta od kuće. Dan završavamo u Hongdaeu, uz pub crawl i karaoke (*noraebang*) na putu kući.
+**Petak, 30. 10. · Suwon — tvrđava, streličarstvo i galbi** — Ujutro vlakom ITX za pola sata putujemo do **Suwona** i **tvrđave Hwaseong**, UNESCO-ova kompleksa zidina, vrata i tornjeva iz 18. stoljeća. Obilazak počinjemo kod kraljevske palače **Hwaseong Haenggung** i borilačkog nastupa u 11:00, a za ručak jedemo poznatu suwonšku prženu piletinu iz velikih kotlova. Poslijepodne obilazimo ravniji, sjeverni i istočni dio zidina, uz **tradicionalno korejsko streličarstvo** i turistički vlakić. Navečer jedemo **Suwon galbi**, goveđa rebarca u gradu gdje je jelo i nastalo, a ako ne puše, dižemo se balonom **Flying Suwon** iznad osvijetljene tvrđave. **Plan B:** ako smo umorni ili je vjetar, vraćamo se u Seoul oko 15:30 i navečer idemo do rijeke Han na **ramyeon** i **dugu fontanu na mostu Banpo**. *(Hwadam, botanički vrt koji su predložili Goran i Lucija, izbačen je: stane samo umjesto Suwona, traži ~4,5 h busa za ~3 h vrta, a jesenskog lišća već imamo dosta, uključujući Tajni vrt dva dana kasnije.)*
+**Subota, 31. 10. · Seoul — Seongsu, rijeka Han, spa i Halloween** — Dan počinjemo doručkom s *French toastom* u našem kvartu, a zatim odlazimo u **Seongsu**, nekadašnju industrijsku četvrt poznatu po kafićima u preuređenim skladištima i kreativnim prostorima, te u veliki park **Seoul Forest**. Za ručak biramo **gamjatang**, bogato varivo od svinjskih kostiju i krumpira. Zatim uzimamo gradske bicikle i vozimo se **ravnom stazom uz rijeku Han**, uz kratki piknik na travi. Poslijepodne se vraćamo u Hongdae na **spa za sve četvero**: korejski *head spa*, masažu ili tretman lica. Navečer idemo u **Sindang**, četvrt poznatu po *tteokbokkiju* koji se kuha u loncu na stolu, i na koktel u **Zoo Sindang**, skriveni bar s akvarijem na stropu. Potom odlazimo do rijeke Han na **besplatni drone show** u parku Ttukseom (otkazuje se po kiši i vjetru). Večer završavamo na **Halloweenu u Hongdaeu**, uz kostime, glazbu i živu atmosferu na ulicama, pješice do smještaja.
+**Nedjelja, 1. 11. · Seoul — javori, palača i posljednja večer** — Dan počinjemo posjetom 🔒 **palači Changdeokgung i Tajnom vrtu**, jednom od najljepših mjesta za jesenske boje u Seoulu. Krajem listopada i početkom studenoga javori često su u vrhuncu jesenske ljepote, iako stvarno stanje ovisi o vremenu te godine. Termin ovisi o rezervaciji napravljenoj 26. 10.; ako online nije uspjelo, blagajna otvara u 09:00 i treba doći ranije. Odmah nakon vrta svraćamo u **Cheongsudang**, kafić u tradicionalnoj kući s jezercem, bambusom i lampionima, poznat po desertima. Za ručak biramo **juhu od volovskih kostiju**, poznatu kao *seolleongtang*, u restoranu s tradicijom koja seže do 1904. godine. Poslijepodne slijedi lagana šetnja **podno planine Inwangsan**, ravnijom stazom od doline Suseong-dong do vidikovca s pogledom na palaču i grad, uz zalazak sunca. Za kraj dana pijemo koktel u **Bar Chamu**, baru u tradicionalnoj kući, a posljednju večeru jedemo uz **korejski roštilj blizu kuće**. Nakon večere slijedi pakiranje i priprema za rano jutarnje putovanje prema aerodromu.
 **Ponedjeljak, 2. 11. · Seoul → Incheon (ICN) — povratak kući** — Ustajanje u 06:30. S koferima pješice odlazimo do stanice **Hongik University**, odakle planiramo sjesti na **AREX All-Stop Train** prema zračnoj luci Incheon, terminalu 2. Vožnja traje približno 56 minuta, a vlak staje na više stanica. Nakon dolaska slijede prijava na let, predaja prtljage i sigurnosna kontrola. Ako ostane vremena, možemo pojesti posljednji korejski doručak u prostoru iza sigurnosne kontrole. **Let KE937 polijeće u 11:55.** Rezervna opcija je unaprijed naručeni veliki taksi (*jumbo taxi*), koji treba rezervirati večer prije ako procijenimo da će prtljaga ili jutarnji raspored otežati odlazak javnim prijevozom.
 **Važne napomene prije putovanja**
-- **Rezervacije:** Tajni vrt u Changdeokgungu (otvara se 26. 10. u 10:00), Yosukgung 1779, escape room na engleskom i aktivnosti poput balona Flying Suwon ili žičare u Seoraksanu mogu zahtijevati rezervaciju ili ovise o vremenskim uvjetima. *(Detalji u Dodatku A.)*
+- **Rezervacije:** Sky Capsule u Busanu (online rasprodan, pratiti otkazivanja do ~27.10.), spa THE SEOL:HA za 31.10., Tajni vrt u Changdeokgungu (otvara se 26. 10. u 10:00), escape room (otvara se u ponoć 23./24.10., alarm u Sokchu), a aktivnosti poput balona Flying Suwon, jahte u Busanu ili žičare u Seoraksanu ovise o vremenskim uvjetima. *(Detalji u Dodatku A.)*
 - **Seoraksan:** uspon na Ulsanbawi zahtjevan je i uključuje velik broj stepenica. Žičara i planinarske staze imaju različite režime rada, a vrijeme u planinama može se brzo promijeniti.
 - **Prijevoz Sokcho – Gyeongju:** kombinaciju autobusa do Gangneunga i izravnog vlaka uz obalu treba potvrditi prema voznom redu za 24. listopada 2026.
 - **Drone show i Halloween:** provjeriti službene rasporede događanja za 2026. godinu.
@@ -65,24 +65,25 @@ Grad svjetske klase koji većina itinerara podcjenjuje: palače, tržnice, plani
 | ~14:15 | **AREX express** od T2 do Seoul Stationa, 51 min, ~11 500–13 000 ₩. U vagonima su police za kofere. |
 | ~15:30 | AREX je na katu B7 Seoul Stationa, pa do ulice treba 20–30 min. Odatle **dva taksija** do apartmana, ~15–20 min. |
 | 16:00 | **Check-in** u Chungsin-dongu, tuš i kratki odmor. |
-| 17:30 | Pješice do **Gwangjang tržnice**, 12–15 min. Bindaetteok, kalguksu i mayak kimbap; na štandovima treba gotovina. |
-| 19:00 | **Rođendanska večer:** screen golf (9 rupa) ili screen baseball. |
-| 21:00 | **Nogari Alley** na Euljiru 3-ga: Eulji OB Bear (zatvara u 23:00) ili Manseon Hof. |
-| 23:00 | **Ace Four Club**, retro bar u staroj čajani, otvoren do 01:00. |
+| ✅ večer | **Odrađeno drukčije, u Hongdaeu:** 🔥 korejski roštilj → šetnja Hongdaeom → fluffy pancakes → 🏹 streličarstvo i pucanje → 🍸 kokteli. |
+| ➡️ | **Gwangjang, Nogari Alley i Ace Four Club** prebačeni na uto 20.10. navečer. **Pravi batting cage** prebačen u Hongdae (29.10.). |
 
-### Uto 20.10. — Puni dan
+### Uto 20.10. — Puni dan (A/B, odluka na licu mjesta)
 
-| | |
-|---|---|
-| 08:30 | **Gradski zid na Naksanu**, odmah iza apartmana, ~45 min. Ako se ujutro ne stigne, ide navečer jer je osvijetljen. |
-| 09:30 | **Jogyesa**, budistički hram u centru. Festival krizantema traje od početka listopada do sredine studenog. |
-| 10:15 | **Bukchon**, ali tek **poslije 10:00** jer je prije toga zabranjen ulaz. Prolaz od 30–45 min. |
-| 11:15 | **Tongin tržnica:** za 10 000 ₩ dobije se 20 mjedenih novčića kojima se puni pladanj po štandovima. Plan B je **Hwangsaengga kalguksu** odmah uz Bukchon. |
-| 13:15 | **Nacionalni muzej Koreje**, besplatan. Zlato kraljevstva Silla vidimo *prije* Gyeongjua. Ostajemo do ~15:30. |
-| 16:30 | **Seoul Sky.** Ulaz rezervirati za 16:30–17:00, zalazak je oko 17:45. |
-| 19:15 | **Deoksugung i Doldam-gil** noću, zadnji ulaz u 20:00. Ovaj termin može zamijeniti i izlazak, još nije odlučeno. |
-| 20:15 | **Myeongdong Kyoja:** kalguksu i mandu. Plan B je gamjatang u **Dongwonjipu**. |
-| 21:30 | **Barovi na Euljiru** iza neoznačenih vrata. |
+Fiksno: **Seoul Sky u 16:30** i **Gwangjang do 20:00** (tada zatvara mayak kimbap). Ostalo se bira na licu mjesta.
+
+| Kad | 🅰️ | 🅱️ |
+|---|---|---|
+| **Jutro** 09:30–11:45 | 10:15 **Jogyesa** (krizanteme), 10:50 **Bukchon** (tek poslije 10:00). *Bonus:* Naksan u 08:30 ako smo rani | Duže spavanje, doručak u kafiću, ~11:00 samo **Jogyesa** |
+| **Ručak** ~11:45–13:00 | **Tongin tržnica**, novčići (utorkom 11–16, novčići do 15:00) | **Hwangsaengga kalguksu** kod Bukchona (red 20–40 min), da ne bude dvije tržnice u danu |
+| **Popodne** 13:00–15:45 | **Nacionalni muzej Koreje** (taksi ~25 min), zlato Sille, besplatno | ~1 h odmora i **pakiranje** u stanu, pa **Namdaemun** (naočale) ili **DDP** |
+| ⚠️ 15:45 | Prema Jamsilu, taksi ~35 min | isto |
+| **Zalazak** 16:30–18:15 | 🏙️ **Seoul Sky** (fiksno), zalazak ~17:45 | Samo ako je magla: Seoul Sky se seli na 1.11., a umjesto njega Naksan u sumrak ili ranije Gwangjang |
+| **Večera** ~19:00–20:45 | 🏮 **Gwangjang** (L2 do Euljiro 4-ga ~30 min): mayak kimbap prvo (**do 20:00**), bindaetteok (do 21:00), kalguksu. Gotovina | **Jin Ok-hwa dakhanmari** kod Dongdaemuna, cijela piletina na stolu (ako kasnimo poslije 20:00) |
+| **Noć** 21:00–~00:30 | 🍺 **Nogari Alley** (OB Bear do 23:00), pa 23:00 **Ace Four Club** (do 01:00) | **Pojangmacha šatori na Jongnu 3-ga** (do 03:00), pa **noraebang** |
+| ⚠️ | **U krevet do ~01:00.** Sutra u 08:00 taksiji za bus u Sokcho. **Kofere spakirati prije večernjeg izlaska** | |
+
+❌ Danas otpadaju **Deoksugung** (ne stane uz Gwangjang) i **roštilj na Euljiru** (roštilj je bio 19.10. u Hongdaeu).
 
 ---
 
@@ -113,8 +114,8 @@ Sokcho nije samo spavaonica za planinu nego mali obalni grad s vlastitom hranom,
 | 12:45 | Ručak u **Sadonjibu**: mulgomtang, blagi gulaš od ribe eelpout. Radi samo do 15:00, četvrtkom zatvoreno. |
 | 14:15 | **Brodogradilište Chilsung**, kafić u brodogradilištu iz 1952. |
 | 15:00 | **Abai Village**, ručno vučena skela i ojingeo-sundae kao užina. |
-| 16:30 | **Središnja tržnica:** sulbbang i dakgangjeong u kutiji. Štandovi se gase oko 19:30. |
-| 18:30 | **88 Saengseon-gui**, miješana riba na žaru za stolom. |
+| 16:30 | **Središnja tržnica**, kratko (30–45 min): sulbbang i dakgangjeong u kutiji. |
+| 18:30 | **88 Saengseon-gui**, miješana riba na žaru za stolom. (🅱️ BBQ slot više ne treba: roštilj je bio 19.10. u Hongdaeu.) |
 | 20:00 | **Šatori uz more u Yeongrang-dongu**, jedno ili dva pića. U hotel do 22:30, sutra ustajemo u 06:30. |
 
 ### Čet 22.10. — Planinski dan
@@ -128,8 +129,8 @@ Sokcho nije samo spavaonica za planinu nego mali obalni grad s vlastitom hranom,
 | 08:00 | **Ulsanbawi:** 7,6–8,8 km, **3,5–5 h**, čelične stepenice na vrhu. Štapovi za Luciju. |
 | ~13:00 | **Žičara na Gwongeumseong** u terminu s karte. Ako je rasprodano ili puše, preskačemo. |
 | ~13:30 | **Montbeer:** ručak (pizza, kobasice, piletina) ili samo pivo s pogledom na Ulsanbawi, ovisno o vremenu. |
-| ~14:30 | **Seorak Waterpia, Spa Valley**, 18 vanjskih termalnih bazena, treba kupaći. **Ili** odmor u hotelu. |
-| 19:00 | 💸 **Gozba od crvenih rakova** u Yes Su-sanu na središnjoj tržnici, sjedeći. |
+| ~14:30 | ♨️ **Seorak Waterpia, Spa Valley** (glavni izbor), 18 vanjskih termalnih bazena, treba kupaći. |
+| 19:00 | 💸 **Gozba od crvenih rakova** u Yes Su-sanu na središnjoj tržnici, sjedeći. (Originalna ideja bila je snow crab, ali u listopadu je pod zabranom izlova.) |
 | 21:00 | **Freezer Club / Dalbit Yajang**, noćni food court u starom hladnjaku za ribu. |
 
 ### Pet 23.10. — Blaži dan, grad i obala
@@ -142,9 +143,10 @@ Sokcho nije samo spavaonica za planinu nego mali obalni grad s vlastitom hranom,
 | 15:30 | **Jezero Cheongcho:** besplatna izložba krizantema i Expo toranj. |
 | 16:30 | **Plaža Sokcho i staza Oeongchi**, drvena staza uz stijene i more, 1,7 km. Na plaži je panoramski kotač Sokcho Eye. |
 | 18:00 | **Craftroot**, craft pivo. Ili Montbeer, ako u četvrtak nije uspio. |
-| 🅱️ | **Plan B za popodne: 💸 Sono Calm Delpino**, termalni bazen na 11. katu s pogledom na Ulsanbawi. Samo za odrasle, treba kupaći i kapa, ~40–50 000 ₩, petkom do 19:00. Ide ako u četvrtak nije bilo Waterpije ili ako ekipa ipak želi bazen. |
+| ⚠️ | **Samo ako Waterpia u četvrtak propadne: Sono Calm Delpino**, termalni bazen na 11. katu s pogledom na Ulsanbawi, 19+, ~40–50 000 ₩, petkom do 19:00. |
 | 19:30 | **Dalbit Yajang i Freezer Club**, noćni food court u staroj ribljoj hladnjači. **Ili** 🍗 piknik s dakgangjeongom na plaži ili u hotelu. **Ili** 🥩 korejski roštilj (samgyeopsal, dwaeji galbi). |
 | 22:00 | U hotel. **U subotu rano ustajemo.** |
+| **23:59** | ⏰ 🔐 **Alarm: booking escape rooma za čet 29.10.** Otvara se u ponoć (5 dana unaprijed). Rezervirati 20:00 i poslati zahtjev za engleski. |
 
 ---
 
@@ -161,13 +163,14 @@ Prijestolnica kraljevstva Silla, koje je vladalo gotovo tisuću godina. Cijeli g
 
 | | |
 |---|---|
+| ⏰ | **Prvo:** ako sinoć u ponoć nije rezerviran escape room za 29.10., rezervirati odmah. |
 | 06:35 | Pješice s koferima 670 m do Sokcho Express terminala. Rezerva je taksi ravno do stanice Gangneung oko 08:15, vidi Dio 3. |
 | 06:55 | Bus Sokcho → Gangneung, ~1 h, 10 800 ₩. |
 | ~08:00 | Dva taksija do KTX stanice Gangneung. Doručak na stanici, u kafiću ili trgovini. |
 | 09:36 | 🚄 **KTX-Eum 752 → Gyeongju 12:30**, 34 300 ₩. |
 | 12:30 | **GJS kombi** ili dva taksija do Airbnba, ~20 min. Kofere ostavljamo, check-in je od 16:00. |
 | 13:30 | Ručak u **Sukyoung Sikdangu:** bibimbap s ječmom, riba, doenjang-jjigae. |
-| 14:30 | **Daereungwon** (besplatno) i ulaz u humak **Cheonmachong** (3 000 ₩), zatim **Gyochon** i **kuća obitelji Choi**. Kuća je otvorena *samo danas*, u ponedjeljak je zatvorena. |
+| 14:30 | **Daereungwon** (besplatno) i ulaz u humak **Cheonmachong** (3 000 ₩), ☕ usput **Hwangnam-ppang** (topla lepinja s crvenim grahom), zatim **Gyochon** i **kuća obitelji Choi**. Kuća je otvorena *samo danas*, u ponedjeljak je zatvorena. |
 | 17:00 | Odmor u Airbnbu. |
 | 18:15 | **Anapji** u sumrak (3 000 ₩, QR karta), pa osvijetljeni **Cheomseongdae** i **most Woljeonggyo**, koji svijetli do 23:00. |
 | 20:00 | 🍢 **Noćna tržnica Jungang:** pladanj s četiri pregrade, štandovi i stolovi pod krovom. **Ili** **Dosol Maeul**, set od ~15 kuhanih jela uz rezervaciju; u tom slučaju večera je u 17:30, a Anapji poslije. |
@@ -178,16 +181,16 @@ Prijestolnica kraljevstva Silla, koje je vladalo gotovo tisuću godina. Cijeli g
 | | |
 |---|---|
 | 07:45 | Doručak u **bife-uličici tržnice Seongdong:** više od 30 kuhanih domaćih jela, neograničena riža, ~8–9 000 ₩. |
-| 08:30 | Dva taksija do Yangdonga, ~20–25 min i 22–28 000 ₩ po autu. Rezerva je bus 203. |
+| 08:30 | **Jedan taksi** do Yangdonga, ~20–25 min, 22–28 000 ₩. Rezerva je bus 203. |
 | 09:00 | **Yangdong Folk Village**, UNESCO-ovo selo dvaju klanova u kojem ljudi stvarno žive, 4 000 ₩. Štapovi za rampe. |
 | 12:00 | Ručak u selu, **Yangdong Sikdang:** kalguksu, gamjajeon, bibimbap od divljeg bilja. |
-| 13:30 | 🚲 **Bicikli po istočnoj strani:** Gyerim, danju Woljeonggyo, **Nacionalni muzej** (zlatne krune, zvono Emille, nedjeljom do 19:00), **polje Hwangnyongsa** s maketama pagode i **Bunhwangsa**. Po kiši samo muzej. |
+| 13:30 | 🚲 **Bicikli po istočnoj strani:** Gyerim, danju Woljeonggyo, 🌸 **pink muhly uz Cheomseongdae** (15 min), **Nacionalni muzej** (zlatne krune, zvono Emille, nedjeljom do 19:00), **polje Hwangnyongsa** s maketama pagode i **Bunhwangsa**. Po kiši samo muzej. |
 | 17:30 | Bicikli natrag, odmor. |
 | 19:00 | **Byeolchaeban**, ssambap: bulgogi i riža u listovima salate, ~20 priloga. **Ili** **Dosol Maeul** uz rezervaciju. Ako je Dosol bio u subotu, onda noćna tržnica. |
 | 20:30 | **Bonghwangdae**, osvijetljeni humak s drvećem na vrhu, 5 min od Airbnba. |
 | 21:00 | **Bar Boon / Hwangnam Geobuk**, ako nije bilo u subotu. **Ili** Gyodong Beopju u Airbnbu. |
 
-### Pon 26.10. — Hramovi, Namsan i plemićka večera
+### Pon 26.10. — Hramovi, Namsan i svečana večera
 
 | | |
 |---|---|
@@ -198,8 +201,9 @@ Prijestolnica kraljevstva Silla, koje je vladalo gotovo tisuću godina. Cijeli g
 | 12:45 | Ručak u **Busan Sikdangu** ispod Bulgukse: set s varivom od soje i prsa, tteokgalbi, pečena riba, ~15 000 ₩. |
 | 14:15 | Taksi (~20 min) do **Samneunga**, pa **niži Namsan:** borova šuma, tri kraljevske grobnice, Buda bez glave, **šest Buda uklesanih u stijenu**, i natrag. 2,4 km, 60–75 min. |
 | 16:00 | *Opcija:* **Seochulji**, jezerce s lotosima i paviljonom iz 17. st., 12 min. |
-| 19:00 | 💸 **Yosukgung 1779**, plemićka kuhinja u imanju obitelji Choi, ~70–120 000 ₩ po osobi, **rezervacija**. Plan B je Jeongsugaseong, 25–45 000 ₩. |
-| 21:00 | Most Woljeonggyo noću, 5 min od Yosukgunga, ili Bar Boon. Pakiranje za Busan. |
+| 19:00 | **Jeongsugaseong**: gulbi, galbijjim, riža u listu lotosa, 25–45 000 ₩. ⚠️ Yosukgung 1779 (plemićka kuhinja, 70–120 000 ₩) samo ako uspije rezervacija sa stolicama. |
+| 21:00 | Most Woljeonggyo noću ili Bar Boon. Pakiranje za Busan. |
+| 🦵 | **Odluka o Igidaeu za sutra**, prema koljenu: cijela staza · Plan B sjeverni kraj · Plan C samo Skywalk. |
 
 ---
 
@@ -208,36 +212,40 @@ Taksi do stanice Gyeongju traje ~20 min, a KTX vozi do **Busan Stationa, odakle 
 
 ## 🌊 BUSAN
 
-Radni lučki grad: prava obala, ribarnica u kojoj se bira živa riba, šetnja po litici nad morem i hrana koja postoji samo ovdje: dwaeji gukbap, milmyeon, ssiat hotteok, Dongnae pajeon. Više je noćni nego dnevni grad, a vrhunac je Gwangalli s osvijetljenim mostom.
+Radni lučki grad: prava obala, vlakići i hram uz more, šarena sela na brdima, šetnja po litici nad morem i hrana koja postoji samo ovdje: dwaeji gukbap, milmyeon, ssiat hotteok, Dongnae pajeon. Više je noćni nego dnevni grad, a vrhunac je Gwangalli s osvijetljenim mostom.
 
 **Temperature:** 19–21 °C danju, 11–13 °C noću, najblaže na cijelom putovanju.
 
-### Uto 27.10. — Skywalk, Igidae i Gwangalli noću
+### Uto 27.10. — Skywalk, Igidae, Gwangalli i noćna jahta
 
 | | |
 |---|---|
 | 09:15 | Check-out, dva taksija do stanice Gyeongju, ~20 min. |
-| ~10:00 | **KTX do Busan Stationa**, ~30 min. Kofere u ormariće na stanici ili kod hosta, check-in je u 16:00. |
-| 11:45 | Taksi do Oryukdoa, pa ručak u **Hapcheon Gukbapjipu:** dwaeji gukbap, Michelin Bib Gourmand, ~13 000 ₩. |
+| ~10:00 | **KTX do Busan Stationa**, ~30 min. Kofere u ormariće na stanici (24 h) ili kod hosta, check-in tek navečer. |
+| 11:45 | Jedan taksi do Oryukdoa, pa ručak u **Hapcheon Gukbapjipu:** dwaeji gukbap, Michelin Bib Gourmand, ~13 000 ₩. |
 | 13:00 | **Oryukdo Skywalk**, stakleni pod 37 m nad morem, besplatno. Zatvara se po kiši i vjetru. |
-| 13:45 | Taksi do **Dongsaengmala**, pa **sjeverni kraj Igidaea:** ~1 km drvene staze, mali viseći most, pogled na most Gwangan. Ako je koljeno super, cijela staza od 4,7 km. |
-| 15:30 | Natrag u hotel, check-in od 16:00, odmor. |
-| 17:00 | Taksi do **Gwangallija**, ~25 min. Zalazak je oko 17:35, tada se pale i svjetla na mostu. |
-| 18:30 | Večera uz plažu (kuhano: školjke na roštilju, BBQ), pa **Galmegi Brewing**. |
-| 22:30 | **Subyeon Choego gukbap** u Millaku, radi gotovo 24 h, pa taksi natrag. |
+| 13:30 | ⚠️ **Cijeli Igidae** (4,7 km, 2,5–3 h, 70+ strmih stubišta, bez izlaza) od Skywalka prema sjeveru do Dongsaengmala. **Plan B** (odluka sinoć, prema koljenu): taksi do Dongsaengmala i samo ~1 km sjevernog kraja. **Plan C:** samo Skywalk. |
+| ~16:30 | Taksi ~10 min ravno na **Gwangalli**, bez povratka u hotel. Kava na plaži. |
+| 17:00 | **Gwangalli:** zalazak oko 17:35, pale se svjetla na mostu. |
+| 18:30 | 🛥️ **Noćna jahta** iz Suyeong Yachting Centera: 45 min ispod osvijetljenog mosta Gwangan, vatromet na brodu, ~19 $. |
+| 19:45 | Večera uz plažu (kuhano: školjke na roštilju), pa **Galmegi Brewing**. |
+| ~22:30 | Taksi u hotel, koferi iz ormarića, check-in. |
 
-### Sri 28.10. — Tržnice, selo na litici i busanska hrana
+### Sri 28.10. — Hram na moru, Blueline Park ili šuma, Gamcheon i noćni Busan
 
 | | |
 |---|---|
-| 08:30 | Metro L1 do Jagalchija, tri stanice. **Jagalchi:** doručak u **uličici pečene ribe** (skuša, hairtail, iverak s rižom, ~10–15 000 ₩), pa šetnja dvoranom. |
-| 10:00 | **BIFF trg:** ssiat hotteok, palačinka sa sjemenkama izmišljena ovdje. Zatim **tržnica Gukje**. |
-| 11:30 | Ručak: **Gaemijip nakgopsae** (hobotnica, goveđa crijeva i škampi, kuha se na stolu) **ili** **Halmae yubu jeongol** (tofu-vrećice s rezancima u juhi, radi 10–18 h). |
-| 13:00 | Bus **7 / 71 / 508** do **Huinnyeoula:** gornja staza uz liticu, kafići, pogled na brodove. Strme stepenice prema dolje preskačemo. |
-| 15:30 | Hotel i odmor. Ili Pomorski muzej, besplatan. |
-| 17:00 | **168 stepenica:** besplatno koso dizalo do vidikovca nad lukom, zalazak oko 17:30. Deset minuta od hotela. |
-| 19:00 | **Naengchae jokbal** (hladne svinjske nogice s meduzom i senfom) u uličici Bupyeong, pa **noćna tržnica Kkangtong** (19:30–23:30). **Ili** **Dongnae Halmae Pajeon**, gusti meki pajeon s plodovima mora; metroom ~30 min, doći do 19:30. |
-| 22:00 | Piće u Nampu ili rano spavanje, sutra ujutro KTX. |
+| 08:30 | Doručak u kafiću ili pekari blizu hotela, bez ribe. *(Ako ide 🅰️ Sky Capsule: doručak u 07:45.)* |
+| 09:00 | Jedan taksi (~40–45 min) do **Haedong Yonggungse**. *(🅰️: taksi u 08:20 do Mipoa, kapsula prvo, hram poslije.)* |
+| 09:45 | **Haedong Yonggungsa** dok je još mirno: hram na stijenama uz more, besplatno, 108 stepenica. |
+| 11:15 | ❓ **Tri ravnopravne opcije:** 🅰️ 🚡 **Sky Capsule** (ako dobijemo karte; tada ide prva, ~09:00) · 🅱️ 🏖️ **plaža Songjeong i kafić uz more** · 🅲 🎋 **šuma Ahopsan** (bambus i stari borovi, ravno, ~5 €). |
+| 12:30 | Ručak u **Gijangu** (ribarsko mjestašce uz hram): po želji **jegulja pečena na slami** (gomjangeo), ili obična kuhinja. |
+| 14:15 | Taksi natrag (~45 min), kratko u hotel. |
+| 15:30 | 🎨 **Gamcheon lite**: taksi ~20 min do gornjeg ulaza, samo glavna ulica i jedan vidikovac, bez Malog princa. 🅱️ Fallback 1: Gamcheon do kraja (do ~18:00). 🅱️ Fallback 2: Huinnyeoul (koljeno, kiša). |
+| 16:50 | Taksi ~20 min do **168 stepenica**: koso dizalo do vidikovca nad lukom, zalazak ~17:35. 10 min od hotela. |
+| 19:00 | Večera: **Dongnae pajeon** (debela palačinka s plodovima mora, doći do 19:30). ⚠️ Ili dwaeji galbi BBQ, ili naengchae jokbal. |
+| 20:30 | 🌃 **Hwangnyeongsan**: noćni pogled na cijeli Busan i most Gwangan, taksi + 10 min uzbrdo. Prvi rez ako smo umorni. |
+| ~21:45 | Hotel, pakiranje. Sutra ujutro KTX. |
 
 ---
 
@@ -248,20 +256,21 @@ Radni lučki grad: prava obala, ribarnica u kojoj se bira živa riba, šetnja po
 
 Gradski boravak: jedan dnevni izlet (Suwon) i tri seulska dana, uključujući obje velike palače.
 
-### Čet 29.10. — Kultna pekara, palača, Seochon i escape room
+### Čet 29.10. — Kultna pekara, kafić sa slapom, palača i escape room
 
 | | |
 |---|---|
-| 07:30 | Doručak u **Samjin Eomuku** na Busan Stationu, riblji kolači od 1953. |
+| 07:30 | Kava na Busan Stationu. Pravi doručak je Sungsimdang. |
 | ~08:00 | KTX do **Daejeona**, ~1h40. Stanka je opcionalna: ako smo umorni ili nismo gladni, direktni KTX u Seoul. |
 | ~09:40 | **Sungsimdang** na stanici Daejeon, 2. kat: **twigim soboro**, pržena lepinja s mrvicama i crvenim grahom. Dvoje stoji u redu, dvoje čuva kofere. |
 | ~10:40 | KTX do **Seoul Stationa, dolazak ~11:40**, pa AREX ili dva taksija do Yeonnam-donga. Kofere ostavljamo, check-in je u 16:00. |
-| 13:30 | Taksi (~25 min) do **Gyeongbokgunga**, ~1 h: smjena straže u 14:00, prijestolna dvorana, paviljon na jezeru. 3 000 ₩. |
-| 15:00 | Izlaz na zapadna vrata u **Seochon:** knjižara Daeoh (hanok iz 1951.), gireum tteokbokki na Tonginu, uličice Ogin-donga. |
-| 17:15 | Taksi natrag, check-in, odmor. |
+| 12:45 | ☕ **Cafe Pokpo**: kafić s terasom ispred umjetnog slapa Hongje, 10–15 min taksijem od stana (slap teče u terminima). |
+| 14:00 | Taksi (~15 min) do **Gyeongbokgunga**, ~1 h: prijestolna dvorana, paviljon na jezeru (smjena straže u 14:00 ako stignemo). 3 000 ₩. |
+| 15:15 | Izlaz na zapadna vrata u **Seochon**, kratko (~45 min): knjižara Daeoh (hanok iz 1951.), jedna uličica Ogin-donga. |
+| 16:15 | Taksi natrag, check-in, odmor. |
 | 18:00 | **Yukmong**, korejski BBQ koji peče osoblje. Set od 550 g svinjetine 69 900 ₩, rezervacija. |
-| **20:00** | 🔒 **Escape room Deepthinker "Ongyi's Dream"**, na engleskom, bez horora, 10–15 min pješice. |
-| 21:30 | **Absolute pub crawl** (četvrtkom u Hongdaeu), coin noraebang ili barovi u Hongdaeu, 5 min do kreveta. |
+| **20:00** | 🔒 **Escape room Deepthinker "Ongyi's Dream"**, na engleskom, bez horora, 10–15 min pješice. Booking: ponoć 23./24.10. |
+| 21:30 | **Absolute pub crawl** (četvrtkom u Hongdaeu), **pa coin noraebang**, 5 min do kreveta. 🏏 **Hongdae batting cage** (pravi kavez, Seogyo-dong 360-15) poslije escape rooma ili prije noraebanga. Rezerva: 31.10. |
 
 ### Pet 30.10. — Suwon Hwaseong
 
@@ -272,39 +281,44 @@ Gradski boravak: jedan dnevni izlet (Suwon) i tri seulska dana, uključujući ob
 | 11:00 | **Muye 24-gi**, besplatni borilački nastup ispred palače. |
 | 12:00 | Ručak u **uličici pržene piletine** kod južnih vrata: cijela piletina iz željeznih kotlova, ~19 000 ₩. |
 | 13:00 | **Ravni zidovi na sjeveru i istoku:** Hwahongmun (vrata nad potokom), paviljon nad jezerom, **streličarstvo** u Yeonmudaeu (2 000 ₩ za 10 strijela) i **vlakić Hwaseong Eocha** (6 000 ₩) do Janganmuna. Paldalsan sa strmim stepenicama preskačemo zbog koljena. |
-| 15:30 | Kafić u uličicama Haenggung-donga, odmor. |
-| 18:00 | **Suwon galbi** u **Yeonpo Galbiju** uz Hwahongmun (~42 000 ₩ porcija), ili 💸 **Gabojung** (~71–79 000 ₩, rezervacija). |
+| 15:30 | Kafić u uličicama Haenggung-donga, odmor. Odluka: večer u Suwonu ili plan B. |
+| 18:00 | 🔥 **Suwon galbi** u **Yeonpo Galbiju** uz Hwahongmun (~42 000 ₩ porcija), ili 💸 **Gabojung** (~71–79 000 ₩, rezervacija). |
 | 19:15 | 🎈 **Flying Suwon**, balon na sajli 100–150 m nad osvijetljenom tvrđavom, 20 000 ₩, *samo ako ne puše*. Zatim **osvijetljeni zidovi** kod Hwahongmuna. |
 | ~20:30 | ITX natrag, doma oko 21:30. |
-| 🅱️ | **Plan B (vrlo moguć):** natrag u Seoul oko 15:30, odmor, pa **duga fontana Banpo** (jedna od zadnje dvije večeri sezone, 19:30–21:00) i **ramyeon uz rijeku Han**. Ide ako smo umorni, ako balon ne leti ili ako ekipa kaže da je Banpo obavezan. |
+| 🅱️ | **Plan B (vrlo moguć):** natrag u Seoul oko 15:30, odmor, pa **duga fontana Banpo** (jedna od zadnje dvije večeri sezone, 19:30–21:00) i **ramyeon uz rijeku Han**. |
 
-### Sub 31.10. — Seongsu, drone show i Noć vještica
+*Hwadam (botanički vrt) je izbačen, vidi Dodatak D.*
+
+### Sub 31.10. — Seongsu, bicikli uz Han, spa, drone show i Noć vještica
 
 | | |
 |---|---|
-| 10:00 | Linija 2 do **Seongsua**, ~35 min: stara tvornička četvrt, kafići u skladištima, postolarske radionice. |
-| 10:30 | **Seoul Forest:** ravni park, žuti ginkgi, jeleni, staklenik. |
-| 11:15 | Šetnja Seongsuom: ulica postolara i **Daelim Changgo**, skladište riže pretvoreno u galeriju i kafić. |
-| 11:45 | Ručak u **Somunnan gamjatangu:** ljuto varivo od svinjskih kostiju i krumpira, radi 24 h. ⚠️ Subotom je red 45–75 min, doći prije podneva. |
-| 13:30 | **Doma na odmor**, ~35 min vožnje. |
-| 17:30 | Linija 2 do **Sindanga**, ~30 min. |
+| 08:30 | ☕ **French toast** u Yeonnam-dongu (260-2 Yeonnam-dong, ❓ fali ime). |
+| 09:30 | Linija 2 do **Seongsua**, ~35 min: **Seoul Forest** (žuti ginkgi, jeleni), ulica postolara, **Daelim Changgo**. ⚠️ Opcija: kafić sa slasticama. |
+| 11:30 | Ručak u **Somunnan gamjatangu:** ljuto varivo od svinjskih kostiju i krumpira. ⚠️ Subotom red, doći do 11:30. |
+| 12:45 | 🚲 **Bicikli i piknik uz rijeku Han:** Ttareungi od Seoul Foresta po ravnoj stazi uz rijeku, ~1,5 h. |
+| 14:15 | Linija 2 doma, ~35 min. |
+| 15:00 | 💆 **Spa: THE SEOL:HA** u Hongdaeu, 10 min od stana: head spa, masaža ili tretman lica, ~2 h, za sve četvero. |
+| 17:15 | Linija 2 do **Sindanga**, ~30 min. |
 | 18:00 | Večera: **tteokbokki kod bake Mabongrim**, lonac na stolu s rižinim kolačićima, ramenom, manduom, ribljim kolačima i jajima u ljutom umaku. |
-| 19:15 | *Opcija:* koktel u **Jean Frigou**, ulaz kroz vrata hladnjaka u voćarni. |
-| 20:30 | 🚁 **Drone show u parku Ttukseom Hangang:** besplatno, 15 min, glazba od 19:30, ramyeon uz rijeku. Otkazuje se po kiši i vjetru. |
+| 19:15 | 🍸 **Zoo Sindang**: skriveni bar s akvarijem na stropu, kokteli po korejskom horoskopu. Prvi rez ako kasnimo. |
+| 20:30 | 🚁 **Drone show u parku Ttukseom Hangang:** besplatno, 15 min, glazba od 19:30. Otkazuje se po kiši i vjetru. |
 | 21:15 | Pješice do **Konkuk Univ.**, pa linija 2 direktno u Hongdae, ~35 min. |
 | 22:00 | 🎃 **Noć vještica u Hongdaeu:** ulice pune kostima, barovi i šatori, za klubove red od 1–2 h. Do kreveta 5–10 min. |
 | 🅱️ | **Plan B (kiša, umor, vjetar):** cijela večer u Hongdaeu. Večera blizu kuće (BBQ ili tržnica Mangwon), Noć vještica od ~20:00, **pub crawl** (subotom u Hongdaeu, 20:00–21:30). |
 
-### Ned 1.11. — Tajni vrt, Inwangsan i oproštajna večer
+### Ned 1.11. — Tajni vrt, Cheongsudang, Inwangsan, Bar Cham i zadnji BBQ
 
 | | |
 |---|---|
 | ~09:30 | 🔒 **Changdeokgung i Tajni vrt.** Termin ovisi o rezervaciji od 26.10. (engleski u 10:30 / 11:30 / 14:30 / 15:30). Ako online nije uspjelo, blagajna oko 08:30. |
-| ~12:30 | Ručak u **Imun Seolnongtangu:** mliječnobijela juha od volovskih kostiju s prsima, od 1904., 10 min od palače. |
-| 14:00 | Taksi u Seochon, pa **dolina Suseong-dong** i **ravna staza Inwangsan Jarak-gil** do vidikovca **Mumu-dae** (pogled na palaču i Plavu kuću) i do parka Sajik. Ukupno ~1,5 h. Vrh po stepenicama preskačemo zbog koljena. |
+| ~12:05 | ☕ **Cheongsudang**, Ikseon-dong, 10 min od palače: hanok kafić s jezercem, bambusom i lampionima, deserti. ⚠️ Nedjeljom red. |
+| ~13:00 | Ručak u **Imun Seolnongtangu:** mliječnobijela juha od volovskih kostiju s prsima, od 1904. |
+| 14:15 | Taksi u Seochon, pa **dolina Suseong-dong** i **ravna staza Inwangsan Jarak-gil** do vidikovca **Mumu-dae** (pogled na palaču i Plavu kuću) i do parka Sajik. Ukupno ~1,5 h. Vrh po stepenicama preskačemo zbog koljena. |
 | 16:00 | *Opcija:* **šamansko svetište Guksadang i stijene Seonbawi**, taksi oko brda i kratke stepenice. |
-| 17:30 | Zalazak s Inwangsana. *Ili* **Seoul Sky**, ako nije bio 20.10. |
-| 19:00 | **Zadnja večera, dvije ravnopravne opcije.** **A) Seochon:** **Tosokchon** (cijela mala piletina punjena rižom i ginsengom u juhi), pa **Bar Cham**, koktel-bar u hanoku. **B) Blizu kuće:** zadnji **korejski BBQ** ili restoran u Yeonnam-dongu, piće u Hongdaeu. |
+| 17:30 | Zalazak s Inwangsana. ⚠️ **Seoul Sky** samo ako nije bio 20.10. (tada Bar Cham otpada). |
+| 18:00 | 🍸 **Bar Cham**, koktel-bar u hanoku u Seochonu (Asia's 50 Best), na otvaranju, aperitiv. |
+| 19:30 | 🔥 **Zadnja večera: korejski BBQ** u Yeonnam-dongu (npr. Yukmong), 5 min do kreveta. |
 | 22:00 | Doma, **pakiranje**. Sutra rano na aerodrom. |
 
 ### Pon 2.11. — Odlazak (KE937, T2, 11:55)
@@ -332,33 +346,41 @@ Gradski boravak: jedan dnevni izlet (Suwon) i tri seulska dana, uključujući ob
 
 ---
 
-## ⏰ ODLUKE I REZERVACIJE — ZA EKIPU (do ~15.10.)
+## ⏰ ODLUKE I REZERVACIJE — ZA EKIPU
 
-**Ovo treba riješiti u idućih nekoliko dana**, dok još ima karata i termina. Kad se odluči, upisati ime u Dodatak A i rezervirati.
+**Ovo treba riješiti prije puta ili u točno navedenom trenutku na putu.** Kad se odluči, upisati ime u Dodatak A i rezervirati. ❓ = otvoreno, ⚠️ = malo vjerojatna rezerva.
 
 | Dan | Odluka | Opcije | Što rezervirati i kada |
 |---|---|---|---|
-| Pon 19.10. | Rođendanska večer | **A) Screen golf** (Golfzon Park Myeongdong) · **B) Screen baseball** (Strikezon Jongno) | Termin u 19:00 za četvero, nekoliko dana ranije |
+| Pon 19.10. | Rođendanska večer | ✅ **Odrađeno:** Hongdae (roštilj, pancakes, streličarstvo i pucanje, kokteli) | Batting cage seli u Hongdae 29.10. |
 | Uto 20.10. | Seoul Sky na zalazak | 20.10. u 16:30 · ili seliti na 1.11. ako je prognoza loša | Online karta (popust), ulaz 16:30–17:00. Odlučiti 1–2 dana ranije prema prognozi |
+| Uto 20.10. | Cijeli dan | **A/B verzije** (vidi Dan 2): jutro, ručak i popodne po izboru, večera Gwangjang, noć Nogari i Ace Four | Seoul Sky kartu kupiti online za 16:30–17:00 ako nije kupljena |
 | Sri 21.10. | Put u Sokcho | **Direktni bus (plan)** · Chuncheon dakgalbi usput | KOBUS karta za ~08:30 sa Seoul Express Bus Terminala. ⚠️ Odmah testirati stranu karticu |
 | Sri 21.10. | Prtljaga prije check-ina | — | 📧 Blue Terra: smiju li četiri kofera u ~11:15 |
-| Čet 22.10. | Popodne poslije planine | **Waterpia Spa Valley** · ili odmor u hotelu | Online karta ~42 000 ₩ (na blagajni 74 500 ₩), kupiti 1–2 dana ranije kad je prognoza jasna |
-| Pet 23.10. | Popodne | **Grad i obala** · ili Delpino ako Waterpije nije bilo | Ništa unaprijed. ☎️ Delpino nazvati prije puta (primaju li negoste, sati) |
+| Čet 22.10. | Popodne poslije planine | **Seorak Waterpia (plan)** · odmor u hotelu | Online karta ~42 000 ₩ (na blagajni 74 500 ₩), kupiti 1–2 dana ranije kad je prognoza jasna |
+| Pet 23.10. | ⚠️ Bazen, samo ako Waterpia u četvrtak propadne | Sono Calm Delpino | ☎️ Nazvati tek ako zatreba (+82-33-639-3426): primaju li negoste, sati |
+| **Pet 23.10. u 23:59** | **🔐 Escape room za 29.10.** | Deepthinker "Ongyi's Dream" | ⏰ **Alarm 23:59.** Booking je otvoren **5 dana unaprijed**, novi dan u **ponoć po korejskom vremenu** (✅ potvrđeno 14.10.). U ponoć rezervirati 29.10. u 20:00 (ili ~19:30) i odmah poslati zahtjev za engleski (24 h ranije). Ako ne uspije, prva stavka 24.10. ujutro |
 | **Sub 24.10.** | **Vlak** | **752 ujutro (preporuka)** · 754 popodne uz Gangneung | 🔴 **Rezervirati čim se odluči**, Korail, ~380 mjesta |
 | Sub 24.10. | Polazak iz Sokcha | Bus u 06:55 · taksi u ~08:15 (~120–160 000 ₩) | Može se odlučiti i u petak navečer |
 | Sub 24.10. | Večera | **Noćna tržnica** (vjerojatnije) · Dosol Maeul | Ako Dosol, rezervacija |
-| Sub 24.10. | Transfer sa stanice | GJS kombi · dva taksija | Ako kombi, dogovoriti (010-2657-2846) |
-| Pon 26.10. | Zadnja večer u Gyeongjuu | 💸 **Yosukgung 1779** (plan) · Jeongsugaseong | **Rezervirati Yosukgung** (telefon ili CatchTable). Pitati: pod ili stol, bez sirovog |
+| Sub 24.10. | Transfer sa stanice | GJS kombi · dva taksija (koferi) | Ako kombi, dogovoriti (010-2657-2846) |
+| Pon 26.10. | Zadnja večer u Gyeongjuu | **Jeongsugaseong (plan)** · ⚠️ Yosukgung 1779 | Jeongsugaseong: **WIP** radi li ponedjeljkom, treba li rezervacija. ⚠️ Yosukgung samo ako uspije rezervacija **sa stolicama** (ne na podu) |
 | **Pon 26.10. u 10:00** | **Tajni vrt za 1.11.** | fiksno | ⏰ **Alarm**, dvoje paralelno na ticket.cdg.go.kr. Rezerva: blagajna 1.11. od 09:00 |
+| Pon 26.10. navečer | **Igidae sutra: cijela staza ili Plan B** | cijela (4,7 km) · sjeverni kraj · samo Skywalk | Odluka prema koljenu nakon Seokgurama |
 | Uto 27.10. | Transfer u Busan | **KTX do Busan Stationa** (plan) · Eonyang tržnica i bulgogi (malo vjerojatno) | KTX za ~10:00 par dana ranije. 📧 host: smiju li koferi prije 16:00 |
-| Čet 29.10. | Escape room | **Deepthinker "Ongyi's Dream"** (plan) · Real Escape Challenge | 🔴 **Rezervirati oko 15.10.** (dva tjedna ranije), engleski 24 h ranije |
-| Čet 29.10. | KTX u Seoul | **Sa stankom za Sungsimdang u Daejeonu** (opcionalno) · direktno | Dvije karte ili jedna, 2–3 tjedna ranije |
-| Pet 30.10. | Večer | **Plan 1: Suwon** (galbi, zidovi noću, balon) · plan 2: natrag u 15:30 i fontana Banpo | Ako Gabojung, rezervirati (1600-3883). Inače ništa, odluka može biti i na dan |
+| Uto 27.10. | 🛥️ Noćna jahta, Gwangalli | termin ~18:30 | Online (3ha.in), 1–2 dana ranije prema prognozi |
+| **Sri 28.10.** | **Jutro na istoku** | 🅰️ **Sky Capsule** (ako se dobiju karte) · 🅱️ plaža Songjeong · 🅲 šuma Ahopsan | Sky Capsule je online **rasprodan**: do ~27.10. svaki dan provjeravati otkazivanja (službena stranica, Klook, KKday, Trip.com), i obrnuti smjer Cheongsapo → Mipo. Na dan: blagajna ~08:30 |
+| Čet 29.10. | KTX u Seoul | **Sa stankom za Sungsimdang u Daejeonu** · direktno | Dvije karte ili jedna, 2–3 tjedna ranije |
+| Pet 30.10. | Večer u Suwonu | **Plan 1: večer u Suwonu** (galbi, zidovi noću, balon) · plan B: natrag u 15:30 i fontana Banpo | Ako Gabojung, rezervirati (1600-3883). Inače ništa, odluka može biti i na dan |
+| **Sub 31.10.** | **💆 Spa blok za četvero** | THE SEOL:HA, Hongdae | 🔴 Rezervirati preko Trazyja **čim prije**: 4 osobe paralelno, ~15:00 |
 
 ---
 
 ## PON 19.10. — DOLAZAK I ROĐENDAN
 **Noćenje: Seoul I, Chungsin-dong (Jongno) · Dan 1 od 14**
+
+> ✅ **ODRAĐENO DRUKČIJE.** Prvu večer proveli smo u **Hongdaeu**: korejski roštilj, šetnja, fluffy pancakes, streličarstvo i pucanje, kokteli.
+> ➡️ **Gwangjang, Nogari Alley i Ace Four Club** prebačeni su na **uto 20.10. navečer** (opisi ostaju ovdje, ispod). **Pravi batting cage** prebačen je na **Hongdae, 29.10.**
 
 ### 12:30 — Slijetanje na ICN (T2)
 Korean Air slijeće na **terminal 2**. Za kontrolu, prtljagu i eSIM treba računati **1–1,5 h**, pa smo u dolaznoj dvorani realno oko **14:00–14:15**.
@@ -401,24 +423,32 @@ Od apartmana **~1 km, 12–15 min pješice.** Jedna od najpoznatijih tradicional
 
 ⚠️ Sannakji (živa hobotnica) i yukhoe (sirova junetina) ovdje su posvuda. **Ne naručujemo**, pravilo "bez sirovog" vrijedi.
 
-### 19:00 — Rođendanska večer
-*⏱ 1–2 h · ☔ · 🦵 lagano*
+### 19:00 — Rođendanska večer: batting cage i screen golf
+*⏱ ~2 h · ☔ · 🦵 lagano*
 
-Dvije opcije, odluka do 15.10.:
+Želja ekipe je **pravi batting cage** (automat baca prave loptice, udaraš pravom palicom), a poslije, ako stignemo, **screen golf**. Dvije verzije, odluka prema tome postoji li kavez u Hyehwi:
 
-**A) Screen golf: Golfzon Park Myeongdong Station (골프존파크 명동역점)**, 4. kat, 115 Toegye-ro (Myeongdong, izlaz 8/9). Ponedjeljkom 09:00–02:00. ⚠️ **Cijena je po igraču, ne po sobi:** ~30 000 ₩ po osobi za 18 rupa navečer, a 18 rupa za četvero traje ~3 h, pa **tražimo 9 rupa** (~15 000 ₩ po osobi). Palice i cipele su besplatni, izbornik je na engleskom, osoblje pomaže strancima. Poslije 18:00 bolje je rezervirati.
-Rezerva: Golfzon Park Euljiro Signature (B1 Pine Avenue, Euljiro 3-ga izlaz 12), navečer obavezna rezervacija, +82 2-6031-8900.
+**🅰️ VERZIJA A (plan): pravi kavez u Hyehwi, pa screen golf na Euljiru**
+- **19:00 — Batting cage, Hyehwa / Daehak-ro.** Od apartmana u Chungsin-dongu **10–15 min pješice** (ili taksi 5 min). Naver blog iz 2025. spominje kavez kod stanice Hyehwa (L4), ~1 000 ₩ po rundi. Stariji izvori ga smještaju u uličicu od **izlaza 1 prema Dongsung Art Centeru**. ⚠️ **WIP: adresu i radno vrijeme potvrditi na Naver mapi** („혜화 야구장“ / „배팅장“) prije puta. Računati ~45 min, nekoliko rundi po osobi.
+- **~19:50 — Taksi ~10 min do Euljira 3-ga.**
+- **20:00 — Screen golf: Golfzon Park Euljiro Signature**, B1 Pine Avenue (Euljiro 3-ga, izlaz 12), **odmah do Nogari Alleyja**. Navečer obavezna rezervacija, +82 2-6031-8900. ⚠️ Cijena je po igraču: tražimo **9 rupa** (~15 000 ₩ po osobi, ~1 h za četvero). Palice i cipele su besplatne, osoblje pomaže strancima.
+- **~21:00 — Pješice 2 min na Nogari Alley.**
 
-**B) Screen baseball: Strikezon Jongno (스트라이크존 종로)**, kod Jonggaka (L1, izlaz 4). Ponedjeljkom 13:00–02:00. **~48–50 000 ₩ po sobi na sat** (2–6 igrača, pola igre 28 000 ₩), palice i kacige besplatne. Rano navečer obično ne treba rezervacija, poslije 18:00 nazvati. ⚠️ Izbornici su samo na korejskom, osoblje postavi igru. Glasno je.
+**🅱️ VERZIJA B: ako kaveza u Hyehwi nema**
+- **19:00 — Screen baseball: Strikezon Jongno (스트라이크존 종로)**, kod Jonggaka (L1, izlaz 4). Ponedjeljkom 13:00–02:00. Automat baca **prave loptice**, palica je prava, a samo je teren na ekranu. **~48–50 000 ₩ po sobi na sat** (2–6 igrača), palice i kacige besplatne. ⚠️ Izbornici samo na korejskom, osoblje postavi igru. Glasno je.
+- **20:15 — Screen golf, Golfzon Park Euljiro Signature** (kao gore), ako ekipa još hoće. Inače ravno na Nogari.
+- **Pravi kavez se onda seli u Seoul II:** **Hongdae batting cage (홍대 야구타운)**, Seogyo-dong 360-15, iznad parkirališta u uličici, 2 000 ₩ za 20 loptica, automat, rukavice su tu (✅ radi 2025.). 10 min od stana: 29.10. poslije escape rooma ili 31.10. Vidi 🧱 dodatne opcije za Seoul II.
+
+**Rezerva za golf:** Golfzon Park Myeongdong Station (골프존파크 명동역점), 4. kat, 115 Toegye-ro (Myeongdong, izlaz 8/9), ponedjeljkom 09:00–02:00.
 
 **↔ Zamjene:** glow bowling, bacanje sjekira, rage room i VR arkada sve su u **Hongdaeu**, 35–40 min od apartmana, pa bolje sjedaju u Seoul II. Popis je u 🧱 dodatnim opcijama za Seoul II. Mullae-dong je izbačen jer je ponedjeljkom većina barova zatvorena.
 
 ### 21:00 — Nogari Alley, Euljiro
 *⏱ 1–2 h · ☀️ stolovi su na ulici · 🦵 lagano*
 
-Od apartmana ~2 km: taksi ~10 min ili metro do Euljira 3-ga (L2, L3). Stotine ljudi na plastičnim stolcima nasred ulice.
+Od Golfzon Parka Euljiro 2 min pješice (od apartmana ~2 km, taksi ~10 min). Stotine ljudi na plastičnim stolcima nasred ulice.
 
-- **Eulji OB Bear (을지OB베어)**: lokal koji je 1980. pokrenuo ulicu, danas odmah iza ugla, **12 Chungmu-ro 9-gil** (izlaz 11). Točeno pivo 3 500–4 500 ₩, nogari 1 000–2 000 ₩. **Radi 12:00–23:00**, zato počinjemo u 21:00.
+- **Eulji OB Bear (을지OB베어)**: lokal koji je 1980. pokrenuo ulicu, danas odmah iza ugla, **12 Chungmu-ro 9-gil** (izlaz 11). Točeno pivo 3 500–4 500 ₩, nogari 1 000–2 000 ₩. **Radi 12:00–23:00**, zato ne kasnimo poslije 21:00.
 - **Manseon Hof (만선호프)**: drži većinu ulice. Pivo 4 500 ₩, pileći češnjak 19 000 ₩, do 24:00.
 - Po kiši su stolovi na ulici zabranjeni, svi se sele unutra.
 
@@ -451,6 +481,28 @@ Od apartmana ~2 km: taksi ~10 min ili metro do Euljira 3-ga (L2, L3). Stotine lj
 
 ## UTO 20.10. — JEDINI PUNI DAN U SEOULU I
 **Noćenje: Seoul I, Chungsin-dong (Jongno) · Dan 2 od 14**
+
+### ⚡ PLAN NA DAN: A/B verzije (odluka na licu mjesta)
+
+Zbog promjene 19.10. večer je danas **Gwangjang → Nogari → Ace Four** (opisi u Danu 1). Fiksno: **Seoul Sky u 16:30** i **Gwangjang do 20:00**.
+
+| Kad | 🅰️ | 🅱️ |
+|---|---|---|
+| **Jutro** 09:30–11:45 | 10:15 **Jogyesa** → 10:50 **Bukchon**. Bonus: Naksan u 08:30 | Duže spavanje, doručak, ~11:00 samo **Jogyesa** |
+| **Ručak** ~11:45–13:00 | **Tongin tržnica** (taksi ~7 min iz Bukchona) | **Hwangsaengga kalguksu** kod Bukchona |
+| **Popodne** 13:00–15:45 | **Nacionalni muzej Koreje** (taksi ~25 min) | Odmor i **pakiranje**, pa **Namdaemun** ili **DDP** |
+| 15:45 | ⚠️ Prema Jamsilu, taksi ~35 min ili L4 → L2 ~40 min | isto |
+| **Zalazak** 16:30–18:15 | 🏙️ **Seoul Sky** (fiksno) | Magla: Seoul Sky na 1.11., umjesto njega Naksan u sumrak |
+| 18:15 | L2 Jamsil → Euljiro 4-ga (~30 min) ili taksi ~30 min | |
+| **Večera** ~19:00–20:45 | 🏮 **Gwangjang**: **mayak kimbap prvo (do 20:00)**, Sunhee-ne bindaetteok (do 21:00), Gohyang kalguksu (štand 70). Gotovina | **Jin Ok-hwa dakhanmari** kod Dongdaemuna (ako kasnimo) |
+| 20:45 | Pješice ~15 min do Euljira 3-ga | |
+| **Noć** 21:00–~00:30 | 🍺 **Nogari Alley** (OB Bear do 23:00, Manseon Hof do 24:00), pa 23:00 **Ace Four Club** (do 01:00) | **Pojangmacha šatori na Jongnu 3-ga** (do 03:00) + **noraebang** |
+
+⚠️ **Kofere spakirati prije večernjeg izlaska** (ili u 🅱️ popodnevu). **U krevet do ~01:00**: sutra u 08:00 taksiji za bus u Sokcho.
+❌ **Otpada danas:** Deoksugung (ne stane uz Gwangjang) i roštilj na Euljiru (bio je 19.10. u Hongdaeu). Opisi ispod ostaju kao zamjene.
+**Prvo se reže:** Bukchon → skraćeni muzej. Seoul Sky ostaje.
+
+---
 
 ⚠️ **Gyeongbokgung i Jongmyo utorkom su zatvoreni.** Fiksna točka dana je **Seoul Sky u 16:30.** Muzej (jug, Ichon) i toranj (istok, Jamsil) udaljeni su 35–40 min, pa muzej mora završiti do ~15:45.
 
@@ -522,7 +574,7 @@ Zgrada od 555 m, vidikovac na katovima 117–123 (~500 m) i stakleni pod na Sky 
 - **Naksan ili Inwangsan u sumrak**: besplatni vidikovci na gradskom zidu, bez redova · *⏱ 1–2 h · ☀️ · 🦵🦵*
 - **Duga fontana Banpo**: besplatno, u 19:30, 20:00, 20:30 i 21:00 (20 min), sezona do 31.10. Ne radi po kiši i vjetru · *⏱ 45 min · ☀️ · 🦵*
 
-### 19:15 — Deoksugung i Doldam-gil
+### ❌ 19:15 — Deoksugung i Doldam-gil (danas otpada zbog Gwangjanga)
 *⏱ 45 min · 🌦️ · 🦵 lagano*
 
 Iz Jamsila linija 2 izravno do City Halla (~35 min), izlaz 2. **1 000 ₩**, otvoreno do **21:00, zadnji ulaz u 20:00**. Jedina palača otvorena navečer i osvijetljena. Smjena straže ispred vrata Daehanmun je u 11:00 i 14:00, u ovom terminu je nema.
@@ -536,24 +588,30 @@ Najmanja seulska palača: tradicionalne drvene dvorane uz nekoliko kamenih zgrad
 - **Seulski izlazak**, još treba odabrati što.
 - **Dongdaemun noću**: veleprodaja mode 20:00–05:00 (od nedjelje navečer do petka ujutro), kolica i vreće na ulici poslije 23:00. Zanimljivo i bez kupovine · *⏱ 1,5 h · ☔ · 🦵*
 
-### 20:15 — Večera: Myeongdong Kyoja
-*⏱ 45 min · ☔ · 🦵 lagano*
+### ❌ 20:15 — Korejski BBQ na Euljiru 3-ga (otpada: roštilj je bio 19.10., večera je Gwangjang)
+*⏱ 1–1,5 h · ☔ · 🦵 lagano*
 
-**명동교자**, glavni lokal, 29 Myeongdong 10-gil (Myeongdong, izlaz 8), ~10 min pješice od Deoksugunga. Kalguksu u pilećoj juhi s mljevenim mesom **11 000 ₩** (rezanci i juha dolijevaju se besplatno), 10 svinjskih mandua 12 000 ₩, kimchi s puno sirovog češnjaka. Svaki dan 10:30–21:00 bez pauze. Redovi brzo idu, 10–20 min.
+Iz Deoksugunga linija 2 jedna stanica do Euljiro 1-ga pa pješice, ili taksi ~5 min do **Euljira 3-ga**. **Prvi korejski roštilj na putu**, a odatle se pješice ide u barove.
 
-**↔ Zamjene (2):**
+Oko Euljira 3-ga i Jongna 3-ga gusto je **samgyeopsal roštiljnica** sa stolovima na pločniku i plastičnim stolcima. Svinjska potrbušina (i vrat, moksal) peče se na ploči nasred stola, uz kimchi, češnjak, listove salate i ssamjang. **~15–22 000 ₩ mesa po osobi + soju ~5 000 ₩.** Rezervacija ne treba.
 
-- **Plan B: Dongwonjip (동원집)**, gamjatang: crveni ljuti gulaš od svinjskih kralježaka i krumpira, meso se skida s kostiju. 22 Toegye-ro 27-gil (Euljiro 3-ga izlaz 9 ili Chungmuro izlaz 5). **10–11 000 ₩** zdjela, lonac za dijeljenje 28–38 000 ₩. 10:00–22:00 (pauza 15:30–16:30), **zadnja narudžba 21:00**, nedjeljom zatvoreno. Pun lokalnih radnika, odmah uz barove · *⏱ 1 h · ☔ · 🦵*
-- **Ostale opcije u blizini** (hladni rezanci i klasika; bolje za ručak jer ranije zatvaraju):
-  - **Wooraeok (우래옥)**: od 1946., pjongjanški hladni rezanci 16 000 ₩, bulgogi 37–42 000 ₩. Utorkom 11:30–21:00, **zadnja narudžba 20:40**, ponedjeljkom zatvoreno. Euljiro 4-ga, izlaz 4.
-  - **Eulji Myeonok (을지면옥)**: 12 Samil-daero 30-gil (Jongno 3-ga, izlaz 5). Hladni rezanci 15 000 ₩, pauza 15:00–17:00, **zadnja narudžba 20:20**, nedjeljom zatvoreno.
-  - **Pildong Myeonok (필동면옥)**: vrlo nježna juha, 14 000 ₩. 11:00–20:30, nedjeljom zatvoreno.
-  - **Imun Seolnongtang (이문설농탕)**: najstariji restoran u Koreji (1904.), juha od goveđih kostiju 14–17 000 ₩. 08:00–21:00 (pauza 15:00–16:30), dobar i za doručak.
+**Kako birati:** lokal s redom domaćih i bez velikog engleskog menija u izlogu. Osoblje često samo reže i okreće meso. ⚠️ **WIP:** odabrati konkretan lokal na Naver mapi (삼겹살, 을지로3가) tjedan prije.
 
-### 21:30 — Barovi na Euljiru
+**🅱️ BBQ slot:** ako večeras ne uspije (umor, kašnjenje, gužva), prvi roštilj se seli u **Sokcho, sri 21.10.**, umjesto ribe na žaru.
+
+**↔ Zamjene (3):**
+
+- **Myeongdong Kyoja (명동교자)**, glavni lokal, 29 Myeongdong 10-gil (Myeongdong, izlaz 8), ~10 min pješice od Deoksugunga. Kalguksu u pilećoj juhi s mljevenim mesom **11 000 ₩** (rezanci i juha dolijevaju se besplatno), 10 svinjskih mandua 12 000 ₩. Svaki dan 10:30–21:00 bez pauze, redovi 10–20 min. ⚠️ Zadnja narudžba prije 21:00 · *⏱ 45 min · ☔ · 🦵*
+- **Dongwonjip (동원집)**, gamjatang: crveni ljuti gulaš od svinjskih kralježaka i krumpira. 22 Toegye-ro 27-gil (Euljiro 3-ga izlaz 9). **10–11 000 ₩** zdjela, lonac 28–38 000 ₩. 10:00–22:00, **zadnja narudžba 21:00**, nedjeljom zatvoreno. Odmah uz barove · *⏱ 1 h · ☔ · 🦵*
+- **Ostale opcije u blizini** (bolje za ručak, rano zatvaraju):
+  - **Wooraeok (우래옥)**: od 1946., pjongjanški hladni rezanci 16 000 ₩, bulgogi 37–42 000 ₩. Utorkom 11:30–21:00, **zadnja narudžba 20:40**. Euljiro 4-ga, izlaz 4.
+  - **Eulji Myeonok (을지면옥)**: hladni rezanci 15 000 ₩, **zadnja narudžba 20:20**, nedjeljom zatvoreno.
+  - **Imun Seolnongtang (이문설농탕)**: najstariji restoran u Koreji (1904.), juha od goveđih kostiju, 08:00–21:00. ⚠️ Već je u planu 1.11.
+
+### 21:00 — Nogari Alley, pa barovi na Euljiru (Ace Four Club)
 *⏱ 2 h · ☔ · 🦵 lagano*
 
-Metro Euljiro 3-ga. Koktel 15–25 000 ₩. Barovi iza neoznačenih vrata u starim radioničkim zgradama. **Bez rezervacije.** Naver Map ih nalazi bolje od Googlea.
+Pješice od roštilja. Koktel 15–25 000 ₩. Barovi iza neoznačenih vrata u starim radioničkim zgradama. **Bez rezervacije.** Naver Map ih nalazi bolje od Googlea.
 
 - **Bar Sookhee (숙희)**: 2. kat, 14-1 Eulji-ro 12-gil (izlaz 10). Hanok stil, kokteli od sezonskog voća 20–25 000 ₩, **couvert 5–10 000 ₩ po osobi**. 18:00–02:00. Mirniji i skuplji.
 - **Jean Frigo (장프리고)**: Toegye-ro 62-gil 9-8, 1. kat (Gwanghui-dong, kod Dongdaemuna). Ulaz kroz vrata hladnjaka u voćarni, narudžba preko starih telefona. Kokteli 16–20 000 ₩, 18:00–01:30, ponedjeljkom zatvoreno.
@@ -571,7 +629,8 @@ Metro Euljiro 3-ga. Koktel 15–25 000 ₩. Barovi iza neoznačenih vrata u star
 - **Loša vidljivost:** Seoul Sky na 1.11. Navečer Gwangjang ili Dongdaemun noću.
 - **Koljeno tišti:** izbaciti Bukchon i Naksan.
 - **Gladni prije Tongina:** Hwangsaengga kalguksu odmah uz Bukchon.
-- **Kasnimo na Deoksugung (zadnji ulaz 20:00):** ravno na večeru i u barove.
+- **Kasnimo na Deoksugung (zadnji ulaz 20:00):** ravno na roštilj na Euljiru i u barove.
+- **Roštilj ne uspije:** Dongwonjip ili Myeongdong Kyoja (do 21:00), a BBQ se seli na 21.10. u Sokcho.
 
 ---
 
@@ -654,10 +713,10 @@ Naselje koje su nakon rata osnovale sjevernokorejske izbjeglice, preko uskog kan
 - **Sokcho City Museum**: rekonstrukcija kuća sjevernokorejskih izbjeglica na otvorenom, 2 000 ₩, 09:00–18:00, ponedjeljkom zatvoreno. Kišna opcija · *⏱ 1,5 h · ☔ · 🦵*
 - **Naksansa**, obalni hram na stijeni nad morem · *⏱ 1,5 h · 🌦️ · 🦵🦵* · ⚠️ troši hram-budžet
 
-### 16:30 — Središnja tržnica (Sokcho Tourist & Fishery Market)
-*⏱ 1,5 h · ☔ natkriveno · 🦵 lagano*
+### 16:30 — Središnja tržnica (Sokcho Tourist & Fishery Market), kratko
+*⏱ 30–45 min · ☔ natkriveno · 🦵 lagano*
 
-Natkrivena tržnica u centru. **Večeras samo grickamo**, veliki obrok od rakova je u četvrtak.
+Natkrivena tržnica u centru. **Kratki prolaz, samo grickamo**, veliki obrok od rakova je u četvrtak. Ostatak vremena do večere je slobodan (hotel, check-in, tuš).
 - **Sulbbang** (kruh na pari od makgeollija), štand 54, ~4 000 ₩ kriška. **Rasproda se do ~17:00**, zato prvo.
 - **Manseok Dakgangjeong (만석닭강정)**: slatko-hrskava pržena piletina u kutiji, 18–22 000 ₩, 10:00–20:00. Dobra je i hladna, pa kutija može u hotel. Alternative u istoj tržnici: Jung-ang Dakgangjeong (štand 23), Sokcho Dakgangjeong (štand 20).
 - Pogledati crvene rakove u bazenima za četvrtak.
@@ -669,8 +728,9 @@ Natkrivena tržnica u centru. **Večeras samo grickamo**, veliki obrok od rakova
 
 **88생선구이**, Jungang-dong 468-55, 5 min od skele. Do deset vrsta ribe (skuša, saury, iverak, lignja) osoblje peče na ugljenu ugrađenom u stol, ~20 000 ₩ po osobi. 08:30–20:15, pauza 15:00–16:30, **zadnja narudžba oko 20:15**. Bez rezervacije, u špici red. ⚠️ **Jako zadimljeno**, odjeća će mirisati.
 
-**↔ Zamjene (2):**
+**↔ Zamjene (3):**
 
+- **🔥 Roštilj umjesto ribe** (više nije obavezan, roštilj je bio 19.10. u Hongdaeu): večeras umjesto ribe ide **samgyeopsal ili dwaeji galbi** (marinirana svinjska rebra) na roštilju u stolu, 15–20 000 ₩ po porciji. Lokal nije odabran: na Naveru 삼겹살 / 돼지갈비 blizu Jungang-donga ili hotela, ocjena 4,3+ · *⏱ 1,5 h · ☔ · 🦵*
 - **Dakgangjeong iz kutije i pivo u hotelu**, ako smo mrtvi od puta · *⏱ — · ☔ · 🦵*
 - **Sindasin**, gari-gukbap ako je ručak bio negdje drugdje · *⏱ 1 h · ☔ · 🦵*
 
@@ -754,7 +814,9 @@ U terminu s karte. Ako je rasprodano ili puše, preskačemo bez žaljenja.
 
 **설악워터피아**, Hanwha Resort, Nohak-dong, ~10 min taksijem od ulaza u park, na istoj strani grada. **Spa Valley: 18 vanjskih termalnih bazena** s alkalnom mineralnom vodom. **Kupaći i kapa su obavezni**, sve dobi zajedno, bez golotinje. **~42 000 ₩ online, 74 500 ₩ na blagajni**, pa kupujemo online. 10:00–21:30. Najbolji tretman za noge poslije Ulsanbawija.
 
-⚠️ Riječ je o obiteljskom vodenom parku, Spa Valley je mirniji vanjski dio. Ako bazen odradimo danas, **Delpino u petak postaje opcionalan**.
+⚠️ Riječ je o obiteljskom vodenom parku, Spa Valley je mirniji vanjski dio. **Waterpia je glavni izbor ekipe.** ⚠️ Samo ako danas propadne (zatvoreno, kasnimo, svi su gotovi), sutra je rezerva Delpino (vidi Dan 5).
+
+💆 Masaža, head spa i tretman lica nisu ovdje: Waterpia ima samo hidro-mlaznice u bazenu. Tretmani su u Seoulu, sub 31.10. (THE SEOL:HA).
 
 **↔ Zamjene (1):**
 
@@ -791,7 +853,7 @@ Hongge je **manji od snow craba, tanjih nogu, slađeg i mekšeg mesa**, uz više
 ## PET 23.10. — BLAŽI DAN, GRAD I OBALA
 **Noćenje: Sokcho, Hotel the Blue Terra · Dan 5 od 14 · Dan oporavka nakon Ulsanbawija**
 
-Logika dana: **jutro u parku na ravnom, popodne grad i obala na ravnom.** Ako je Waterpia bila u četvrtak, dva dana zaredom u termalnoj vodi su previše, pa je **Delpino plan B**. Ako Waterpije u četvrtak nije bilo (umor, vrijeme), Delpino ulazi umjesto muzeja i jezera. Odlučujemo na licu mjesta.
+Logika dana: **jutro u parku na ravnom, popodne grad i obala na ravnom.** Bazen je bio u četvrtak (Waterpia). ⚠️ **Samo ako Waterpia u četvrtak propadne**, Delpino ulazi umjesto muzeja i jezera.
 
 ### 08:00 — Jutro u parku: Biseondae (i Biryong)
 *⏱ 2,5–5 h · 🌦️ · 🦵 Biseondae / 🦵🦵 Biryong*
@@ -858,10 +920,10 @@ Korejska i himalajska planinarska povijest: oprema s osvajanja Everesta, šatori
 
 **Craftroot (크래프트루트)**, craft taproom u staroj zgradi od cigle, lokalno pivo, opušteno. Ako Montbeer nije bio u četvrtak, idemo tamo, ali on je na strani parka pa ga je lakše uklopiti uz ručak.
 
-### 🅱️ Plan B za popodne — 💸 Sono Calm Delpino, krovni termalni bazen
+### ⚠️ Rezerva za popodne, samo ako Waterpia u četvrtak propadne — 💸 Sono Calm Delpino
 *⏱ 2–3 h · ☔ ali vjetar ga zatvara · 🦵 lagano*
 
-Ide ako **Waterpije nije bilo u četvrtak** ili ako ekipa ipak želi bazen, umjesto muzeja i jezera, otprilike 14:00–17:00, pa obala i pivo kako je planirano. Goseong, ~15–20 min taksijem od ulaza u Seoraksan ili iz grada.
+Ide **samo ako Waterpije u četvrtak nije bilo**, umjesto muzeja i jezera, otprilike 14:00–17:00, pa obala i pivo kako je planirano. Goseong, ~15–20 min taksijem od ulaza u Seoraksan ili iz grada.
 
 Prirodna termalna voda (~34–38 °C) u vanjskom **bazenu na 11. katu zgrade C, s pogledom ravno u Ulsanbawi**. Samo za odrasle (19+), treba **kupaći i kapa za plivanje**. Dnevne karte za negoste na blagajni Ocean Playa u podrumu, **~40–50 000 ₩**, petkom do 19:00. Telefon **+82-33-639-3426**. ⚠️ **Jak vjetar zatvara krov bez najave**, pa nazvati prije polaska. Ponijeti ogrtač ili veliki ručnik, izlazak na krov na 10–15 °C je hladan. Za razliku od Waterpije, ovo je jedan miran bazen samo za odrasle s pogledom.
 
@@ -882,8 +944,17 @@ Prirodna termalna voda (~34–38 °C) u vanjskom **bazenu na 11. katu zgrade C, 
 
 **Plan C: 🥩 korejski roštilj.** Klasična korejska večera koju u Sokchu još nismo imali: **samgyeopsal** (svinjska potrbušina) ili **dwaeji galbi** (marinirana svinjska rebra) peku se na roštilju u stolu, uz zelenu salatu za zamatanje, češnjak, umake i doenjang-jjigae na kraju. 15–20 000 ₩ po porciji, obično najmanje dvije porcije. Lokal nije odabran: na Naveru tražiti 삼겹살 ili 돼지갈비 blizu hotela, s ocjenom 4,3+ i puno recenzija.
 
+### 23:59 — ⏰ 🔐 Booking escape rooma za čet 29.10.
+*⏱ 5 min · u hotelu*
+
+Deepthinker otvara termine **5 dana unaprijed, u ponoć po korejskom vremenu** (✅ potvrđeno 14.10.). U ponoć s petka na subotu otvara se **29.10.**
+- **Alarm u 23:59**, booking stranica otvorena: **deepthinker.co.kr/en**.
+- U 00:00 refresh → **"Ongyi's Dream", 29.10. u 20:00** (ili ~19:30, ako hoćemo stići na pub crawl) → 4 igrača.
+- **Odmah poslati zahtjev za engleski** (traže najavu 24 h ranije).
+- Ako ne uspije (internet, zaspali smo): **prva stavka sutra ujutro**, u autobusu za Gangneung (vidi Dan 6).
+
 ### 🅱️ OKIDAČI ZA DAN 5
-- **Waterpije nije bilo u četvrtak:** popodne Delpino (plan B), muzej i jezero otpadaju, obala i pivo ostaju.
+- **Waterpije nije bilo u četvrtak:** popodne ⚠️ Delpino, muzej i jezero otpadaju, obala i pivo ostaju.
 - **Delpino zatvoren zbog vjetra:** Lotte Resort infinity bazen ili natrag na plan A (grad i obala).
 - **Kiša:** Biseondae podnosi laganu kišu. Popodne muzej i **Sokcho City Museum** (2 000 ₩, rekonstrukcija kuća sjevernokorejskih izbjeglica iz Abaija, ponedjeljkom zatvoreno). Staza Oeongchi otpada.
 - **Četvrtak je bio kišan:** danas Ulsanbawi (vidi Dan 4), a ovaj dan seli u četvrtak.
@@ -929,8 +1000,8 @@ Dani 4 i 5 međusobno su zamjenjivi, Ulsanbawi ide na vedriji dan.
 
 | Opcija | Što | ⏱ | Vrijeme | 🦵 |
 |---|---|---|---|---|
-| **Seorak Waterpia Spa Valley** | 18 vanjskih termalnih bazena, kupaći i kapa, ~42 000 ₩ online / 74 500 ₩ na blagajni, 10–21:30 | 2–3 h | ☔ | lagano |
-| 💸 **Sono Calm Delpino, krov** | 11. kat, pogled na Ulsanbawi, 19+, kupaći i kapa, ~40–50 000 ₩, petkom do 19:00 · vjetar zatvara | 2–3 h | ☔ | lagano |
+| ✅ **Seorak Waterpia Spa Valley (plan, 22.10.)** | 18 vanjskih termalnih bazena, kupaći i kapa, ~42 000 ₩ online / 74 500 ₩ na blagajni, 10–21:30 | 2–3 h | ☔ | lagano |
+| ⚠️ 💸 **Sono Calm Delpino, krov** (samo ako Waterpia propadne) | 11. kat, pogled na Ulsanbawi, 19+, kupaći i kapa, ~40–50 000 ₩, petkom do 19:00 · vjetar zatvara | 2–3 h | ☔ | lagano |
 | **Lotte Resort infinity bazen** | pogled na more, ~35–45 000 ₩, navečer samo odrasli | 2 h | ☔ | lagano |
 | **Delpino Ocean Play** | vodeni park istog resorta, sve dobi | 2 h | ☔ | lagano |
 | ❌ **Topli izvori Cheoksan** | 53 °C, ali golo i odvojeno po spolu | 1,5 h | ☔ | lagano |
@@ -958,6 +1029,9 @@ Dani 4 i 5 međusobno su zamjenjivi, Ulsanbawi ide na vedriji dan.
 
 ## SUB 24.10. — VLAKOM UZ OBALU U GYEONGJU
 **Noćenje: Gyeongju, Airbnb (Noseo-dong) · Dan 6 od 14**
+
+### ⏰ Prvo: escape room, ako booking u ponoć nije uspio
+Ako sinoć u 00:00 nije rezerviran escape room za čet 29.10. (Deepthinker, deepthinker.co.kr/en), **rezervirati odmah**, na terminalu ili u autobusu, i poslati zahtjev za engleski. Vidi Dan 5, 23:59.
 
 ### 06:35 — Pješice do terminala
 *⏱ 10 min · ☔ · 🦵 lagano*
@@ -1018,9 +1092,11 @@ Pješice 10–15 min na jug, pored zvjezdarnice Cheomseongdae, do **Gyochona (�
 
 💡 Na izlazu iz Gyochona je **Gyodong Beopju (교동법주)**, 300 godina staro rižino vino obitelji Choi (nematerijalna baština). Kupuje se na kućnim vratima, ~35–40 000 ₩ za 900 ml. **Nepasterizirano je, pa u hladnjak**, za večer u Airbnbu.
 
+☕ **Usput: Hwangnam-ppang (황남빵)**, kod Daereungwona (Hwangnam-dong). Najpoznatija gyeongjuska slastica: mala lepinja tankog tijesta punjena slatkim crvenim grahom, po receptu iz 1939. Kupuje se topla, 10 min stanke, kutija može i u Airbnb.
+
 **↔ Zamjene (1):**
 
-- **Hwangnidan-gil (황리단길)**, hipsterska ulica uz humke: kafići, pekare s **Hwangnam-ppangom** (kolačići s crvenim grahom, od 1939.), makgeolli i pajeon. Kao šetnja između humaka i Gyochona ili umjesto odmora u 17:00 · *⏱ 1 h · 🌦️ · 🦵*
+- **Hwangnidan-gil (황리단길)**, hipsterska ulica uz humke: kafići, pekare, makgeolli i pajeon. Kao šetnja između humaka i Gyochona ili umjesto odmora u 17:00 · *⏱ 1 h · 🌦️ · 🦵*
 
 ### 17:00 — Odmor
 Check-in od 16:00, tuš, pauza. Dan je počeo u 06:35.
@@ -1032,7 +1108,7 @@ Check-in od 16:00, tuš, pauza. Dan je počeo u 06:35.
 
 Pješice ~10 min pored **Cheomseongdaea** (zvjezdarnica iz 7. stoljeća, najstarija sačuvana u istočnoj Aziji, noću osvijetljena, besplatno) do **mosta Woljeonggyo (월정교)**: rekonstruirani natkriveni drveni most kraljevstva Silla preko potoka, **besplatno, osvijetljen do 23:00**, bez ograda i redova. Fotografija s kamenih stepenica (징검다리) nizvodno.
 
-⚠️ Ružičasta trava (pink muhly) kod Cheomseongdaea krajem listopada već je prošla vrhunac, ne planirati vrijeme oko nje.
+🌸 Ružičasta trava (pink muhly) uz Cheomseongdae krajem listopada je iza vrhunca, ali vjerojatno još ružičasta. **Noću se boja ne vidi**, pa je gledamo u nedjelju danju, na biciklima (vidi Dan 7).
 
 ### 20:00 — Večera: noćna tržnica Jungang (vjerojatnije)
 *⏱ 1,5 h · ☔ pod krovom · 🦵 lagano*
@@ -1080,7 +1156,7 @@ Ako ekipa ne želi ustajati rano ni plaćati taksi: bus u 09:31, pola dana u Gan
 ### 08:30 — Taksi do Yangdonga
 *⏱ 20–25 min*
 
-**Dva taksija, 22–28 000 ₩ po autu**, 16 km sjeverno. **Rezerva je bus 203**, staje kod Intercity terminala (250 m od Airbnba), ali vozi samo svakih 70–90 min, a vožnja traje 45–55 min.
+**Jedan taksi** (četvero bez prtljage stane u jedan), **22–28 000 ₩**, 16 km sjeverno. **Rezerva je bus 203**, staje kod Intercity terminala (250 m od Airbnba), ali vozi samo svakih 70–90 min, a vožnja traje 45–55 min.
 
 ### 09:00 — Yangdong Folk Village (양동마을)
 *⏱ 3 h · 🌦️ · 🦵🦵 strme rampe gore*
@@ -1112,10 +1188,11 @@ Iznajmljivači su na **Poseok-ro / Taejong-ro**, kod Daereungwona: **5–6 000 �
 **Krug (~10 km):**
 1. **Gyerim (계림)**: mala drevna šuma s ogromnim starim stablima, mjesto legende o rođenju osnivača klana Kim, zlatne i crvene krošnje. Ravne zemljane staze, 15 min.
 2. **Woljeonggyo danju**, usput, drukčiji od subotnje noći.
+2a. 🌸 **Pink muhly uz Cheomseongdae**: polje ružičaste trave odmah uz zvjezdarnicu, ~15 min stanke za fotke. Krajem listopada iza vrhunca, ali vjerojatno još ružičasto. Bicikl guramo, nedjeljom je tu gužva.
 3. **Nacionalni muzej Gyeongju (국립경주박물관)**: **besplatno, nedjeljom 10:00–19:00.** Prave **zlatne krune** iz humaka koje smo vidjeli u subotu i **zvono kralja Seongdeoka (Emille)** iz 771., 19 tona bronce, jedno od najljepših zvona na svijetu, uz legendu o djetetu bačenom u talinu (otud ime Emille, "mama"). 1–1,5 h. Kruna i zvono su obavezni, ostalo po volji.
 4. **Polje Hwangnyongsa (황룡사지)**: temelji nekad **najvećeg hrama u Koreji**, s drvenom pagodom od devet katova (~80 m) koju su Mongoli spalili 1238. Ostale su samo kamene baze u ogromnom praznom polju. **Povijesna dvorana Hwangnyongsa** uz polje ima **maketu pagode u mjerilu 1:10** i film. Ne računa se u hram-budžet, jer hrama nema, samo polje.
 5. **Bunhwangsa (분황사)**, odmah do polja: **pagoda od kamenih blokova isklesanih kao cigle, iz 634.**, najstarija datirana pagoda Sille. Pogled od 10 min, ne posjet hramu. Ulaz besplatan.
-6. Natrag prema gradu. Usput **Hwangnam-ppang (황남빵)**, kolačići s crvenim grahom po receptu iz 1939., ili **chalboribbang**, palačinke od ječma s grahom.
+6. Natrag prema gradu. Usput **chalboribbang** (palačinke od ječma s grahom), ili Hwangnam-ppang ako nije bio u subotu.
 
 **↔ Zamjene (1):**
 
@@ -1231,21 +1308,27 @@ Namsan je planina južno od grada prekrivena isklesanim kamenim Budama, pagodama
 
 Jezerce s lotosima i vrbama, **paviljon Igyojeong iz 17. stoljeća** nad vodom, voćnjaci okolo, u selu Namsan, **12 min** od Hwangnidan-gila i blizu Samneunga. Mirno, nitko ne dolazi. Veže se uz legendu o kralju i gavranu iz 5. stoljeća. Ako ima energije poslije Namsana, inače ravno u Airbnb.
 
-### 19:00 — 💸 Yosukgung 1779 (요석궁 1779)
-*⏱ 2 h · ☔ · 🦵 lagano, ⚠️ moguće sjedenje na podu*
+### 19:00 — Večera: Jeongsugaseong (정수가성)
+*⏱ 1,5–2 h · ☔ · 🦵 lagano*
 
-**Gyo-dong (Gyochon)**, u povijesnom imanju **klana Choi**, iste obitelji čiju smo kuću vidjeli u subotu. Kuhinja po **receptima plemićkih obitelji**: dugo kuhane juhe, fino rezano povrće, jela koja se nose u slijedu (hanjeongsik u plemićkom stilu). **70–120 000+ ₩ po osobi**, **rezervacija obavezna** (telefon ili CatchTable), **otvoreno ponedjeljkom**. Zadnja večer u staroj prijestolnici i treći splurge putovanja.
+**Jeongsugaseong**, Hadong, **10:00–21:00 svaki dan, otvoreno ponedjeljkom.** Korejska kuhinja u setu, **25–45 000 ₩ po osobi**: **gulbi** (soljeni, sušeni žuti grabljivac, slavna korejska delicija, pečen), **galbijjim** (pirjana kratka rebra), **riža kuhana u listu lotosa**, uz niz priloga. Zadnja večer u staroj prijestolnici, svečano, ali bez cijene plemićke kuhinje. Taksi iz Airbnba. ⚠️ **WIP:** treba li rezervacija za 4 i sjedi li se za stolom.
 
-⚠️ Pri rezervaciji pitati **sjedi li se na podu ili za stolom** (Lucijino koljeno) i što sve dolazi u setu. Izbjeći sirovo: "no raw fish or meat".
+**↔ Zamjene (2):**
 
-**↔ Zamjene (1):**
-
-- **Jeongsugaseong (정수가성)**, Hadong, **10:00–21:00 svaki dan, otvoreno ponedjeljkom**. Set-meniji **25–45 000 ₩**: **gulbi** (soljeni, sušeni žuti grabljivac sušen na ječmu, slavna korejska delicija, peče se), **galbijjim** (pirjana kratka rebra), **riža kuhana u listu lotosa**. Isti stil, upola cijene · *⏱ 1,5–2 h · ☔ · 🦵*
+- ⚠️ 💸 **Yosukgung 1779 (요석궁 1779)**, **samo ako uspijemo rezervirati, i to sa stolicama** (ne na podu, zbog Lucijina koljena). Gyo-dong (Gyochon), u povijesnom imanju **klana Choi**, kuhinja po receptima plemićkih obitelji, jela u slijedu (hanjeongsik). **70–120 000+ ₩ po osobi** (s pićem 80+ € po glavi), rezervacija telefonom ili CatchTable, otvoreno ponedjeljkom. Izbjeći sirovo: "no raw fish or meat" · *⏱ 2 h · ☔ · 🦵*
+- **Neulbom (늘봄)**, cesta Bulguksa–Bomun, 09:00–21:00: dolsotbap, bulgogi od hanwooa, galbijjim · *⏱ 1 h · ☔ · 🦵*
 
 ### 21:00 — Woljeonggyo noću ili Bar Boon
 *⏱ 1 h · 🌦️ · 🦵 lagano*
 
-Yosukgung je u Gyochonu, a **most Woljeonggyo je 5 min pješice**, osvijetljen do 23:00. Ili zadnje piće u **Bar Boonu** ili ostatak **Gyodong Beopjua** u Airbnbu. **Pakiramo kofere**, sutra check-out u 11:00 i Busan.
+Taksi do **mosta Woljeonggyo**, osvijetljen do 23:00. Ili zadnje piće u **Bar Boonu** ili ostatak **Gyodong Beopjua** u Airbnbu. **Pakiramo kofere**, sutra check-out u 11:00 i Busan.
+
+### 🦵 Navečer — odluka o Igidaeu (sutra)
+Prema tome kako je koljeno nakon Seokgurama i Namsana:
+- **Koljeno OK → sutra cijeli Igidae** (4,7 km, 70+ strmih stubišta).
+- **Koljeno boli → Plan B:** samo sjeverni kraj (~1 km ravne drvene staze).
+- **Koljeno jako loše → Plan C:** samo Skywalk.
+Detalji u Danu 9.
 
 ### 🅱️ OKIDAČI ZA DAN 8
 - **Propušten alarm u 10:00 ili sve rasprodano:** 1.11. na blagajni oko 08:30 (karte na licu mjesta od 09:00), ili palača bez vrta i Changgyeonggung.
@@ -1253,7 +1336,7 @@ Yosukgung je u Gyochonu, a **most Woljeonggyo je 5 min pješice**, osvijetljen d
 - **Dosta hramova:** izbaciti Seokguram, dulje na Namsanu ili Seochulji.
 - **Kiša:** Bulguksa i Seokguram podnose kišu. Umjesto Namsana Nacionalni muzej.
 - **Yangdong pomaknut s nedjelje:** ide umjesto Namsana.
-- **Yosukgung nema mjesta:** Jeongsugaseong.
+- **Jeongsugaseong pun ili zatvoren:** Neulbom, ili Byeolchaeban ako je bio pun u nedjelju.
 - **Dosta Gyeongjua:** sutra raniji polazak u Busan.
 
 ---
@@ -1298,8 +1381,8 @@ Yangdong i Namsan zamjenjivi su između nedjelje i ponedjeljka, Nacionalni muzej
 | **Noćna tržnica Jungang** | pladanj s četiri pregrade 10–12 000 ₩, **sri–ned** ~18/19–23 | 1,5 h | ☔ | lagano |
 | **Busan Sikdang** (Bulguksa) | doenjang-jjigae, tteokgalbi i riba, ~15 000 ₩, otvoreno ponedjeljkom | 1 h | ☔ | lagano |
 | **Neulbom** (Bulguksa–Bomun) | dolsotbap, bulgogi, galbijjim, 09–21, otvoreno ponedjeljkom | 1 h | ☔ | lagano |
-| 💸 **Yosukgung 1779** | plemićka kuhinja, 70–120 000+ ₩, rezervacija, otvoreno ponedjeljkom | 2 h | ☔ | lagano |
-| **Jeongsugaseong** | gulbi, galbijjim, riža u lotosu, 25–45 000 ₩, 10–21, otvoreno ponedjeljkom | 1,5 h | ☔ | lagano |
+| ⚠️ 💸 **Yosukgung 1779** | plemićka kuhinja, 70–120 000+ ₩, rezervacija, otvoreno ponedjeljkom · samo uz stolice, malo vjerojatno | 2 h | ☔ | lagano |
+| ✅ **Jeongsugaseong** (plan 26.10.) | gulbi, galbijjim, riža u lotosu, 25–45 000 ₩, 10–21, otvoreno ponedjeljkom | 1,5 h | ☔ | lagano |
 | **Ulica haejangguka Palujeong** | juhe 24 h, haejangguk sa želeom od žira, za mamurluk | 45 min | ☔ | lagano |
 | **Hwangnam-ppang / chalboribbang** | kolačići s crvenim grahom od 1939. / palačinke od ječma | 15 min | ☔ | lagano |
 | **Gyodong Beopju** | rižino vino obitelji Choi, ~35–40 000 ₩ za 900 ml, nepasterizirano, u hladnjak | — | ☔ | — |
@@ -1308,7 +1391,7 @@ Yangdong i Namsan zamjenjivi su između nedjelje i ponedjeljka, Nacionalni muzej
 
 ---
 
-## UTO 27.10. — TRANSFER, SKYWALK I GWANGALLI
+## UTO 27.10. — TRANSFER, SKYWALK, IGIDAE, GWANGALLI I JAHTA
 **Noćenje: Busan, BrownSuites Busan Station · Dan 9 od 14**
 
 ### Transfer Gyeongju → Busan, KTX
@@ -1336,35 +1419,46 @@ Zašto ne bus: busevi iz Gyeongjua stižu na **Nopo** (sjeverni rub Busana, 45�
 
 **오륙도 스카이워크**, potkova od stakla na rubu litice, **37 m iznad mora**, s pogledom na otočiće Oryukdo ("pet ili šest otoka", ovisno o plimi). **Besplatno, 09:00–18:00**, **zatvara se po kiši, snijegu ili jakom vjetru**. Ravan pristup s gornjeg platoa, navlake za cipele na ulazu. Obalni Busan je vjetrovit, pratimo prognozu.
 
-### 13:45 — Igidae, sjeverni kraj (Dongsaengmal)
-*⏱ 1–1,5 h · ☀️ · 🦵 do 🦵🦵*
+### 13:30 — Igidae: cijela staza (plan) ili Plan B / C
+*⏱ 1–3 h · ☀️ · 🦵🦵🦵 cijela / 🦵 Plan B*
 
-⚠️ **Zašto ne cijela staza:** obalna staza Igidae ima 4,7 km uz litice i **više od 70 strmih drvenih stepeništa** stalno gore-dolje. Ukupni uspon nije velik, ali stepenice su točno ono što koljeno ne voli. Najstrmiji dio je odmah kod Oryukdoa, a **na cijeloj dužini nema izlaza na cestu**. A ovo je tri dana poslije Ulsanbawija i dan poslije Seokgurama.
+> ⚠️⚠️ **CIJELI IGIDAE JE NAJZAHTJEVNIJA STAZA NA PUTU POSLIJE ULSANBAWIJA.**
+> **4,7 km · 2,5–3 h · 70+ strmih drvenih stubišta** stalno gore-dolje uz liticu. Ukupni uspon nije velik, ali stepenice su točno ono što koljeno ne voli. **Na cijeloj dužini praktički nema izlaza na cestu** (⚠️ WIP: provjeriti na Naveru postoji li izlaz kod Eoulmadanga), a staza **nije osvijetljena**. Ovo je pet dana poslije Ulsanbawija i dan poslije Seokgurama.
+>
+> **Odluka je sinoć (26.10. navečer)**, prema koljenu, i još jednom ovdje kod Skywalka:
+> - **Koljeno OK → cijela staza** (plan). Polazak najkasnije u **13:45**, jer je zalazak u 17:35. Ako pada kiša ili su stepenice mokre, i tada Plan B.
+> - **Koljeno boli → Plan B: samo sjeverni kraj.**
+> - **Koljeno jako loše → Plan C: samo Skywalk**, pa ravno na Gwangalli na kavu.
 
-**Plan:** sa Skywalka **taksi (~10 min) do Dongsaengmala (동생말)**, pa **0,8–1,2 km drvene staze** prema Eoulmadangu: blagi nagib, mali viseći most, pogled na **most Gwangan i nebodere Marine Cityja** preko vode. Natrag istim putem ili taksijem.
+**Cijela staza (plan):** hodamo **od Skywalka prema sjeveru, do Dongsaengmala (동생말)**, tako da završavamo 10 min od Gwangallija. **Najstrmiji dio je odmah na početku, kod Oryukdoa**: ako nakon prvih 20–30 minuta koljeno ne valja, to je jedino mjesto gdje se još lako vraćamo do Skywalka i taksija. Usput: viseći mostovi, morske špilje, stijena Nongbawi, pogled na most Gwangan i neboderi Marine Cityja na kraju. Štapovi za Luciju, voda, nema dućana usput.
 
-**Opcija, cijela staza (samo ako je koljeno super):** **4,7 km, 2,5–3 h**, hodamo **od Dongsaengmala prema Oryukdou** (sjever prema jugu), tako da je najstrmiji dio na kraju i većinom uzbrdo. Viseći mostovi, morske špilje, stijena Nongbawi. Ručak tada prije, u gradu, a Skywalk na kraju, **prije 18:00**. Odluka na licu mjesta.
+**Plan B, sjeverni kraj:** sa Skywalka **taksi (~10 min) do Dongsaengmala**, pa **0,8–1,2 km drvene staze** prema Eoulmadangu: blagi nagib, mali viseći most, pogled na most Gwangan. Natrag istim putem, 1–1,5 h ukupno.
 
 **↔ Zamjene (3):**
 
-- **Haeundae Blueline Park (해운대 블루라인파크), staza:** stara pruga uz more pretvorena u **potpuno ravnu drvenu stazu**, bez stepenica. Mipo, Cheongsapo, Songjeong, hodati 2,4–4,8 km, natrag obalnim vlakićem ili taksijem. Za dan kad koljeno ne može · *⏱ 1,5–2 h · ☀️ · 🦵*
+- **Haeundae Blueline Park (해운대 블루라인파크), staza:** stara pruga uz more pretvorena u **potpuno ravnu drvenu stazu**, bez stepenica. ⚠️ Sutra ionako idemo Sky Capsulom po istoj pruzi, pa samo ako Igidae otpadne zbog koljena · *⏱ 1,5–2 h · ☀️ · 🦵*
 - **Taejongdae**, litice i svjetionik na jugu Yeongdoa. Samo **vlakićem Danubi**, inače strmi asfalt · *⏱ 2 h · ☀️ · 🦵*
 - **Spa Land, Centum City**, kišni plan: 13 sauna na obučenom katu, ~17 000 ₩ radnim danom za 4 h · *⏱ 3–4 h · ☔ · 🦵*
 
-### 15:30 — Hotel, check-in
-Taksi natrag (~25 min), koferi iz ormarića, check-in od 16:00, tuš, pauza.
+### ~16:30 — Ravno na Gwangalli (bez hotela)
+S kraja staze kod Dongsaengmala **taksi ~10 min** do Gwangallija. **Ne vraćamo se u hotel**: koferi su u ormarićima na Busan Stationu ili kod hosta, pa check-in radimo kasno navečer (kod na vratima, check-in od 16:00 bez gornje granice). Kava na plaži, odmor za noge.
 
 ### 17:00 — Gwangalli: zalazak i most
 *⏱ 1 h · 🌦️ · 🦵 lagano*
 
-Taksi s Busan Stationa ~25 min, 13–16 000 ₩. **Plaža Gwangalli** je 1,4 km pijeska okrenutog prema **mostu Gwangan (Diamond Bridge)**, visećem mostu dugom 7,4 km koji se noću osvjetljava u bojama. Zalazak oko 17:35 je iza leđa, na zapadu, pa je ljepši trenutak **plavi sat i paljenje svjetala** oko 18:00. Bez karte i bez reda.
+**Plaža Gwangalli** je 1,4 km pijeska okrenutog prema **mostu Gwangan (Diamond Bridge)**, visećem mostu dugom 7,4 km koji se noću osvjetljava u bojama. Zalazak oko 17:35 je iza leđa, na zapadu, pa je ljepši trenutak **plavi sat i paljenje svjetala** oko 18:00. Bez karte i bez reda.
 
 ⚠️ **Millak Waterside Park** (stepenice uz more, nekad poznato "pivo na stepenicama") od 1.7.2023. je **zona bez alkohola**, kazna 50 000 ₩. ⚠️ Drone show na Gwangalliju ide samo subotom.
 
-### 18:30 — Večera i Galmegi Brewing
+### 18:30 — 🛥️ Noćna vožnja jahtom ispod mosta Gwangan
+*⏱ 45 min + 15 min do pristaništa · 🌦️ ne ide po jakom vjetru · 🦵 lagano*
+
+Jahta iz **Haeundae Suyeong Yachting Centera** (Suyeong-man, ~10 min taksijem od Gwangallija; ukrcaj kod **Mooring Gate 3**, ulazi se kroz Gate 4). Krug od **~45 min**: ispod osvijetljenog mosta Gwangan i uz plažu Gwangalli, **vatromet na brodu** i fotografija s mostom u pozadini. **~19 $ po osobi** (radnim danom navečer), termini 17:00–22:00. Rezervacija online (3ha.in), 1–2 dana ranije prema prognozi. ⚠️ **WIP:** potvrditi raspored za listopad i cijenu. Zahodi su u zgradi centra, ne na brodu. Topla jakna, na moru navečer puše.
+
+### 19:45 — Večera i Galmegi Brewing
 *⏱ 2–3 h · ☔ · 🦵 lagano*
 
-Uz plažu je zid restorana i barova okrenutih mostu. Lokal za večeru nije odabran, biramo na Naveru s ocjenom 4,3+: **jogae-gui** (školjke pečene na roštilju na stolu, busanska klasika, sve kuhano), korejski BBQ ili pizza u Galmegiju. ⚠️ Gwangalli je pun **hoe** restorana sa sirovom ribom, tražimo kuhano.
+Taksi natrag na Gwangalli (~10 min). Uz plažu je zid restorana i barova okrenutih mostu. Lokal za večeru nije odabran, biramo na Naveru s ocjenom 4,3+: **jogae-gui** (školjke pečene na roštilju na stolu, busanska klasika, sve kuhano) ili pizza u Galmegiju. ⚠️ Gwangalli je pun **hoe** restorana sa sirovom ribom, tražimo kuhano.
 
 **Galmegi Brewing (갈매기브루잉)**, Gwangnam-ro, **prva craft pivovara Busana**: IPA, stout, sezonska piva i **pizza iz krušne peći**.
 
@@ -1373,106 +1467,133 @@ Uz plažu je zid restorana i barova okrenutih mostu. Lokal za večeru nije odabr
 - **Rooftop lounge s pogledom na most** (npr. u zgradi Hotel 1 na plaži), utorkom bez rezervacije · *⏱ 1–2 h · ☔ · 🦵*
 - **Kišni plan: uličice Nampa s pićem**, bliže hotelu (tri stanice metroom) · *⏱ 2 h · ☔ · 🦵*
 
-### 22:30 — Subyeon Choego Dwaeji Gukbap
-*⏱ 45 min · ☔ · 🦵 lagano*
-
-**수변최고돼지국밥 민락본점**, **otvoreno gotovo 24 h**, dwaeji gukbap s **hangjeongsalom** (svinjski vrat, mekan i mastan) ~13 000 ₩. Klasičan busanski kraj večeri. Vikendom red od sat i više, utorkom navečer ide brzo. Ako je ručak bio gukbap, a netko ga ne voli, preskačemo. Taksi natrag ~25 min.
+### ~22:30 — Natrag u hotel
+Taksi ~25 min do Busan Stationa, koferi iz ormarića (Zimcarry radi do 22:00, ormarići 24 h), check-in. ⚠️ Ako su koferi kod Zimcarryja, netko ih mora pokupiti **do 22:00**, pa je jednostavnije koristiti ormariće.
 
 ### 🅱️ OKIDAČI ZA DAN 9
-- **Kiša ili vjetar:** Skywalk zatvoren, Igidae otpada. Spa Land, navečer Nampo.
-- **Koljeno:** samo Skywalk i Blueline Park (ravno), ili samo Skywalk.
-- **Koljeno je super i vrijeme lijepo:** cijela staza Igidae od Dongsaengmala prema Oryukdou.
-- **Host ne prima kofere ranije:** ormarići ili Zimcarry na Busan Stationu.
+- **Kiša ili vjetar:** Skywalk zatvoren, Igidae otpada, jahta vjerojatno ne vozi. Spa Land, navečer Gwangalli ili Nampo.
+- **Koljeno (odluka sinoć):** Plan B (sjeverni kraj) ili Plan C (samo Skywalk). Nikad cijela staza ako je kiša ili kasnimo poslije 13:45.
+- **Na prvoj strmini koljeno ne valja:** natrag do Skywalka, taksi do Dongsaengmala, Plan B.
+- **Host ne prima kofere ranije:** ormarići na Busan Stationu (24 h).
+- **Jahta otkazana:** dulje na plaži, rooftop s pogledom na most.
 - **Umor:** Gwangalli samo zalazak i Galmegi, rano natrag.
 
 ---
 
-## SRI 28.10. — TRŽNICE, SELO NA LITICI I BUSANSKA HRANA
+## SRI 28.10. — OBALA, VLAKIĆI, HRAM NA MORU, GAMCHEON I NOĆNI BUSAN
 **Noćenje: Busan, BrownSuites Busan Station · Dan 10 od 14**
 
-⚠️ **Srijeda:** most Yeongdo diže se **samo subotom (14:00–14:15)**, pa ne danas. Sutra je rani KTX za Seoul, večer ne razvlačimo.
+**Logika dana:** jutro na **istočnoj obali** (hram na moru prvi, dok je mirno, pa 🅰️ Sky Capsule ako dobijemo karte · 🅱️ plaža Songjeong · 🅲 šuma Ahopsan, i ručak u Gijangu), popodne **Gamcheon lite** i zalazak nad lukom blizu hotela, navečer **Hwangnyeongsan**. Tržnice i riba za doručak su namjerno izbačeni (želja ekipe). ⚠️ Puno taksija: istok i zapad grada su na suprotnim krajevima. **Prvo se reže: Hwangnyeongsan.** Sutra je rani KTX, kofere pakiramo večeras.
 
-### 08:30 — Jagalchi: doručak u uličici pečene ribe
-*⏱ 1,5 h · ☔ · 🦵 lagano*
+⚠️ **Srijeda:** most Yeongdo diže se **samo subotom**, pa ne danas.
 
-**Metro linija 1, od Busan Stationa do Jagalchija tri stanice** (izlaz 10 ili 6). **Najveća ribarnica u Koreji**, pola u velikoj zgradi, pola uz more na otvorenom.
+### 08:30 — Doručak u kafiću ili pekari
+*⏱ 45 min · ☔ · 🦵 lagano*
 
-**Doručak u uličici pečene ribe (생선구이 골목)** kod izlaza 6, niz malih zalogajnica: **skuša (godeungeo), hairtail (galchi), iverak** pečeni na ploči, uz rižu, juhu od siraegija (sušeni listovi rotkve) i priloge. **10–15 000 ₩ po osobi**, od ranog jutra. Potpuno kuhano, bez cjenkanja.
+Normalan doručak blizu hotela (kafić ili pekara oko Busan Stationa / Choryanga), bez ribe. ⚠️ **WIP:** odabrati na Naver mapi (브런치 / 베이커리 부산역). Rezerva: kava i pecivo na stanici. **Ako ide 🅰️ Sky Capsule, doručak je u 07:45** (vidi dolje).
 
-Poslije šetnja kroz **glavnu dvoranu** (prizemlje: bazeni sa živom ribom, rakovima, hobotnicama, plaštenjacima). ⚠️ Glavna zgrada zatvorena je **prvi i treći utorak**, srijeda je u redu.
+### 09:00 — Taksi do Haedong Yonggungse
+*⏱ 40–45 min · ~30–40 000 ₩*
 
-**↔ Zamjene (2):**
+**Jedan taksi** s Busan Stationa do hrama (Gijang-eup, Sirang-ri). Hram ide **prvi**, prije ~11:00, kad su uske stepenice još prazne.
 
-- **💸 Izabrati živu ribu dolje, kuhaju je gore (chojangjip)**, za veliku gozbu: stol **5–6 000 ₩ po osobi** plus kuhanje **5–10 000 ₩ po načinu**, plus cijena ribe. ⚠️ **Busanski default je sirovo**, pa na štandu i u kuhinji kažemo **"jjim" (na pari) ili "gui" (pečeno)** i "no raw". **Cijenu dogovoriti PRIJE nego se riba usmrti.** Računati još 20–30 000 ₩ za stol, kuhanje i piće · *⏱ 1,5 h · ☔ · 🦵*
-- **Uličica pečenog hagfisha (곰장어 골목):** hagfish (riba nalik jegulji) pečen sa soli ili ljutim umakom, busanska posebnost, praktična verzija slamnatog roštilja iz Gijanga · *⏱ 1 h · ☔ · 🦵*
+### 09:45 — Haedong Yonggungsa (해동용궁사)
+*⏱ 1–1,5 h · 🌦️ · 🦵🦵 kamene stepenice dolje i natrag gore*
 
-### 10:00 — BIFF trg i tržnica Gukje
-*⏱ 1,5 h · 🌦️ · 🦵 lagano*
+**Besplatno, otvoreno 05:00–21:00.** Jedan od rijetkih korejskih hramova **na stijenama uz samo more**: dvorane, pagoda i zlatni Buda iznad valova, kip boga mora. Od ulaza se ide uličicom sa zodijakalnim kipovima i niz **108 stepenica** do hrama. ⚠️ Oko podneva **gužva na uskim stepenicama**, zato dolazimo rano. Lucija sa štapovima, polako.
 
-**BIFF trg** (Busanski filmski festival, otisci ruku redatelja u pločniku), 5 min od Jagalchija. Ovdje je izmišljen **ssiat hotteok** (씨앗호떡): pržena palačinka punjena smeđim šećerom i **sjemenkama suncokreta i bundeve**, razrezana i napunjena, ~2 000 ₩. Štandovi (npr. Seunggi Wonjo) otvaraju oko 09:30–10:00.
+### 11:15 — ❓ Tri ravnopravne opcije (odluka na licu mjesta ili ranije)
 
-**Tržnica Gukje (국제시장)** je ogromna tradicionalna tržnica iz doba izbjeglica (film "Ode to My Father"): uličice po temama, sve od posuđa do vojnih viškova. Šetnja bez cilja. U Nampu su i jeftine **naočale** po mjeri, ako netko treba. Odmah do nje je **tržnica Bupyeong (Kkangtong)**.
+*Ispravljeno 16.10.: Sky Capsule je online rasprodan. Zato su ovdje tri ravnopravne opcije, a Beach Train sam po sebi (bez kapsule) više nije u planu — po recenzijama je "rezervna opcija", pogled zaklanja raslinje i hodači, a obalne poglede ćemo već imati na Igidaeu, Skywalku i jahti.*
 
-### 11:30 — Ručak: nakgopsae ili yubu jeongol
+**🅰️ 🚡 Sky Capsule (ako dobijemo karte)**
+*⏱ ~30 min vožnje + presjedanja · ☀️ (jak vjetar zaustavlja kapsule) · 🦵 lagano*
+
+**Sky Capsule (스카이캡슐)**: mala retro kabina za do 4 osobe na **povišenoj tračnici 7–10 m iznad stare obalne pruge**, tik uz more, **Mipo ↔ Cheongsapo, ~30 min**, vozi polako (~4 km/h). Po recenzijama "neki od najljepših obalnih pogleda u Koreji". Kabina za 4: ~50 000 ₩ (~8 € po osobi). ([A Love Letter to Asia](https://alovelettertoasia.com/haeundae-blue-line-park-sky-capsule-vs-beach-train/), [Travel-Stained](https://travel-stained.com/haeundae-sky-capsule-busan/))
+- ⏰ **Do ~27.10. svaki dan provjeravati otkazivanja**: službena stranica Blueline Parka, **Klook, KKday, Trip.com**. Provjeriti i **obrnuti smjer (Cheongsapo → Mipo)**, koji se lakše dobije, i **sve termine** (prvi ~09:00, popodnevni).
+- **Na dan:** blagajne u Mipou i Cheongsapou prodaju **preostala mjesta za isti dan**, ali vrlo malo. Doći na otvaranje (~08:30–09:00); srijeda je bolja od vikenda.
+- **Ako dobijemo karte, jutro ide ovim redom:** 07:45 doručak → 08:20 taksi do Mipoa (~35 min) → **~09:00 kapsula** Mipo → Cheongsapo → po želji **Daritdol Skywalk** u Cheongsapou (staklena platforma nad morem, besplatno, 10 min) → taksi ~10 min do **Haedong Yonggungse ~10:15** (još prije gužve) → kratko Songjeong → ručak u Gijangu ~12:30.
+
+**🅱️ 🏖️ Plaža Songjeong i kafić uz more**
+*⏱ 1 h · 🌦️ · 🦵 lagano*
+
+Taksi ~10 min od hrama. **Songjeong (송정해수욕장)**: mirna plaža surfera, kava s pogledom na more, šetnja po pijesku. Besplatno i bez napora; najopuštenija opcija, ali najmanje upečatljiva.
+
+**🅲 🎋 Šuma Ahopsan (아홉산숲)**
+*⏱ 1–1,5 h · 🌦️ · 🦵 lagano (ravno)*
+
+Taksi ~15–20 min od hrama. **Obiteljska šuma koju ista obitelj čuva netaknutom ~400 godina**: **golemi bambusovi gajevi** (snimalište filma "The King") i stari korejski crveni borovi, 116 zaštićenih stabala. **8 000 ₩ (~5 €), 09:00–18:00 (ožujak–studeni), zadnji ulaz 17:00, otvoreno svaki dan.** **Ravne staze**, ~1–2 h za cijeli krug. ⚠️ **Štapovi za hodanje nisu dopušteni** (staze su ravne, pa bi Lucija trebala biti OK). Promjena od mora: zeleno i tiho nakon tri obalna dana. ([Telltrip, 2026.](https://www.telltrip.com/domestic-travel/busan-ahopsan-forest-bamboo-trail/))
+
+*Odbačeno, za evidenciju:* crkva Jukseong "Dream" (filmska kulisa na stijenama, besplatno, 10–15 min od hrama) i kafić Wave On (arhitektonski kafić nad morem, ~30 min sjevernije) — dobre rezerve ako ostane vremena.
+
+### 12:30 — Ručak u Gijangu
 *⏱ 1 h · ☔ · 🦵 lagano*
 
-Dvije ravnopravne opcije, obje busanske i obje kuhane:
+**Gijang** je ribarsko mjestašce uz hram. Kuhano, bez sirove ribe.
+- **Po želji: gomjangeo pečen na slami (짚불곰장어)** — jegulji slična riba (hagfish) pečena cijela na vatri od rižine slame, pougljenjena koža se guli za stolom, jede se sa soli i sezamovim uljem. Lokalni specijalitet, potpuno pečeno; tekstura je žilava i "avanturistička", nije za svakoga. Npr. Wonjo Jipbul Gomjangeo (Sirang-ri), srijedom 10:30–21:00 (**UV**).
+- **Ili obična kuhinja:** kalguksu, sundubu, dwaeji gukbap. ⚠️ **WIP:** odabrati na Naver mapi oko Gijanga ili Songjeonga, ocjena 4,3+.
 
-- **Gaemijip, glavna podružnica (개미집 본점)**, tržnica Gukje: **nakgopsae** (낙곱새), **nakji** (mala hobotnica), **gopchang** (goveđe tanko crijevo) i **saeu** (škampi) u ljutom crvenom umaku, kuha se u tavi na stolu i jede preko riže. Busanski izum. **11:00–21:00 (zadnja narudžba 20:30), bez neradnog dana.** ⚠️ Ljuto je, tražimo blaže ("deol maepge"). Tko ne voli crijeva, uzima **naksae**, samo hobotnicu i škampe.
-- **Kkangtong Golmok Halmae Yubu Jeongol (깡통골목할매유부전골)**, uličica Kkangtong: **yubu jeongol**, vrećice od prženog tofua punjene staklenim rezancima i povrćem, u blagoj vrućoj juhi od ribe i rotkve. Lagano, toplo, jedinstveno. **10:00–18:00 (zadnja narudžba 17:50), utorkom zatvoreno.** Samo za ručak, nikad za večeru.
+### 14:15 — Taksi natrag prema hotelu
+*⏱ 40–50 min · 30–40 000 ₩*
 
-### 13:00 — Huinnyeoul Culture Village (흰여울문화마을)
-*⏱ 1,5–2 h s putom · ☀️ · 🦵 gornja staza / 🦵🦵🦵 stepenice dolje*
+Kratko u hotel (Busan Station) ~14:55–15:10: zahod, voda, jakna za večer.
 
-**Otok Yeongdo.** **Bus 7, 71 ili 508** (također 6, 9, 82, 85) iz Nampa preko mosta Yeongdo do stanice **흰여울문화마을** (15–20 min, ~1 500 ₩), ili taksi 6–9 000 ₩. Besplatno, otvoreno uvijek, info centar 10:00–18:00.
+### 15:30 — 🎨 Gamcheon Culture Village „lite“ (plan)
+*⏱ 1 h 15 min · 🌦️ · 🦵 glavna ulica / 🦵🦵🦵 sporedne uličice*
 
-Selo iz ratnog doba na litici iznad **sidrišta brodova** u Korejskom tjesnacu: uske kućice obojene bijelo i plavo, mali kafići s pogledom na desetke usidrenih teretnjaka. Ista atmosfera kao poznatiji **Gamcheon**, ali tiše i s pravim pogledom na more.
+**Taksi od hotela ~20 min ravno do GORNJEG ulaza** (감천문화마을 정류장 / info centar). Ne idemo metroom ni busom: metroa nema blizu, a bus je krcat i zbunjujući. **Ulaz besplatan.**
 
-⚠️ **Samo gornja staza.** Selo ima dvije razine povezane strmim stepeništima ("Piano" i "Rainbow", nejednake stepenice). **Gornja staza uz rub litice je ravna**, hodamo nju i pijemo kavu s pogledom. Do obalne staze i tunela dolje, ako netko želi, ide se **blažom sjevernom padinom kod info centra**.
+Selo iz Korejskog rata na terasama brda, **kućice u pastelnim bojama**, murali, mali muzeji i galerije, pogled preko krovova prema luci. Najpoznatija fotka Busana.
+- **Ruta: samo glavna gornja ulica** (relativno ravna) i **jedan vidikovac**. Sporedne uličice su jako strme, po kiši sklizave.
+- **Kip Malog princa preskačemo** zbog reda za fotku.
+- **Gužva** je najveća na ulazu, gdje su i kič-suvenirnice. Dublje u selu je mirnije.
+- Kafići i hrana su turistički i skuplji, ne jedemo ovdje.
 
-**↔ Zamjene (2):**
+**🅱️ Fallback 1: Gamcheon do kraja** (ako smo svježi i koljeno je OK): 15:30–~18:00, 2–3 h. Glavna ulica, sporedne uličice s muralima, muzeji i galerije, vidikovci, zalazak iz sela. Stamp tour s kartom skrivenih točaka ~2 000 ₩, opcionalno. ⚠️ Puno strmih stepenica dan nakon Igidaea. Tada otpada vidikovac nad lukom, večera ide na ~19:30, a Hwangnyeongsan postaje upitan.
 
-- **Igidae i Skywalk**, ako su jučer propali zbog vjetra · *⏱ 2 h · ☀️ · 🦵🦵*
-- **Spa Land, Centum City**, po kiši: obučena jjimjilbang zona (majica i kratke hlače), golo kupalište odvojeno i opcionalno. 17 000 do 25 000 ₩ za 4 h · *⏱ 3–4 h · ☔ · 🦵*
+**🅱️ Fallback 2: Huinnyeoul Culture Village (흰여울문화마을)** (ako boli koljeno ili pada kiša): **Otok Yeongdo**, taksi ~20 min. Selo iz ratnog doba na litici iznad **sidrišta brodova**: uske kućice bijele i plave, kafići s pogledom na desetke usidrenih teretnjaka. **Samo gornja staza uz rub litice, ravna**; strmim stepeništima („Piano“, „Rainbow“) dolje ne idemo. Mirnije od Gamcheona i s pravim pogledom na more.
 
-### 15:30 — Odmor (ili Pomorski muzej)
-Bus natrag u Nampo i hotel. Opcija na Yeongdou: **Nacionalni pomorski muzej**, besplatno, utorak–nedjelja 10:00–18:00, akvarijski tunel, brodovi. Dobar kišni blok.
-
-### 17:00 — 168 stepenica i besplatno dizalo
+### 16:50 — Vidikovac nad lukom: 168 stepenica, zalazak
 *⏱ 45 min · 🌦️ · 🦵 dizalo*
 
-**초량 168계단**, Choryang, **~10 min pješice od hotela.** Strmo stubište iz doba izbjeglica, kojim su ljudi nosili vodu s lučkog bunara. Staru monorail je zamijenilo **besplatno koso dizalo "168계단 하늘길"** (12 osoba, nagib ~40°) s tri stanice, a u sredini je **vidikovac Kim Min-bu** s panoramom luke Busan. Zalazak oko 17:30, lučke dizalice i most Busan u sumrak.
+Taksi ~20 min iz Gamcheona. **초량 168계단**, Choryang, **~10 min pješice od hotela.** Strmo stubište iz doba izbjeglica, kojim su ljudi nosili vodu s lučkog bunara. **Besplatno koso dizalo "168계단 하늘길"** (12 osoba, nagib ~40°) vozi gore, a u sredini je **vidikovac Kim Min-bu** s panoramom luke Busan. **Zalazak ~17:35**: lučke dizalice i most Busan u sumrak.
 
-### 19:00 — Večera: dvije ravnopravne opcije
-*⏱ 2–3 h · ☔ · 🦵 lagano*
+### 18:15 — Hotel, kratki predah
 
-**A) Naengchae jokbal, pa noćna tržnica Kkangtong**
-- **Uličica jokbala Bupyeong (부평족발골목)**, Nampo: **naengchae jokbal** (냉채족발), busanski izum. **Kuhane svinjske nogice narezane na hladno**, s **trakama meduze**, krastavcem i **oštrim senf-umakom**. Zvuči čudno, a osvježavajuće je i jako dobro. Npr. **Wonjo Busan Jokbal (원조부산족발)**, bez neradnog dana, **35 000 (mali) do 60 000 ₩ (XL)** po tanjuru za dijeljenje; za četvero srednji ili veliki, uz doenjang-jjigae i dolsotbap. Ili Hanyang Jokbal.
-- **Noćna tržnica Kkangtong (부평깡통야시장)**, odmah do: kolica s hranom **svaku večer 19:30–23:30** (pojedini štandovi znaju ne raditi). Zalogaji iz cijelog svijeta i korejski: tteokbokki, eomuk, pečeni sir, mandu. Za desert i pivo.
+### 19:00 — Večera
+*⏱ 1,5–2 h · ☔ · 🦵 lagano*
 
-**B) Dongnae Halmae Pajeon (동래할매파전)**
-- **Metro linija 1** do Dongnaea ili Sajika, ~30 min. Stara kuća koja radi **Dongnae pajeon**: palačinka s mladim lukom, ali **debela, mekana, gotovo kremasta**, s dagnjama, kamenicama, lignjama i govedinom, peče se pod poklopcem i **nije hrskava**. Lokalna verzija koja ne postoji drugdje. Uz makgeolli.
-- **11:30–21:30, pauza 15:00–17:00, ponedjeljkom zatvoreno.** **Doći do ~19:30.** Natrag u Nampo na Kkangtong ako ima energije.
+**A) Dongnae Halmae Pajeon (동래할매파전)** (plan)
+- Taksi ~25 min ili metro L1 ~30 min do Dongnaea. Stara kuća koja radi **Dongnae pajeon**: palačinka s mladim lukom, ali **debela, mekana, gotovo kremasta**, s dagnjama, kamenicama, lignjama i govedinom, peče se pod poklopcem i **nije hrskava**. Lokalna verzija koja ne postoji drugdje. Uz makgeolli.
+- **11:30–21:30, pauza 15:00–17:00, ponedjeljkom zatvoreno.** **Doći do ~19:30.**
 
-**↔ Zamjene (1):**
+**B) ⚠️ 🔥 Dwaeji galbi (marinirana svinjska rebra na roštilju)**, ako ekipa radije hoće roštilj. Lokal nije odabran: Naver, 돼지갈비, blizu hotela ili Seomyeona, ocjena 4,3+.
 
-- 🟡 **Gijang, hagfish pečen na gorućoj slami (짚불곰장어):** hagfish se peče cijeli na vatri od slame, koža se guli za stolom, stvarno postoji samo ovdje. Npr. Wonjo Jipbul Gomjangeo Gijang Oegajib (Sirang-ri): utorkom zatvoreno, srijedom 10:30–21:00. **45–55 min taksijem, 28–35 000 ₩ u smjeru.** Samo ako ekipa jako želi · *⏱ 3–4 h · ☔ · 🦵*
+**C) Naengchae jokbal**, Bupyeong, Nampo (hladne kuhane svinjske nogice s meduzom i senf-umakom, 35–60 000 ₩ po tanjuru), ako hoćemo nešto čudno.
 
-### 22:00 — Piće ili spavanje
-Nampo ima šatorske barove i pivnice oko Kkangtonga. **Sutra je KTX ujutro**, kofere pakiramo večeras.
+### 20:30 — 🌃 Hwangnyeongsan, noćni pogled na cijeli Busan
+*⏱ 1 h s putom · ☀️ treba vidljivost · 🦵 10 min uzbrdo*
+
+**황령산 봉수대**, brdo usred grada. **Taksi** (~20 min iz Dongnaea ili s Busan Stationa) do parkirališta vidikovca, pa **~10 min pješice uzbrdo** zemljanom stazom (tenisice). **Besplatno.** Sa signalnog humka (Bongsu-dae) na jednu stranu se vidi **Gwangalli i most Gwangan odozgo**, na drugu Seomyeon i luka. Jedina prava noćna panorama Busana. Taksisti često čekaju dolje; ako ne, Kakao T.
+
+⚠️ **Prvi rez dana**: ako smo umorni ili je magla, preskačemo i idemo spavati.
+
+### ~21:45 — Hotel, pakiranje
+**Sutra je KTX ujutro**, kofere pakiramo večeras.
 
 ### 🅱️ OKIDAČI ZA DAN 10
-- **Kiša:** Huinnyeoul otpada. Spa Land ili Pomorski muzej, tržnice su većinom pod krovom.
-- **Igidae jučer propao zbog vjetra:** danas umjesto Huinnyeoula.
-- **Yubu jeongol zatvoren:** Gaemijip, i obrnuto.
-- **Pajeon zatvoren ili predaleko:** opcija A.
-- **Umor:** jokbal i Kkangtong, rano u krevet.
+- **Kiša:** Sky Capsule po kiši vozi, ali bez pogleda; Haedong podnosi kišu; šuma Ahopsan i Songjeong su po kiši slabiji, pa kafić ili ranije natrag. Gamcheon po kiši je sklizak, pa Fallback 2 (Huinnyeoul samo gornja staza) ili **Spa Land / Nacionalni pomorski muzej**. Hwangnyeongsan otpada.
+- **Jak vjetar:** Sky Capsule ne vozi, pa 🅱️ Songjeong ili 🅲 Ahopsan.
+- **Koljeno nakon Igidaea:** Haedong polako ili samo pogled s vrha; umjesto Gamcheona Huinnyeoul (gornja staza).
+- **Igidae jučer propao zbog vjetra:** danas popodne Igidae (Plan B) umjesto Gamcheona.
+- **Pajeon zatvoren ili predaleko:** opcija B ili C.
+- **Umor:** bez Hwangnyeongsana, rano u krevet.
 
 ---
 
 ## 🧱 DODATNE OPCIJE — BUSAN (27.–28.10.)
 
-Busan je obalni i noćni grad, kiša mu pogađa gotovo sve vanjsko. Hotel je kod Busan Stationa: Nampo i Jagalchi tri stanice metroom, Gwangalli ~25 min taksijem.
+Busan je obalni i noćni grad, kiša mu pogađa gotovo sve vanjsko. Hotel je kod Busan Stationa: Nampo i Jagalchi tri stanice metroom, Gwangalli ~25 min taksijem, Haeundae ~35 min. ⚠️ Riblje tržnice i riba za doručak izbačeni su iz plana (želja ekipe), ali ostaju u tablici kao opcija.
 
 **Znamenitosti i obala**
 
@@ -1480,16 +1601,25 @@ Busan je obalni i noćni grad, kiša mu pogađa gotovo sve vanjsko. Hotel je kod
 |---|---|---|---|---|
 | **Oryukdo Skywalk** | stakleni pod 37 m nad morem, besplatno, 09–18, zatvara se po kiši i vjetru | 45 min | ☀️ | lagano |
 | **Igidae, sjeverni kraj** | Dongsaengmal do Eoulmadanga, ~1 km drvene staze | 1 h | ☀️ | lagano |
-| **Igidae, cijela staza** | 4,7 km, 70+ strmih stepeništa, bez izlaza, **samo ako je koljeno super** | 2,5–3 h | ☀️ | teško |
+| ✅ **Igidae, cijela staza** (plan 27.10., uz Plan B) | 4,7 km, 70+ strmih stepeništa, bez izlaza; odluka večer prije prema koljenu | 2,5–3 h | ☀️ | teško |
 | **Staza Blueline Park** | stara pruga uz more, potpuno ravna, Mipo do Songjeonga | 1,5–2 h | ☀️ | lagano |
-| **Huinnyeoul** | selo na litici, samo gornja staza | 1,5 h | ☀️ | lagano |
+| **Huinnyeoul** | selo na litici, samo gornja staza · 🅱️ fallback 2 za Gamcheon (28.10.) | 1,5 h | ☀️ | lagano |
+| ✅ **Gamcheon lite** (plan 28.10.) | gornji ulaz taksijem, samo glavna ulica i jedan vidikovac, bez Malog princa | 1 h 15 min | 🌦️ | lagano / strme uličice |
+| **Gamcheon do kraja** | 🅱️ fallback 1: uličice s muralima, muzeji, zalazak iz sela | 2–3 h | 🌦️ | teško |
+| 🅰️ **Sky Capsule** (opcija 28.10.) | kabina za 4 po tračnici uz more Mipo ↔ Cheongsapo, ~50 000 ₩ po kabini · online rasprodano, pratiti otkazivanja | 30 min + put | ☀️ | lagano |
+| **Beach Train** | vlakić uz more Mipo → Songjeong, 7–16 000 ₩ · po recenzijama samo rezervna opcija | 30 min | 🌦️ | lagano |
+| 🅲 **Šuma Ahopsan** (opcija 28.10.) | 400 godina stara obiteljska šuma bambusa i borova, 8 000 ₩, 09–18, ravno, štapovi zabranjeni | 1–1,5 h | 🌦️ | lagano |
+| **Crkva Jukseong "Dream"** | filmska kulisa crkve na stijenama uz more, Gijang, besplatno | 45 min | 🌦️ | lagano |
+| **Wave On Coffee** | arhitektonski kafić nad morem, Jangan-eup, skupo | 1 h | ☔ | lagano |
+| ✅ **Haedong Yonggungsa** (plan 28.10.) | hram na stijenama uz more, besplatno, 05–21, 108 stepenica, gužva oko podneva | 1–1,5 h | 🌦️ | srednje |
+| ✅ **Hwangnyeongsan** (plan 28.10.) | noćni pogled na cijeli grad i most Gwangan, taksi + 10 min uzbrdo, besplatno | 1 h | ☀️ | lagano |
+| ✅ 🛥️ **Noćna jahta, Gwangalli** (plan 27.10.) | 45 min ispod mosta Gwangan, vatromet, ~19 $, 17–22 h | 1 h | 🌦️ | lagano |
 | **168 stepenica i dizalo** | besplatno koso dizalo do vidikovca nad lukom, kod hotela | 45 min | 🌦️ | lagano |
 | **Gwangalli** | plaža i osvijetljeni most, drone show samo subotom | večer | 🌦️ | lagano |
 | **Taejongdae** | litice i svjetionik, samo s vlakićem Danubi | 2 h | ☀️ | lagano |
 | **Spa Land, Centum City** | obučena jjimjilbang zona, 17–25 000 ₩ za 4 h | 3–4 h | ☔ | lagano |
 | **Nacionalni pomorski muzej** | Yeongdo, besplatno, uto–ned 10–18 | 1,5 h | ☔ | lagano |
 | ⚾ **Lotte Giants, Sajik** | samo ako se igra doigravanje kod kuće | 3–4 h | ☀️ | lagano |
-| ❌ **Haedong Yonggungsa** | četvrti hram, gužva, 108 stepenica | 3 h | — | srednje |
 | ❌ **Dizanje mosta Yeongdo** | samo subotom u 14:00 | — | — | — |
 | ❌ **Park Millak, piće na stepenicama** | zona bez alkohola od 2023., kazna 50 000 ₩ | — | — | — |
 
@@ -1498,7 +1628,7 @@ Busan je obalni i noćni grad, kiša mu pogađa gotovo sve vanjsko. Hotel je kod
 | Opcija | Što | ⏱ | Vrijeme | 🦵 |
 |---|---|---|---|---|
 | **Hapcheon Gukbapjip** | dwaeji gukbap, bistra juha, Michelin Bib Gourmand, ~13 000 ₩, 09:30–20:00 | 1 h | ☔ | lagano |
-| **Subyeon Choego Gukbap** (Millak) | gukbap sa svinjskim vratom, gotovo 24 h | 45 min | ☔ | lagano |
+| **Subyeon Choego Gukbap** (Millak) | gukbap sa svinjskim vratom, gotovo 24 h · izbačen iz plana 27.10. (druga večera) | 45 min | ☔ | lagano |
 | **Sinchang Gukbap** (Nampo) | gukbap od 1969., nedjeljom zatvoreno | 45 min | ☔ | lagano |
 | **Choryang Milmyeon** | hladni pšenični rezanci, preko puta Busan Stationa, ~7 000 ₩ | 30 min | ☔ | lagano |
 | **Jagalchi, pečena riba** | skuša, hairtail, 10–15 000 ₩, od ranog jutra | 45 min | ☔ | lagano |
@@ -1516,13 +1646,13 @@ Busan je obalni i noćni grad, kiša mu pogađa gotovo sve vanjsko. Hotel je kod
 
 ---
 
-## ČET 29.10. — SUNGSIMDANG, PALAČA, SEOCHON, ESCAPE ROOM
+## ČET 29.10. — SUNGSIMDANG, CAFE POKPO, PALAČA, SEOCHON, ESCAPE ROOM
 **Noćenje: Seoul II, Yeonnam-dong (Mapo) · Dan 11 od 14**
 
-### 07:30 — Doručak: Samjin Eomuk
-*⏱ 20 min · ☔ · 🦵 lagano*
+### 07:30 — Kava na Busan Stationu
+*⏱ 15 min · ☔ · 🦵 lagano*
 
-**삼진어묵**, Busan Station, 1. kat, najstariji korejski brend ribljih kolača (od 1953.). Riblji kolači i "eomuk kroketi" punjeni sirom, kozicama ili povrćem, 2 000–4 500 ₩ komad. Trgovina u stanici radi od oko 07:00. Kava i nešto za vlak iz trgovine.
+Samo kava i nešto sitno za vlak. **Pravi doručak je Sungsimdang u Daejeonu** (~09:40). Riblji kolači Samjin Eomuk su izbačeni (bez ribe za doručak).
 
 ### ~08:00 — KTX Busan → Daejeon (opcionalna stanka)
 *⏱ ~1h40 vožnje, 40 min stanke, pa ~1 h*
@@ -1538,32 +1668,37 @@ Busan je obalni i noćni grad, kiša mu pogađa gotovo sve vanjsko. Hotel je kod
 KTX savjeti: rezervirati **zadnji red vagona** (iza sjedala ima mjesta za kofere); veliki koferi idu na police između vagona, tko prvi uđe.
 
 ### ~11:40 — Seoul Station → Yeonnam-dong
-**AREX all-stop** (일반열차) od Seoul Stationa do **Hongik Univ., ~15 min**, pa ~550 m pješice s koferima (izlaz 3). Ili **dva taksija, 20–25 min**, s četiri kofera lakše. Kofere ostavljamo kod hosta ako dopusti (📧 pitati), inače ormarići na Hongik Univ. ili Seoul Stationu. Ručak usput, nešto brzo u Yeonnam-dongu.
+**AREX all-stop** (일반열차) od Seoul Stationa do **Hongik Univ., ~15 min**, pa ~550 m pješice s koferima (izlaz 3). Ili **dva taksija, 20–25 min**, s četiri kofera lakše. Kofere ostavljamo kod hosta ako dopusti (📧 pitati), inače ormarići na Hongik Univ. ili Seoul Stationu. Ručak je Sungsimdang plus kafić Pokpo.
 
-### 13:30 — Gyeongbokgung
+### 12:45 — ☕ Cafe Pokpo (카페 폭포)
+*⏱ 1 h · ☔ · 🦵 lagano*
+
+**서울 서대문구 연희로 262-24**, Hongje-dong, uz potok **Hongjecheon**. Od stana **~10–15 min jednim taksijem**, a usput je prema Gyeongbokgungu. Kafić s terasom ravno ispred **umjetnog slapa Hongje** (~25 m) na stijeni usred grada, uz šetnicu i potok, jedini takav u Seoulu. Kava, deserti i nešto za pojesti. **Svaki dan ~09/10–21.** ⚠️ **Slap ne teče cijeli dan**, nego u terminima: provjeriti na Instagramu @cafe.pokpo prije polaska. Ako tada ne teče, kafić je i dalje lijep, ali bez glavne atrakcije.
+
+### 14:00 — Gyeongbokgung
 *⏱ ~1 h · 🌦️ · 🦵 ravno kamenje*
 
-**3 000 ₩ · 09:00–18:00 (zadnji ulaz 17:00) · utorkom zatvoreno.** Taksi iz Yeonnam-donga ~25 min, ili metro do Gyeongbokgunga (L3).
+**3 000 ₩ · 09:00–18:00 (zadnji ulaz 17:00) · utorkom zatvoreno.** Iz Hongje-donga **taksi ~15 min** do vrata Gwanghwamun.
 
-Glavna palača dinastije Joseon. **Smjena straže u 14:00** ispred vrata Gwanghwamun (besplatno, 20 min, izvan blagajne). Unutra **Geunjeongjeon** (prijestolna dvorana) i **Gyeonghoeru** (paviljon za gozbe na kamenim stupovima nad jezerom). **Ograničavamo se na ~1 h**, Tajni vrt 1.11. je ljepši i intimniji. ⚠️ **Folklorni muzej preskačemo**, 800 m na drugom kraju.
+Glavna palača dinastije Joseon. **Smjena straže u 14:00** ispred Gwanghwamuna (besplatno, 20 min, izvan blagajne): ako stignemo točno, gledamo je na ulazu, inače preskačemo. Unutra **Geunjeongjeon** (prijestolna dvorana) i **Gyeonghoeru** (paviljon za gozbe na kamenim stupovima nad jezerom). **Ograničavamo se na ~1 h**, Tajni vrt 1.11. je ljepši i intimniji. ⚠️ **Folklorni muzej preskačemo**, 800 m na drugom kraju.
 
 **Izlaz na zapadna vrata Yeongchumun**, ravno u Seochon.
 
-### 15:00 — Seochon
-*⏱ 1,5–2 h · 🌦️ · 🦵 blago uzbrdo*
+### 15:15 — Seochon, skraćeno
+*⏱ ~45 min · 🌦️ · 🦵 blago uzbrdo*
 
-Niske uličice zapadno od palače: stari Seoul s hanok kućama i kućama iz 1930-ih, nezavisni kafići i galerije. Ruta:
+Niske uličice zapadno od palače: stari Seoul s hanok kućama i kućama iz 1930-ih, nezavisni kafići i galerije. **Kratka ruta:**
 1. **Knjižara Daeoh (대오서점)**, najstarija knjižara u Seoulu (1951.), danas mala čajana u hanoku s dvorištem.
-2. **Tongin tržnica:** **gireum tteokbokki** (rižini kolačići prženi na ulju sa sojinim ili ljutim umakom) na štandu. Kafić s novčićima bio je u utorak.
-3. **Ogin-dong i Nuha-dong:** uličice, pekare, keramičarske radionice.
+2. Jedna uličica Ogin-donga ili Nuha-donga.
+3. *Opcija:* **gireum tteokbokki** na Tonginu (rižini kolačići prženi na ulju), ako smo gladni.
 ⚠️ **Dolina Suseong-dong** početak je nedjeljne šetnje, danas ne.
 
 **↔ Zamjene (1):**
 
 - **Jogyesa i krizanteme**, ako se nije stiglo 20.10. (festival traje do sredine studenog), 10 min taksijem · *⏱ 30 min · ☔ · 🦵*
 
-### 17:15 — Natrag, check-in
-Taksi ~25 min. Check-in od 16:00, koferi unutra, odmor.
+### 16:15 — Natrag, check-in, odmor
+**Jedan taksi** ~25 min. Check-in od 16:00, koferi unutra, odmor do večere.
 
 ### 18:00 — Yukmong (육몽)
 *⏱ 1,5 h · ☔ · 🦵 lagano*
@@ -1576,7 +1711,8 @@ Taksi ~25 min. Check-in od 16:00, koferi unutra, odmor.
 **딥띵커, 옹이의 꿈**, 4. kat, **23 Jandari-ro, Mapo** (između Hongdaea i Hapjeonga), **10–15 min pješice** od Yukmonga i od kuće. **Sve na engleskom** (tekstovi, audio, hintovi, **engleski najaviti 24 h ranije**), 2–5 igrača, **23–26 000 ₩ po osobi**, 10:00–23:30. Lagana pustolovna priča, **bez horora i jump scareova**, tridesetak zagonetki, srednja težina.
 
 #### ⚠️ Pravila rezervacije
-- **Termini se otvaraju dva tjedna ranije, pa rezerviramo oko 15.10.** na deepthinker.co.kr/en, još od kuće.
+- **Termini se otvaraju samo 5 dana unaprijed, u ponoć po korejskom vremenu** (✅ potvrđeno 14.10.). Za 29.10. to je **ponoć s petka 23.10. na subotu 24.10.**, u Sokchu: **alarm u 23:59** (vidi Dan 5). Ako ne uspije, prva stavka 24.10. ujutro. Stranica: deepthinker.co.kr/en.
+- **Termin:** 20:00, ili ~19:30 ako želimo sigurno stići na pub crawl (tada Yukmong u 17:30).
 - **Engleski najaviti najmanje 24 h ranije.**
 - **Potvrditi SMS ili mail, inače otkazuju.**
 - **Kazna 26 000 ₩ za otkaz manje od 2 h prije.** Doći 10–15 min ranije.
@@ -1595,13 +1731,15 @@ Taksi ~25 min. Check-in od 16:00, koferi unutra, odmor.
 - **RetroGameBar:** konzole, beer pong, igre su besplatne, plaća se piće. Četvrtkom od 19:00 · *⏱ 2 h · ☔ · 🦵*
 - **Coin noraebang i Hongdae:** karaoke kabine, ~1 000 ₩ za 2–3 pjesme · *⏱ 1 h · ☔ · 🦵*
 
-### 21:30 — Hongdae noću
-Pub crawl (pridružiti se do 21:30), coin noraebang ili barovi oko Hongdaea, **5–10 min do kreveta**. ❌ LG Twins na Jamsilu: utakmica postoji samo ako LG prođe, a sudara se s escape roomom.
+### 21:30 — Hongdae noću, pa noraebang
+Pub crawl (pridružiti se do 21:30; ako escape room završi kasnije, možda ne stignemo), **pa coin noraebang** na putu kući, ili barovi oko Hongdaea, **5–10 min do kreveta**.
+- 🏏 **Plan (prebačeno s rođendana):** **Hongdae batting cage (홍대 야구타운)**, Seogyo-dong 360-15, iznad parkirališta u uličici, 2 000 ₩ za 20 loptica, automat. 10 min od stana. ❌ LG Twins na Jamsilu: utakmica postoji samo ako LG prođe, a sudara se s escape roomom.
 
 ### 🅱️ OKIDAČI ZA DAN 11
 - **Umorni smo ili nismo gladni:** direktni KTX, Daejeon otpada.
 - **KTX kasni:** palača otpada (zadnji ulaz 17:00), samo Seochon ili odmor. Escape room ostaje.
-- **Escape room nije rezerviran:** Real Escape Challenge (Gumiho) ili pub crawl.
+- **Escape room nije rezerviran (ponoć 23./24.10. i jutro 24.10. propali):** Real Escape Challenge (Gumiho) ili pub crawl.
+- **Slap u Pokpou ne teče:** kava kratko, ranije u palaču (tada stignemo i smjenu straže u 14:00).
 - **Kiša:** palača podnosi kišu. Seochon kraće, kafić u knjižari Daeoh.
 - **Yukmong pun:** bilo koji samgyeopsal s redom domaćih oko Hongdaea.
 
@@ -1610,9 +1748,11 @@ Pub crawl (pridružiti se do 21:30), coin noraebang ili barovi oko Hongdaea, **5
 ## PET 30.10. — SUWON HWASEONG
 **Noćenje: Seoul II, Yeonnam-dong (Mapo) · Dan 12 od 14**
 
+💡 *Hwadam (botanički vrt, prijedlog Gorana i Lucije) bio je razmatran kao zamjena za ovaj dan i izbačen je. Razlozi su u Dodatku D.*
+
 UNESCO-ova tvrđava iz **1796.** Kralj Jeongjo sagradio ju je oko novog grada kako bi premjestio grob svog oca, princa Sadoa, kojeg je djed dao zatvoriti u škrinju za rižu, gdje je i umro. **5,7 km zidina** s 48 građevina: vrata, stražarnice, kule za strijelce, paviljoni. Zidine su **besplatne i otvorene 24 h**, plaća se samo palača.
 
-Plan 1 je večer u Suwonu (galbi, osvijetljeni zidovi, balon), plan 2 je povratak u 15:30 i fontana Banpo. Konačno se može odlučiti i na dan, oko 15:00, prema umoru i vjetru.
+Plan 1 je večer u Suwonu (galbi, osvijetljeni zidovi, balon), plan B je povratak u 15:30 i fontana Banpo. Konačno se može odlučiti i na dan, oko 15:00, prema umoru i vjetru.
 
 ### 08:45 — Do Suwona
 *⏱ ~1 h od vrata do vrata*
@@ -1638,7 +1778,7 @@ Rezerva: **linija 2 do Sindorima, pa linija 1 express** do Suwona, 55–65 min, 
 
 **↔ Zamjene (1):**
 
-- **Yeonpo Galbi, galbitang za ručak** (juha od goveđih rebara, ~15 000 ₩), ako je galbi navečer otpao (plan 2) · *⏱ 1 h · ☔ · 🦵*
+- **Yeonpo Galbi, galbitang za ručak** (juha od goveđih rebara, ~15 000 ₩), ako je galbi navečer otpao (plan B) · *⏱ 1 h · ☔ · 🦵*
 
 ### 13:00 — Zidovi: sjever i istok (ravno)
 *⏱ 2,5 h · ☀️ · 🦵 do 🦵🦵*
@@ -1660,9 +1800,9 @@ Rezerva: **linija 2 do Sindorima, pa linija 1 express** do Suwona, 55–65 min, 
 ### 15:30 — Kafić u Haenggung-dongu
 *⏱ 1 h · ☔ · 🦵 lagano*
 
-Uličice s niskim kućama i muralima unutar zidina (**Haenggung-gil**, "Haenglidan-gil"): kafići, pekare, male radionice. Odmor za noge prije večeri. **Ovdje odlučujemo plan 1 ili plan 2** (umor, vjetar za balon).
+Uličice s niskim kućama i muralima unutar zidina (**Haenggung-gil**, "Haenglidan-gil"): kafići, pekare, male radionice. Odmor za noge prije večeri. **Ovdje odlučujemo plan 1 ili plan B** (umor, vjetar za balon).
 
-### 18:00 — Suwon galbi (plan 1)
+### 18:00 — 🔥 Suwon galbi (plan 1)
 *⏱ 1,5 h · ☔ · 🦵 lagano*
 
 **Suwon galbi** su **veliki komadi goveđih kratkih rebara**, marinirani u blagom umaku od soli (suwonski stil, svjetliji od seulskog sojinog), pečeni na roštilju na stolu. Grad je od 1940-ih bio najveće tržište stoke u Koreji, pa je **jelo nastalo ovdje**.
@@ -1701,39 +1841,76 @@ Taksi do stanice Suwon, **ITX ili Mugunghwa** do Seoul Stationa, Gyeongui ili AR
 ### Srednji put (moguć, ali gust)
 Balon oko 16:30, **rani galbi u 17:00** u Yeonpou, osvijetljeni Hwahongmun oko 18:15, ITX oko 18:45, Seoul Station oko 19:30, taksi do Banpoa za **20:30 ili 21:00**. Sve stane, ali u žurbi i bez odmora.
 
-### 🅱️ OKIDAČI ZA DAN 12
-- **Kiša:** Suwon otpada. War Memorial, Seoul Museum of History ili DDP. Večer: Banpo također otpada, Hongdae.
-- **Koljeno ili umor:** samo sjeverni dio i vlakić, pa **plan 2**.
-- **Vjetar:** balon ne leti. Plan 1 bez balona ili plan 2.
-- **Ekipa hoće Banpo:** plan 2 ili srednji put.
-- **Netko hoće ostati u gradu:** jedini dan kad razdvajanje na pola dana ništa ne razbija.
-
 ---
 
-## SUB 31.10. — SEONGSU, DRONE SHOW I NOĆ VJEŠTICA
+### 🅱️ OKIDAČI ZA DAN 12
+- **Kiša:** Suwon otpada. War Memorial, Seoul Museum of History ili DDP. Večer: Banpo također otpada, Hongdae.
+- **Koljeno ili umor:** samo sjeverni dio i vlakić, pa **plan B**.
+- **Vjetar:** balon ne leti. Plan 1 bez balona ili plan B.
+- **Ekipa hoće Banpo:** plan B ili srednji put.
+- **Netko hoće ostati u gradu:** jedini dan kad razdvajanje na pola dana ništa ne razbija.
+---
+
+## SUB 31.10. — SEONGSU, BICIKLI UZ HAN, SPA, SINDANG, DRONE SHOW I NOĆ VJEŠTICA
 **Noćenje: Seoul II, Yeonnam-dong (Mapo) · Dan 13 od 14**
 
-**Logika dana:** Seongsu, Sindang i park s dronovima na **istočnoj** su strani Seoula, a dom i Hongdae na **zapadnoj**. Sve spaja **linija 2**: ujutro na istok, popodne doma na odmor, navečer opet na istok, pa kasno natrag na zapad.
+**Logika dana:** Seongsu, Sindang i park s dronovima na **istočnoj** su strani Seoula, a dom, spa i Hongdae na **zapadnoj**. Sve spaja **linija 2**: ujutro na istok (Seongsu i bicikli uz rijeku), popodne doma na **spa umjesto odmora** (10 min od stana), navečer opet na istok, pa kasno natrag na zapad. Raniji start, jer je ekipa tražila manje praznog hoda. ⚠️ Dan bez pravog odmora prije Noći vještica. **Prvo se reže: Zoo Sindang, pa bicikli.**
 
-### 10:00 — Seongsu
-*⏱ 3,5 h s ručkom · 🌦️ · 🦵 lagano*
+### 08:30 — ☕ Doručak: French toast u Yeonnam-dongu
+*⏱ 45 min · ☔ · 🦵 lagano*
+
+Kafić s French toastom na adresi **260-2 Yeonnam-dong**, 5–10 min pješice od stana. ❓ **Ime kafića fali** (Goran i Lucija): bez imena ga na Naver mapi tražimo po adresi (연남동 260-2). Rezerva: bilo koji brunch kafić u Yeonnam-dongu uz Gyeongui Line Forest Park.
+
+### 09:30 — Seongsu
+*⏱ ~2 h s ručkom · 🌦️ · 🦵 lagano*
 
 **Linija 2 s Hongik Univ. do Seongsua ili Ttukseoma, ~35 min.** Stara industrijska četvrt (tvornice cipela, tiskare, skladišta) pretvorena u kafiće, dizajnerske studije i radionice, "seulski Brooklyn". Ne idemo zbog shoppinga nego zbog atmosfere.
 
 1. **Seoul Forest (서울숲):** 24 h, besplatno, ravno. Ginkgo drvoredi krajem listopada žute, ograđeni dio s **jelenima** i vrt kukaca (10:00–17:00), staklenik na mjestu stare vodovodne stanice. ~45 min.
-2. **Ulica ručno rađenih cipela (성수동 수제화거리)**, kod izlaza 3 stanice Seongsu: stare postolarske radionice i dobavljači kože uz nove studije. Samo prolaz.
+2. **Ulica ručno rađenih cipela (성수동 수제화거리)**, kod izlaza 3 stanice Seongsu: stare postolarske radionice uz nove studije. Samo prolaz.
 3. **Daelim Changgo (대림창고)**, Seongsu-iro 78, **bivše skladište riže** pretvoreno u galeriju i pržionicu: hrđave čelične grede, zidovi od cigle, skulpture. 11:00–22:00. Jedna kava.
+4. ⚠️ ☕ *Opcija:* **kafić sa slasticama**, npr. **Nudake** (deserti koji izgledaju kao umjetnički objekti). **WIP:** provjeriti radi li 2026. i koji je trenutno najzanimljiviji u Seongsuu.
 
-### 11:45 — Ručak: Somunnan Seongsu Gamjatang
+### 11:30 — Ručak: Somunnan Seongsu Gamjatang
 *⏱ 1 h plus red · ☔ · 🦵 lagano*
 
-**소문난성수감자탕**, Yeonmujang-gil 45. **Gamjatang** je veliki lonac ljutog crvenog variva od **svinjske kralježnice** (meso se skida s kostiju) s krumpirom, zeljem i mljevenim sjemenkama perile, satima kuhan. Na kraju se u ostatak umaka dodaju rezanci ili riža. Sve kuhano. **Otvoreno 24 h**, ali **subotom u vrijeme ručka red je 45–75 min**, pa dolazimo **do ~11:30**. Za četvero veliki lonac.
+**소문난성수감자탕**, Yeonmujang-gil 45. **Gamjatang** je veliki lonac ljutog crvenog variva od **svinjske kralježnice** (meso se skida s kostiju) s krumpirom, zeljem i mljevenim sjemenkama perile, satima kuhan. Na kraju se u ostatak umaka dodaju rezanci ili riža. Sve kuhano. **Otvoreno 24 h**, ali **subotom u vrijeme ručka red je 45–75 min**, pa dolazimo **do ~11:30**. Za četvero veliki lonac. Za Luciju tražiti blaže.
 
-### 13:30 — Odmor doma
-Linija 2 natrag, ~35 min. Tuš, spavanje. Slijedi duga večer, a dan poslije Tajni vrt.
+### 12:45 — 🚲 Bicikli i piknik uz rijeku Han
+*⏱ ~1,5 h · ☀️ · 🦵 lagano, ravno*
 
-### 17:30 — Sindang
-**Linija 2 (ili 6) do stanice Sindang, ~30 min.** Stara četvrt kod Dongdaemuna, poznata po jednom jelu.
+**Ttareungi (따릉이), gradski bicikli Seoula**: stanice u Seoul Forestu. Karta se kupuje u aplikaciji **Seoul Bike** stranom karticom, **~1 000 ₩ za 1 h, ~2 000 ₩ za 2 h**. ⚠️ Aplikaciju instalirati i registrirati **dan ranije**.
+- Iz Seoul Foresta na **biciklističku stazu uz Han** (ravno, odvojeno od prometa) prema **Ttukseomu** i dalje uz vodu, pa natrag. ~8–10 km bez žurbe.
+- **Piknik:** stanka na travi uz rijeku, grickalice i piće iz trgovine (CU / GS25 u parku), ili ramyeon s aparata.
+- Bicikl vraćamo na bilo koju Ttareungi stanicu, pa linija 2 doma.
+
+**↔ Zamjene (1):**
+
+- **Kiša ili umor:** bez bicikala, ravno doma, a spa se može ranije · *⏱ — · ☔ · 🦵*
+
+### 14:15 — Linija 2 doma (~35 min)
+Kratko presvlačenje, pa pješice u spa.
+
+### 15:00 — 💆 Spa blok: THE SEOL:HA (Hongdae)
+*⏱ 2 h · ☔ · 🦵 odmor*
+
+**Seogyo-dong 448-31, Mapo**, samostojeća zgrada kod stanice Hongik Univ., **~10 min pješice od stana**. Korejski spa s privatnim sobama, **muškarci dobivaju muške terapeute**. Radi svaki dan 09:00–21:00 (zadnja rezervacija ~19:00–19:30). Rezervacija preko **Trazyja**, za **četvero paralelno**. ⚠️ **WIP:** cijene i dostupnost četiri termina u subotu, rezervirati **čim prije**.
+
+Što uzeti (svatko po želji, ukupno ~2 h):
+- **Head spa** (organski, 45 / 60 / 75 / 100 min): pranje, piling i masaža vlasišta, korejska specijalnost.
+- **Masaža tijela** (aroma ili tradicionalna, 60 / 90 / 120 min).
+- **Tretman lica s masažom** (meridijanski facial + gornji dio tijela, 75 min).
+- Korejski piling tijela (scrub), ako netko želi.
+
+Okvirno **~60–150 € po osobi**, ovisno o kombinaciji.
+
+**↔ Zamjene (2):**
+
+- **AHEAD Head Spa** (Sinsa, Gangnam): samo head spa, sve na engleskom, ali **najviše 3 osobe po terminu** i daleko · *⏱ 1,5 h · ☔ · 🦵*
+- **Shin Jiyoon Skin Care** (Hongdae, 156 Yanghwa-ro): samo tretman lica, **subotom do 16:00** · *⏱ 1 h · ☔ · 🦵*
+
+### 17:15 — Sindang
+**Linija 2 s Hongik Univ. do stanice Sindang, ~30 min.** Stara četvrt kod Dongdaemuna, poznata po jednom jelu.
 
 ### 18:00 — Večera: tteokbokki kod bake Mabongrim
 *⏱ 1–1,5 h · ☔ · 🦵 lagano*
@@ -1744,15 +1921,19 @@ Linija 2 natrag, ~35 min. Tuš, spavanje. Slijedi duga večer, a dan poslije Taj
 
 - **Ulica jokbala u Jangchung-dongu (장충동 족발골목)**, 10 min dalje: **topli pirjani svinjski buti** (s češnjakom, đumbirom i rižinim vinom), narezani, uz slanu škampovu pastu i salatu za zamatanje. Npr. **Wonjo 1-ho Jangchung-dong Halmeonijip** (Jangchungdan-ro 176, 10:00–23:00). Ako ekipa hoće meso, a ne rižine kolačiće · *⏱ 1,5 h · ☔ · 🦵*
 
-### 19:15 — Opcija: Jean Frigo
+### 19:15 — 🍸 Zoo Sindang (주신당), skriveni bar
 *⏱ 45 min · ☔ · 🦵 lagano*
 
-**장프리고**, **Toegye-ro 62-gil 9-8, 1. kat** (Gwanghui-dong, kod Dongdaemuna). **Uđe se u nešto što izgleda kao voćarna, otvore se vrata hladnjaka i iza je bar.** Bez rezervacije, ponedjeljkom zatvoreno, ~10 min taksijem od Sindanga. Ako kasnimo na dronove, preskačemo.
+**411 Toegye-ro, Jung-gu**, uz stanicu Sindang (L2 izlaz 1 / L6 izlaz 12, kod Woori banke skrenuti desno), ~5–10 min pješice od ulice tteokbokkija. **Skriveni ulaz** iza vrata koja čuvaju kameni kipovi, unutra orijentalni interijer i **akvarij koji visi sa stropa**, s gornjeg kata se ribe vide izbliza. Kokteli su složeni **po korejskom horoskopu (12 životinja)**, neki mijenjaju boju dok ih barmen radi. **15–18 000 ₩.** Subotom od 17:00 do 02:00, **bez rezervacije**, pa ranije dolazak pomaže. ⚠️ **Ako kasnimo na dronove, preskačemo.**
+
+**↔ Zamjene (1):**
+
+- **Jean Frigo (장프리고)**, Toegye-ro 62-gil 9-8 (Gwanghui-dong): bar iza vrata hladnjaka u voćarni, ~10 min taksijem · *⏱ 45 min · ☔ · 🦵*
 
 ### 20:30 — 🚁 Drone show, park Ttukseom Hangang
 *⏱ 1–1,5 h s čekanjem · ☀️ otkazuje se po kiši i vjetru · 🦵 lagano*
 
-**뚝섬한강공원, pozornica uz rijeku.** Taksi ~15 min iz Sindanga ili Gwanghui-donga, ili metro linija 7 do **Jayanga**. **Besplatno.** Glazbeni program od **19:30**, **dronovi 20:30–20:45**, pa glazba do 21:15. **Otkazuje se po lošem vremenu**, provjeriti na dan na seouldroneshow.com.
+**뚝섬한강공원, pozornica uz rijeku.** Taksi ~15 min iz Sindanga, ili metro (L2 do Konkuk Univ. / L7 do **Jayanga**). **Besplatno.** Glazbeni program od **19:30**, **dronovi 20:30–20:45**, pa glazba do 21:15. **Otkazuje se po lošem vremenu**, provjeriti na dan na seouldroneshow.com.
 
 Doći do ~20:00 za mjesto na travi ili kamenim stepenicama. Dok se čeka, **ramyeon uz rijeku Han** iz trgovine (CU, GS25: instant rezanci, aparat ih skuha za 4 min).
 
@@ -1777,18 +1958,21 @@ Doći do ~20:00 za mjesto na travi ili kamenim stepenicama. Dok se čeka, **ramy
 - **Red za gamjatang predug:** bilo koji ručak u Seongsuu, gamjatang ima i u Hongdaeu (lokali 24 h).
 - **Umor:** plan B.
 - **Banpo nije bio u petak:** Banpo umjesto dronova.
-- **Escape room nije odrađen u četvrtak:** danas u 17:00 u Hongdaeu, pa plan B.
+- **Escape room nije odrađen u četvrtak:** danas u terminu koji ne siječe spa (npr. 09:30, Seongsu kraće), ili u 21:30 u Hongdaeu umjesto dronova.
+- **Spa nema termina za četvero:** dvije smjene po dvoje (15:00 i 16:00), ili AHEAD / Shin Jiyoon.
 - **Seoul Sky nije odrađen:** sutra, nedjelja 1.11.
 
 ---
 
-## NED 1.11. — TAJNI VRT, INWANGSAN I OPROŠTAJNA VEČER
+## NED 1.11. — TAJNI VRT, CHEONGSUDANG, INWANGSAN, BAR CHAM I ZADNJI BBQ
 **Noćenje: Seoul II, Yeonnam-dong (Mapo) · Dan 14 od 14**
 
 ⚠️ **Zadnja stvarna večer putovanja.** 2.11. je samo jutro do aerodroma. Nedjeljom ne radi Eulji Myeonok, fontana Banpo završila je 31.10., a KBO bejzbola 1.11. nema (Korejska serija počinje tek 2.11. u Suwonu).
 
 ### ~09:30 — 🔒 Changdeokgung i Tajni vrt
-*⏱ 2–3 h · 🌦️ · 🦵🦵 vrt je brdovit, staze zemljane*
+*⏱ 2–2,5 h · 🌦️ · 🦵🦵 vrt je brdovit, staze zemljane*
+
+💡 Najbolje je uzeti engleski termin **10:30** (palača prije toga), tako da Cheongsudang i ručak padnu oko podneva. Ako je termin 11:30, kafić ide nakon ručka.
 
 **8 000 ₩ (5 000 vrt plus 3 000 palača) · UNESCO · rezervirano 26.10. u 10:00.** ⚠️ Ako online nije uspjelo, **otprilike pola karata prodaje se na licu mjesta istog dana od 09:00**, pa biti na blagajni oko 08:30. Termini na engleskom: **10:30 / 11:30 / 14:30 / 15:30**. Obilazak vrta je **samo s vodičem, ~90 min**.
 
@@ -1800,14 +1984,23 @@ Metro Anguk (L3), izlaz 3, ~5 min. Iz Yeonnam-donga taksi ~25 min.
 
 - **Palača bez vrta** (3 000 ₩) i **Changgyeonggung** kroz spojna vrata (1 000 ₩): jezero Chundangji i **stakleni staklenik Daeonsil iz 1909.**, bez rezervacije · *⏱ 1,5 h · 🌦️ · 🦵*
 
-### ~12:30 — Ručak: Imun Seolnongtang
+### ~12:05 — ☕ Cheongsudang (청수당), Ikseon-dong
+*⏱ 45 min plus red · ☔ · 🦵 lagano*
+
+**31-9 Donhwamun-ro 11na-gil, Ikseon-dong**, **~10 min pješice od Changdeokgunga**. Kafić u tradicionalnoj **hanok** kući: ulazi se **kamenim stazama preko jezerca**, kroz bambus i lampione, a sjedi se uz vrt (dio sjedenja na podu, tražimo stol). Piće 5 800–7 500 ₩, **deserti 13–20 000 ₩**, i to je glavna stvar, a ne kava. ⚠️ **Nedjeljom red**, pa idemo odmah nakon vrta. ⚠️ **WIP:** radno vrijeme nedjeljom.
+
+**↔ Zamjene (1):**
+
+- **Red predug:** kava u nekom od hanok kafića u Ikseon-dongu, uličice su pune njih · *⏱ 30 min · ☔ · 🦵*
+
+### ~13:00 — Ručak: Imun Seolnongtang
 *⏱ 45 min · ☔ · 🦵 lagano*
 
 **이문설농탕**, Gyeonji-dong (Jongno), ~10 min od palače. **Najstariji restoran u Seoulu, od 1904.** **Seolleongtang:** volovske kosti kuhane **17 sati** do mliječnobijele juhe, s mekim goveđim prsima i rezancima. **Soli se za stolom**, uz kimchi i kkakdugi (rotkvu). Jednostavno, toplo, povijesno. **Nedjeljom 08:00–20:30, pauza 15:00–16:30.** 12–15 000 ₩.
 
 *Alternativa:* **Tongin**, kafić s mjedenim novčićima **nedjeljom radi** (prva nedjelja, 11:00–17:00, novčići do 16:00), ako se 20.10. nije stiglo.
 
-### 14:00 — Inwangsan, ravna staza (Jarak-gil)
+### 14:15 — Inwangsan, ravna staza (Jarak-gil)
 *⏱ 1,5–2 h · ☀️ · 🦵 lagano*
 
 ⚠️ **Klasična ruta na vrh Inwangsana (338 m) preko Beombawija je ~90 % strmih kamenih i drvenih stepenica i golih granitnih ploča, ❌ za koljeno**, a silazak je najgori dio. Fit dio ekipe može gore zasebno (~1,5 h) dok ostali hodaju donjom stazom.
@@ -1831,30 +2024,35 @@ Gradski zid iz 1396. vidi se iznad staze na grebenu.
 
 S druge strane planine, **~15 min uzbrdo od stanice Dongnimmun (L3), izlaz 2**, ili taksijem iz parka Sajik. **Guksadang (국사당)** je **aktivno šamanističko svetište** (preseljeno s Namsana za japanske okupacije), gdje se i danas održavaju obredi **gut**: bubnjevi, plesovi, ponude hrane. Iznad su **Seonbawi (선바위)**, **izlizani granitni stupovi nalik redovnicima u halji**, gdje šamanke i žene mole za blagoslov. Gledamo s distance, obrede ne fotografiramo izbliza. Najneobičnije mjesto u Seoulu, i besplatno.
 
-### 17:30 — Zalazak ili Seoul Sky
-Zalazak je oko 17:30, s Inwangsana ili Mumu-daea pogled na grad u sumrak. **Ako Seoul Sky nije bio 20.10.:** taksi ili metro do Jamsila (~50 min). Ulaz oko 17:00 za zalazak znači krenuti s Inwangsana oko 16:00, Guksadang tada otpada.
+### 17:30 — Zalazak s Inwangsana
+Zalazak je oko 17:30, s Inwangsana ili Mumu-daea pogled na grad u sumrak, pa taksi ~5 min dolje u Seochon.
 
-### 19:00 — Zadnja večera: dvije ravnopravne opcije
-*⏱ 2–3 h · ☔ · 🦵 lagano*
+⚠️ **Samo ako Seoul Sky nije bio 20.10.:** taksi ili metro do Jamsila (~50 min), ulaz oko 17:00, pa s Inwangsana krenuti oko 16:00. Tada **Bar Cham i Guksadang otpadaju**, a večera je BBQ blizu kuće oko 20:30.
 
-**A) Oproštaj u Seochonu**, gdje šetnja i završava
-- **Tosokchon Samgyetang (토속촌 삼계탕)**, Chebu-dong, zapadno od Gyeongbokgunga. **Samgyetang:** cijela mala piletina punjena ljepljivom rižom, korijenom ginsenga, češnjakom i žižulama, kuhana u mliječnoj juhi, sve kuhano. **10:30–21:30, svaki dan.** Slavno, s **redovima** koji se brzo izmjenjuju. 20–25 000 ₩. ⚠️ Dio sjedenja je **na podu**, tražimo stol (Lucija).
-- **Bar Cham (참)**, Tongin-dong, 5 min pješice: koktel-bar u **hanoku**, na listi **Asia's 50 Best Bars**, kokteli s korejskim žestokim pićima (soju, makgeolli, omija, ginseng). **Srijeda–ponedjeljak 18:00–01:00, utorkom zatvoreno**, pa nedjeljom radi. Bez rezervacije ili preko CatchTablea.
-- Taksi doma ~25 min.
+### 18:00 — 🍸 Bar Cham (참), aperitiv u Seochonu
+*⏱ 1 h · ☔ · 🦵 lagano*
 
-**B) Oproštaj blizu kuće**
-- Zadnji **korejski BBQ** (npr. Yukmong ako se svidio, ili bilo koji samgyeopsal s redom domaćih) ili restoran u **Yeonnam-dongu** (mnogo malih restorana uz Gyeongui Line Forest Park).
-- Piće u Hongdaeu ili kod kuće, **5 min do kreveta i kofera**. Mirnije i ranije u krevet prije aerodroma.
+**Tongin-dong**, 5 min pješice od kraja šetnje: koktel-bar u **hanoku**, na listi **Asia's 50 Best Bars**, kokteli s korejskim žestokim pićima (soju, makgeolli, omija, ginseng). **Srijeda–ponedjeljak 18:00–01:00, utorkom zatvoreno**, pa nedjeljom radi. Dolazimo **na otvaranje u 18:00**, bez rezervacije ili preko CatchTablea. Jedan ili dva koktela, pa taksi doma (~25 min).
+
+### 19:30 — 🔥 Zadnja večera: korejski BBQ u Yeonnam-dongu
+*⏱ 1,5–2 h · ☔ · 🦵 lagano*
+
+Zadnji **korejski roštilj** blizu kuće: npr. **Yukmong** ako se svidio u četvrtak (rezervacija preko Navera ili CatchTablea, tel. 02-338-1142), ili bilo koji samgyeopsal s redom domaćih uz **Gyeongui Line Forest Park**. Piće u Hongdaeu ili kod kuće, **5 min do kreveta i kofera**.
+
+**↔ Zamjene (1):**
+
+- **Tosokchon Samgyetang (토속촌 삼계탕)**, Chebu-dong, kod Bar Chama: cijela mala piletina punjena rižom, ginsengom i češnjakom u mliječnoj juhi, 20–25 000 ₩, 10:30–21:30. ⚠️ Dio sjedenja je **na podu**, tražimo stol. Ako ekipa ipak želi ostati u Seochonu · *⏱ 1 h · ☔ · 🦵*
 
 ### 22:00 — Pakiranje
 Kofere pakiramo večeras, ujutro nema vremena (vidi 2.11.).
 
 ### 🅱️ OKIDAČI ZA DAN 14
 - **Tajni vrt nije rezerviran:** blagajna u 08:30, ili palača i Changgyeonggung.
-- **Kiša:** umjesto Inwangsana Seodaemun Prison, večer B.
-- **Seoul Sky nije odrađen:** Jamsil u 17:00, Guksadang otpada, večer B (ili večera u Jamsilu).
+- **Kiša:** umjesto Inwangsana Seodaemun Prison; Bar Cham i BBQ ostaju.
+- **Seoul Sky nije odrađen:** Jamsil u 17:00, Guksadang i Bar Cham otpadaju, BBQ blizu kuće oko 20:30.
 - **Koljeno:** samo dolina Suseong-dong i Mumu-dae, bez Guksadanga.
-- **Svi umorni:** večer B.
+- **Svi umorni:** bez Guksadanga i Bar Chama, ravno na BBQ.
+- **Red u Cheongsudangu predug:** drugi hanok kafić u Ikseonu.
 
 ---
 
@@ -1867,21 +2065,23 @@ Najviše opcija, jer je Seoul II najslobodniji dio puta. Baza je **uz Hongdae**,
 | Opcija | Što | ⏱ | Vrijeme | 🦵 |
 |---|---|---|---|---|
 | **Absolute Seoul Pub Crawl** | čet, sub i ned u Hongdaeu (pet Itaewon), sastanak Dokkaebi Party House 20–21:30, ~21 USD | 3–4 h | ☔ | lagano |
-| **Deepthinker escape room** | "Ongyi's Dream", engleski, bez horora, 23–26 000 ₩, rezervacija dva tjedna ranije | 1,5 h | ☔ | lagano |
+| ✅ **Deepthinker escape room** (plan 29.10.) | "Ongyi's Dream", engleski, bez horora, 23–26 000 ₩, booking **5 dana unaprijed u ponoć KST** (za 29.10.: ponoć 23./24.10.) | 1,5 h | ☔ | lagano |
+| 🏏 **Hongdae batting cage (홍대 야구타운)** | pravi kavez, automat, Seogyo-dong 360-15 (iznad parkirališta), 2 000 ₩ za 20 loptica; ako na rođendan nije bilo | 30 min | ☔ | lagano |
+| ✅ 🍸 **Zoo Sindang** (plan 31.10.) | skriveni bar s akvarijem na stropu, kokteli po horoskopu, 15–18 000 ₩, Sindang | 45 min | ☔ | lagano |
 | **Real Escape Challenge** | Gumiho / Arbeit, dvojezično, stariji rekviziti, rezerva | 1,5 h | ☔ | lagano |
 | **RetroGameBar** | konzole i beer pong besplatno, plaća se piće; čet od 19, pet–ned od 18 | 2 h | ☔ | lagano |
-| **Coin noraebang** | karaoke kabine, ~1 000 ₩ za 2–3 pjesme | 1 h | ☔ | lagano |
+| ✅ **Coin noraebang** (plan 29.10. nakon pub crawla) | karaoke kabine, ~1 000 ₩ za 2–3 pjesme | 1 h | ☔ | lagano |
 | **Glow bowling** | Smashing Bowl (24 h) ili Taehwa, Hongdae, neon i kokteli, 15–25 000 ₩ po osobi | 1,5 h | ☔ | lagano |
 | **Bacanje sjekira** | Real Axe, Hongdae ili Sinchon, rezervacija preko Navera ili Instagrama, zatvorene cipele | 1 h | ☔ | lagano |
 | **Rage room** | Hongdae, 10–15 min razbijanja, od ~10 000 ₩, 18+, ne radi utorkom | 30 min | ☔ | lagano |
 | **VR arkada** | VR Square ili Show Me the VR, Hongdae | 1–2 h | ☔ | lagano |
 | **Board game kafić** | Holmes & Lupin ili Rolling Dice, Hongdae | 2 h | ☔ | lagano |
 | **Self-photo studio** | Hongdae, 24 h | 20 min | ☔ | lagano |
-| **Bar Cham** | koktel-bar u hanoku, Seochon, Asia's 50 Best, sri–pon 18–01 | 1–2 h | ☔ | lagano |
+| ✅ **Bar Cham** (plan 1.11. u 18:00) | koktel-bar u hanoku, Seochon, Asia's 50 Best, sri–pon 18–01 | 1–2 h | ☔ | lagano |
 | **Jean Frigo** | bar iza vrata hladnjaka u voćarni, Gwanghui-dong, ~17/18–01, ponedjeljkom zatvoreno | 1 h | ☔ | lagano |
 | **Sanullim 1992** | makgeolli bar u Mapou, degustacija uz pajeon i bossam | 1,5 h | ☔ | lagano |
 | **Drone show, Ttukseom** | samo sub 31.10., dronovi 20:30–20:45, besplatno | 1,5 h | ☀️ | lagano |
-| **Duga fontana Banpo** | do 31.10., 19:30 / 20:00 / 20:30 / 21:00, besplatno | 1 h | ☀️ | lagano |
+| **Duga fontana Banpo** | do 31.10., 19:30 / 20:00 / 20:30 / 21:00, besplatno · u planu 30.10. (plan B iz Suwona) | 1 h | ☀️ | lagano |
 | **Ramyeon uz rijeku Han** | trgovina i aparat, Ttukseom, Banpo, Yeouido ili Mangwon | 30 min | 🌦️ | lagano |
 | ❌ **KBO bejzbol** | nema utakmice 1.11.; Jamsil 29.10. samo ako LG prođe | — | — | — |
 | ❌ **Itaewon za Noć vještica** | jednosmjerne rute, prigušeno od 2022. | — | — | — |
@@ -1891,7 +2091,7 @@ Najviše opcija, jer je Seoul II najslobodniji dio puta. Baza je **uz Hongdae**,
 | Opcija | Što | ⏱ | Vrijeme | 🦵 |
 |---|---|---|---|---|
 | **Tržnica Mangwon** | lokalna tržnica 10 min od stana, kuhana hrana, 09–21 | 1 h | ☔ | lagano |
-| **Rijeka Han biciklom** | Ttareungi ~5 000 ₩ dnevno, zalazak, Mangwon | 2–3 h | ☀️ | srednje |
+| ✅ **Rijeka Han biciklom** (plan 31.10. od Seoul Foresta) | Ttareungi ~1 000 ₩ / h (aplikacija Seoul Bike), piknik uz rijeku | 1,5–3 h | ☀️ | lagano |
 | **Seochon i dolina Suseong-dong** | stari kvart zapadno od palače, ravna staza podno Inwangsana | 1,5–2 h | 🌦️ | lagano |
 | **Guksadang i Seonbawi** | aktivno šamansko svetište, kratke stepenice | 45 min | 🌦️ | srednje |
 | **Changgyeonggung** | palača uz Changdeokgung, 1 000 ₩, staklenik iz 1909. | 1 h | 🌦️ | lagano |
@@ -1900,9 +2100,13 @@ Najviše opcija, jer je Seoul II najslobodniji dio puta. Baza je **uz Hongdae**,
 | **Seoul Museum of History** | besplatno, 09–18, makete Seoula | 1,5 h | ☔ | lagano |
 | **Seodaemun Prison** | 3 000 ₩, ponedjeljkom zatvoreno | 1,5 h | ☔ | lagano |
 | **DDP i Dongdaemun** | dizajn, 10–20; noćna veleprodaja | 2–3 h | ☔ | lagano |
-| **Bongeunsa i Starfield** | Gangnam, Buda od 23 m i knjižnica | 1,5 h | 🌦️ | lagano |
+| **Bongeunsa i Starfield** | Gangnam, Buda od 23 m i knjižnica s policama od 13 m · nije nam usput | 1,5 h | 🌦️ | lagano |
 | **Mullae-dong** | radionice danju, craft pivo navečer (Old Mullae) · L2 Mullae, izlaz 7; ponedjeljkom većina zatvorena | 2–3 h | ☔ | lagano |
 | **Naočale na Namdaemunu** | kompletne naočale za 20–40 min, 40–90 000 ₩, do ~18:30 | 1 h | ☔ | lagano |
+| ✅ 💆 **THE SEOL:HA** (plan 31.10.) | head spa, masaža, tretman lica, privatne sobe, Hongdae, 09–21, Trazy | 2 h | ☔ | lagano |
+| **Cafe Pokpo** ✅ (plan 29.10.) | kafić ispred umjetnog slapa Hongje, 09/10–21, slap teče u terminima | 1 h | ☔ | lagano |
+| **Cheongsudang** ✅ (plan 1.11.) | hanok kafić s jezercem i bambusom, Ikseon-dong, deserti | 45 min | ☔ | lagano |
+| ❌ **63 Sky** | Yeouido, 250 m; isti grad kao Seoul Sky, a niži | 1–2 h | ☀️ | lagano |
 | **Sparex Dongdaemun** | jjimjilbang, obučeni zajednički kat, 24 h; *ekipa ga ne planira* | 2–3 h | ☔ | lagano |
 | **Paradise City Cimer** | vanjski bazeni kod ICN-a, treba kupaći | 4 h s putom | ☔ | lagano |
 | ❌ **Siloam i Dragon Hill Spa** | zatvoreni | — | — | — |
@@ -2001,7 +2205,7 @@ Ostale želje: bez golih kupki (Delpino, kupaći), tradicionalna kuća (hanok u 
 
 ### Novac
 
-Srednje, uz 3–4 splurgea. **Odabrani: gozba od crvenih rakova u Sokchu · Yosukgung 1779 u Gyeongjuu** (krovni bazen Delpino je sada plan B). Seoul Sky je obavezan i ne računa se kao splurge.
+Srednje, uz 3–4 splurgea. **Odabrani: gozba od crvenih rakova u Sokchu · spa (head spa, masaža, tretman lica) u Seoulu 31.10.** Yosukgung 1779 je zamijenjen Jeongsugaseongom i ostaje samo kao ⚠️ malo vjerojatna rezerva; Waterpia je glavni bazen, a Delpino samo rezerva. Seoul Sky je obavezan i ne računa se kao splurge.
 
 ---
 ---
@@ -2020,15 +2224,21 @@ Srednje, uz 3–4 splurgea. **Odabrani: gozba od crvenih rakova u Sokchu · Yosu
 | 🔴 **odmah** | **KTX-Eum 752, 24.10. Gangneung 09:36 → Gyeongju 12:30** | Korail / Letskorail, 34 300 ₩ p.p. · ~380 mjesta, subota (ili 754 ako ekipa odabere plan C) | |
 | 🟡 1–2 dana ranije | Waterpia Spa Valley, 22.10. | Online ~42 000 ₩ (blagajna 74 500 ₩) | |
 | 🟡 ako se odabere | Dosol Maeul, 24.10. | Rezervacija + potvrditi zadnju narudžbu (19:30/20:00) | |
-| 🔴 **do ~15.10.** | 💸 **Yosukgung 1779, 26.10. u 19:00** | Telefon / CatchTable, 4 osobe · pitati sjedi li se na podu, "no raw fish or meat" | |
+| 🟡 tjedan ranije | **Jeongsugaseong, 26.10. u 19:00** (plan) | WIP: treba li rezervacija, radi li ponedjeljkom (navedeno 10–21 svaki dan), stol | |
+| ⚠️ samo ako uspije | 💸 Yosukgung 1779, 26.10. u 19:00 (malo vjerojatna rezerva) | Telefon / CatchTable, 4 osobe · **samo sa stolicama, ne na podu** · "no raw fish or meat" | |
 | 🟡 tjedan ranije | GJS van, 24.10. u 12:30 sa stanice Gyeongju | 010-2657-2846 (KakaoTalk), ~35–45 000 ₩ | |
 | 🟡 2–3 tj. | KTX Busan→Seoul, 29.10. ujutro | **Dvije karte: Busan → Daejeon ~08:00, Daejeon → Seoul ~10:40 (≥50 min razmaka)** — ili direktno. Korail Global desktop u Chromeu, ili Klook | |
 | 🟡 2–3 tj. | Bus Seoul→Sokcho, 21.10. | KOBUS ili TxBus. ⚠️ Testirati stranu karticu rano | |
 | 🟡 par dana ranije | KTX Gyeongju→Busan, 27.10. ~10:00 | Korail, 11–21 000 ₩ · ~30 min, hotel 5 min od Busan Stationa | |
 | 📧 **prije puta** | **BrownSuites — prtljaga prije check-ina** | Mogu li se 27.10. oko 10:45 ostaviti 4 kofera (check-in 16:00)? Inače ormarići na stanici | |
 | 🟡 nekoliko dana | Seoul Sky | Online radi popusta | |
-| ☎️ **prije puta** | **Sono Calm Delpino** | **+82-33-639-3426** · pitati: primaju li negoste, temperatura vode, radno vrijeme u petak | |
-| 🔴 **~15.10.** | 🔒 **Escape room Deepthinker "Ongyi's Dream", 29.10. u 20:00** | deepthinker.co.kr/en · termini se otvaraju **2 tjedna ranije** · engleski najaviti 24 h ranije · **odgovoriti na potvrdu ili otkazuju** · otkaz <2 h = 26 000 ₩ | |
+| 🟡 **par dana ranije** | 🏏 Rođendan 19.10.: batting cage + Golfzon Park Euljiro Signature (20:00) | **A:** potvrditi kavez u Hyehwi na Naver mapi (혜화 야구장) · Golfzon Euljiro +82 2-6031-8900, 9 rupa za 4 · **B:** Strikezon Jongno | |
+| 🔁 **svaki dan do ~27.10.** | 🚡 **Sky Capsule, 28.10.** (opcija 🅰️) | **Online rasprodano.** Provjeravati otkazivanja: službena stranica Blueline Parka, Klook, KKday, Trip.com; i obrnuti smjer Cheongsapo → Mipo, svi termini. Na dan: blagajna Mipo/Cheongsapo ~08:30 | |
+| 🟡 1–2 dana ranije | 🛥️ Noćna jahta Gwangalli, 27.10. ~18:30 | Online (3ha.in), ~19 $ p.p. · prema prognozi | |
+| 🔴 **čim prije** | 💆 **THE SEOL:HA, sub 31.10. ~15:00, 4 osobe paralelno** | Trazy · head spa + masaža ili tretman lica · WIP cijene | |
+| 📱 dan ranije | Aplikacija Seoul Bike (Ttareungi), 31.10. | Instalirati i registrirati stranu karticu | |
+| ⚠️ samo ako zatreba | Sono Calm Delpino, 23.10. (ako Waterpia propadne) | **+82-33-639-3426** · primaju li negoste, radno vrijeme u petak | |
+| ⏰ **pet 23.10. u 23:59 (Sokcho)** | 🔒 **Escape room Deepthinker "Ongyi's Dream", 29.10. u 20:00** (ili ~19:30) | deepthinker.co.kr/en · termini se otvaraju **5 dana unaprijed u ponoć KST** (✅ potvrđeno 14.10.) · **alarm 23:59**, rezervirati u 00:00 · odmah poslati zahtjev za engleski (24 h ranije) · ako ne uspije: prvo 24.10. ujutro · **odgovoriti na potvrdu ili otkazuju** · otkaz <2 h = 26 000 ₩ | |
 | 🟡 tjedan ranije | Yukmong BBQ, 29.10. u 18:00 | Naver / CatchTable, 02-338-1142 | |
 | 📧 **prije puta** | **White Linen House — prtljaga prije check-ina** | Mogu li 29.10. oko 12:15 ostaviti 4 kofera (check-in 16:00)? | |
 | 📅 ~25.10. | Šamanistička tura Inwangsan *(ako ide)* | ~tjedan ranije, reserve-now-pay-later | |
@@ -2047,9 +2257,11 @@ Srednje, uz 3–4 splurgea. **Odabrani: gozba od crvenih rakova u Sokchu · Yosu
 | 21.10. | Seoul → Sokcho | Express bus | 2h10–2h20 | 16 400–34 600 ₩ |
 | 24.10. | Sokcho → Gangneung | Bus 06:55 (ili taksi ~08:15) | 1h00–1h37 | 10 800 ₩ |
 | 24.10. | Gangneung → Gyeongju | **KTX-Eum 752, direktno** 09:36 → 12:30 | 2h54 | 34 300 ₩ |
-| 24.10. | Stanica Gyeongju → Airbnb | GJS van ili 2 taksija | 18–22 min | 35–45 000 ₩ van / 15–17 000 ₩ auto |
+| 24.10. | Stanica Gyeongju → Airbnb | GJS van ili 2 taksija (koferi) | 18–22 min | 35–45 000 ₩ van / 15–17 000 ₩ auto |
 | 27.10. | Gyeongju → Busan Station | Taksi do stanice + KTX | ~20 min + ~30 min | 11 000–21 000 ₩ (+ taksi) |
+| 28.10. | Busan Station → Haeundae (Mipo) | taksi | 30–40 min | 18–25 000 ₩ po autu |
 | 29.10. | Busan → Seoul | KTX | ~2h30 | od 60 000 ₩ |
+| 30.10. | Seoul → Suwon | ITX | ~35 min (+ metro i taksi, ~1 h) | 4 800 ₩ |
 | 2.11. | Hongik Univ. → ICN T2 | AREX all-stop (express ovdje ne staje) · rezerva jumbo taksi | ~56 min | ~5 000 ₩ · taksi 65–100 000 ₩ + cestarina |
 
 **Korail Pass se ne isplati.** 3-dnevni 186 000 ₩, 5-dnevni 275 000 ₩; ne pokriva SRT, metro ni AREX. Prag isplativosti je 3+ dugih vožnji unutar prozora, a vaše su razvučene kroz dva tjedna s autobusnim dionicama između.
@@ -2151,21 +2363,29 @@ KTX iz Busana ionako prolazi kroz Daegu za ~40 min, pa je izlazak tehnički triv
 | Što | Slava | Zašto van |
 |---|---|---|
 | **Nami Island** | 9/10 | Privatni tematski park s lažnom putovnicom i maskotama. Cijeli dan za drvorede |
-| **Gamcheon Culture Village** | 7/10 | 90 min foto-šetnje, puno stepenica i gužve. Huinnyeoul je tiša verzija |
 | **Everland** | 8/10 | Odbijeno |
 | **DMZ standardna tura** | 9/10 | Odbijeno — JSA više nije što je bio: u plavu baraku se ne ulazi, gleda se s krova Freedom Housea |
 | **Golgulsa templestay** | 3/10 | Izbačeno |
 | **Hanbok rental** | 8/10 | Ne zanima ekipu |
 | **Busan X the Sky** | — | Seoul Sky je bolji, drugi vidikovac ne treba |
-| **Blue Line Sky Capsule** | — | Rezervacijom uvjetovano, red, pastelno, fotografirano do smrti |
 | **Haeundae plaža** | — | Izvan sezone |
 | **Lotte World** | 8/10 | Zadržano samo kao kišna rezerva |
-| **63 Building** | 5/10 | Zastarjelo. Jedan vidikovac je dosta i neka bude visoki |
+| **63 Building / 63 Sky** | 5/10 | Zastarjelo. Isti grad kao Seoul Sky, a upola niže. Jedan vidikovac je dosta i neka bude visoki |
 | **Yongsan elektronika** | — | Tržnica je propala i postala anime/gaming hub |
 | **Jeju** | — | 4 dana minimum, međunarodna vozačka, duplira planinski budžet |
 | **Boseong, Damyang, Naganeupseong, Jirisan** | — | Svi padaju na pravilu od 3 h putovanja |
 | **Haeinsa** | 6/10 | **Ploče se zapravo ne vide** — gledaš skladište izvana. Traži detour preko Daegua |
-| **Seorak Waterpia / Aquafield** | — | Vodeni parkovi za sve uzraste. Zamijenjeni Delpinom |
+| **Aquafield** | — | Vodeni park za sve uzraste |
+| **Hwadam (botanički vrt)** | — | Prijedlog Gorana i Lucije, izbačen 16.10. Stane samo umjesto cijelog Suwona (sezona počinje 23.10., a 29.10. je selidba s koferima). Traži ~4,5 h busa za ~3 h vrta, shuttle je bio rasprodan, a jesenskog lišća već imamo dosta: Seoraksan, Bulguksa, Namsan i Tajni vrt dva dana kasnije. Suwon nudi više: tvrđavu, streličarstvo, galbi i balon |
+| **Hunky show (Sexy Man Standing)** | — | Samo za žene, a ne razdvajamo se |
+| **Drag show** | — | Ne zanima ekipu |
+| **Starfield Library** | — | Gangnam, nije nam usput |
+| **Cheonan, kafić Pins** | — | 2–3 h puta za jedan kafić |
+| **Yoonseul (Seoul Station)** | — | Nespretno s koferima na dan selidbe, a dan je pun |
+| **Jagalchi doručak, Gukje, BIFF, Kkangtong** | — | Ekipa ne želi ribu za doručak ni toliko tržnica, Busan je dobio obalu |
+| **Yosukgung 1779 kao plan** | — | 80+ € po glavi i formalno; ostaje samo ⚠️ rezerva uz stolice |
+
+💡 **Vraćeno u plan nakon komentara Gorana i Lucije (15.10.):** Gamcheon (lite), Sky Capsule, Haedong Yonggungsa, cijeli Igidae (uz Plan B).
 
 ---
 
@@ -2178,14 +2398,18 @@ Potpuni popis neprovjerenih podataka, po danima, je u [KorejaWIP.md](KorejaWIP.m
 2. **KOBUS i strane kartice:** prihvaćanje uvedeno tek u kolovozu 2026. Testirati kupnju odmah.
 3. **Subotnja satnica 24.10.:** bus Sokcho → Gangneung i vlakovi KTX-Eum 754/756.
 4. **Tajni vrt:** engleski termini za jesen 2026. Rezervacija 26.10. u 10:00.
-5. **Yosukgung 1779:** pod ili stol, sadržaj seta.
+5. **Jeongsugaseong:** rezervacija i stol. ⚠️ Yosukgung samo ako uspije sa stolicama.
+5a. **Kavez u Hyehwi:** adresa i radno vrijeme (Naver).
+5b. **SEOL:HA:** cijene i četiri termina u subotu.
+5d. **Cafe Pokpo:** termini slapa; **Cheongsudang:** radno vrijeme nedjeljom.
+5e. **Jahta Gwangalli:** raspored u listopadu.
 6. **Drone show 31.10.:** potvrditi na seouldroneshow.com na dan.
 7. **Korean Air:** prtljaga na karti; Kakao T jumbo sa stranom karticom.
 8. **KBO doigravanje:** datumi utakmica nisu potvrđeni, provjeriti oko 30.10. Vidi [KorejaSeulDogadanja.md](KorejaSeulDogadanja.md).
 
 ### Odluke koje čekaju
 9. **Šamanistička tura na Inwangsanu**, da ili ne, do ~25.10.
-10. **Screen golf ili screen baseball** za rođendan, i koji lokal.
+10a. **Ime French toast kafića** (260-2 Yeonnam-dong), 31.10. ujutro.
 11. **Vodič za jedan grad**, u planu ga trenutno nema.
 12. **Tko je vlasnik svakog retka iz Dodatka A.**
 
