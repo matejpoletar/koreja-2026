@@ -14,3 +14,4 @@ cp "$HOME/Library/Mobile Documents/com~apple~CloudDocs/SouKo Claude/Dokumenti/"K
 ./build.sh
 git commit -am "Update plan" && git push
 ```
+
