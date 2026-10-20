@@ -74,7 +74,7 @@ Fiksno: **Seoul Sky u 16:30** i **Gwangjang do 20:00** (tada zatvara mayak kimba
 
 | Kad | 🅰️ | 🅱️ |
 |---|---|---|
-| **Jutro** 09:30–11:45 | 10:15 **Jogyesa** (krizanteme), 10:50 **Bukchon** (tek poslije 10:00). *Bonus:* Naksan u 08:30 ako smo rani | Duže spavanje, doručak u kafiću, ~11:00 samo **Jogyesa** |
+| **Jutro** 10:00–11:45 | 10:00 izlazak iz stana, 10:15 **Jogyesa** (krizanteme), 10:50 **Bukchon** | Doručak u kafiću, ~11:00 samo **Jogyesa** |
 | **Ručak** ~11:45–13:00 | **Tongin tržnica**, novčići (utorkom 11–16, novčići do 15:00) | **Hwangsaengga kalguksu** kod Bukchona (red 20–40 min), da ne bude dvije tržnice u danu |
 | **Popodne** 13:00–15:45 | **Nacionalni muzej Koreje** (taksi ~25 min), zlato Sille, besplatno | ~1 h odmora i **pakiranje** u stanu, pa **Namdaemun** (naočale) ili **DDP** |
 | ⚠️ 15:45 | Prema Jamsilu, taksi ~35 min | isto |
@@ -84,6 +84,8 @@ Fiksno: **Seoul Sky u 16:30** i **Gwangjang do 20:00** (tada zatvara mayak kimba
 | ⚠️ | **U krevet do ~01:00.** Sutra u 08:00 taksiji za bus u Sokcho. **Kofere spakirati prije večernjeg izlaska** | |
 
 ❌ Danas otpadaju **Deoksugung** (ne stane uz Gwangjang) i **roštilj na Euljiru** (roštilj je bio 19.10. u Hongdaeu).
+
+🥩 **Napomena: all-you-can-eat KBBQ kod Euljira.** **Myeongnyun Jinsa Galbi (명륜진사갈비)**, podružnica Jongno Gwancheol (između Jonggaka i Euljira), lanac s neograničenim marinariranim svinjskim galbijem i prilozima, ~18–25 000 ₩ po osobi. Zamjena za Gwangjang ili Jin Ok-hwa ako je ekipa za roštilj. Na Naver Mapi tražiti 명륜진사갈비 종로 ili 무한리필 고기 을지로.
 
 ---
 
@@ -488,7 +490,7 @@ Zbog promjene 19.10. večer je danas **Gwangjang → Nogari → Ace Four** (opis
 
 | Kad | 🅰️ | 🅱️ |
 |---|---|---|
-| **Jutro** 09:30–11:45 | 10:15 **Jogyesa** → 10:50 **Bukchon**. Bonus: Naksan u 08:30 | Duže spavanje, doručak, ~11:00 samo **Jogyesa** |
+| **Jutro** 10:00–11:45 | 10:00 izlazak, 10:15 **Jogyesa** → 10:50 **Bukchon** | Doručak, ~11:00 samo **Jogyesa** |
 | **Ručak** ~11:45–13:00 | **Tongin tržnica** (taksi ~7 min iz Bukchona) | **Hwangsaengga kalguksu** kod Bukchona |
 | **Popodne** 13:00–15:45 | **Nacionalni muzej Koreje** (taksi ~25 min) | Odmor i **pakiranje**, pa **Namdaemun** ili **DDP** |
 | 15:45 | ⚠️ Prema Jamsilu, taksi ~35 min ili L4 → L2 ~40 min | isto |
@@ -500,27 +502,21 @@ Zbog promjene 19.10. večer je danas **Gwangjang → Nogari → Ace Four** (opis
 
 ⚠️ **Kofere spakirati prije večernjeg izlaska** (ili u 🅱️ popodnevu). **U krevet do ~01:00**: sutra u 08:00 taksiji za bus u Sokcho.
 ❌ **Otpada danas:** Deoksugung (ne stane uz Gwangjang) i roštilj na Euljiru (bio je 19.10. u Hongdaeu). Opisi ispod ostaju kao zamjene.
+🥩 **Napomena:** all-you-can-eat KBBQ, **Myeongnyun Jinsa Galbi (명륜진사갈비)**, Jongno Gwancheol, ~18–25 000 ₩ po osobi, kao zamjena za večeru na Gwangjangu.
 **Prvo se reže:** Bukchon → skraćeni muzej. Seoul Sky ostaje.
 
 ---
 
 ⚠️ **Gyeongbokgung i Jongmyo utorkom su zatvoreni.** Fiksna točka dana je **Seoul Sky u 16:30.** Muzej (jug, Ichon) i toranj (istok, Jamsil) udaljeni su 35–40 min, pa muzej mora završiti do ~15:45.
 
-### 08:30 — Gradski zid na Naksanu *(fleksibilno)*
-*⏱ 45 min · ☀️ · 🦵🦵 uspon i stepenice*
-
-Stari kameni gradski zid na brdu Naksan, **odmah iza apartmana**: kratki krug s pogledom na grad, besplatno. **Ako se ujutro ne stigne, ide navečer.** Zid je osvijetljen i 5 min je od vrata.
-
-⚠️ Ima uspona i stepenica. Lucija sa štapovima ili kraći krug.
-
-### 09:30 — Jogyesa
+### 10:15 — Jogyesa
 *⏱ 30 min · ☔ · 🦵 lagano*
 
-Metro Jonggak (L1), izlaz 2. Od Jongna 5-ga to su dvije stanice, ili taksi ~10 min. Besplatno. Najvažniji hram reda Jogye, odmah uz Insadong: lampioni iznad dvorišta, zlatni Buda unutra.
+Iz stana izlazimo u 10:00. Metro Jonggak (L1), izlaz 2. Od Jongna 5-ga to su dvije stanice, ili taksi ~10 min. Besplatno. Najvažniji hram reda Jogye, odmah uz Insadong: lampioni iznad dvorišta, zlatni Buda unutra.
 
 🌼 **Festival krizantema** traje otprilike od početka listopada do sredine studenog. Dvorište je puno cvjetnih skulptura, a noću je osvijetljeno.
 
-### 10:15 — Bukchon Hanok Village
+### 10:50 — Bukchon Hanok Village
 *⏱ 30–45 min · ☀️ · 🦵🦵 strme uličice, kaldrma*
 
 Metro Anguk (L3), izlaz 2, ili od Jogyese ~15 min pješice. Besplatno.
@@ -533,7 +529,7 @@ Stambena četvrt hanok kuća čiji su stanovnici umorni od turista. Prošetamo t
 
 - **Preskočiti**: s Jogyese ravno na ručak, dobije se 45 min.
 
-### 11:15 — Tongin tržnica
+### 11:45 — Tongin tržnica
 *⏱ 1–1,5 h · ☔ natkriveno · 🦵 lagano*
 
 Iz Bukchona ~20 min pješice preko područja palače, ili taksi 5–10 min. Metro Gyeongbokgung (L3), izlaz 2, pa ~10 min.
@@ -549,7 +545,7 @@ Mala stara susjedska tržnica zapadno od palače Gyeongbokgung. **Kako radi:** n
 - **Plan B: Hwangsaengga Kalguksu (황생가칼국수)**, 78 Bukchon-ro 5-gil, nasuprot MMCA, na rubu Bukchona (Anguk izlaz 1, ~8 min). Debeli ručno rezani rezanci u mliječnoj juhi od goveđih kostiju **11 000 ₩**, veliki domaći mandu 11 000 ₩, slažu ih iza stakla na ulazu. Svaki dan 11:00–21:30 bez pauze. **Red 20–40 min u vrijeme ručka.** Za slučaj da smo pregladni ili umorni za šetnju do Tongina · *⏱ 1 h · ☔ · 🦵*
 - **Namdaemun tržnica**: kaos, ulična hrana i jeftine naočale · *⏱ 1,5 h · 🌦️ · 🦵*
 
-### 13:15 — Nacionalni muzej Koreje
+### 13:00 — Nacionalni muzej Koreje
 *⏱ 2–2,5 h · ☔ · 🦵 lagano*
 
 Metro Ichon (L4), izlaz 2, natkriveni prilaz. **Besplatno.** Otvoren svaki dan (utorkom 10:00–18:00, srijedom i subotom do 21:00), zatvoren samo za Novu godinu, Seollal i Chuseok.
@@ -619,18 +615,16 @@ Pješice od roštilja. Koktel 15–25 000 ₩. Barovi iza neoznačenih vrata u s
 
 **↔ Zamjene (3):**
 
-- **Zid na Naksanu noću**, ako nije bio ujutro. Osvijetljen, 5 min od apartmana · *⏱ 45 min · ☀️ · 🦵🦵*
+- **Zid na Naksanu noću**: stari gradski zid, osvijetljen, 5 min od apartmana. Ima uspona i stepenica · *⏱ 45 min · ☀️ · 🦵🦵*
 - **Nogari Alley**, ako jučer nije uspio zbog kiše · *⏱ 1–2 h · ☀️ · 🦵*
 - **Noraebang** · *⏱ 1 h · ☔ · 🦵*
 
 ### 🅱️ OKIDAČI ZA DAN 2
-- **Prespavali smo:** Naksan se seli na večer, dan počinje Jogyesom.
 - **Kiša:** izbaciti Bukchon i Deoksugung, produžiti muzej, dodati Gyeongdong i Starbucks 1960.
 - **Loša vidljivost:** Seoul Sky na 1.11. Navečer Gwangjang ili Dongdaemun noću.
-- **Koljeno tišti:** izbaciti Bukchon i Naksan.
+- **Koljeno tišti:** izbaciti Bukchon.
 - **Gladni prije Tongina:** Hwangsaengga kalguksu odmah uz Bukchon.
-- **Kasnimo na Deoksugung (zadnji ulaz 20:00):** ravno na roštilj na Euljiru i u barove.
-- **Roštilj ne uspije:** Dongwonjip ili Myeongdong Kyoja (do 21:00), a BBQ se seli na 21.10. u Sokcho.
+- **Ekipa želi roštilj:** all-you-can-eat Myeongnyun Jinsa Galbi umjesto Gwangjanga.
 
 ---
 
