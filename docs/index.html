@@ -86,7 +86,7 @@ strong { font-weight: 700; }
 /* ---------- sticky bar ---------- */
 .bar .wrap { position: relative; }
 .now { position: absolute; right: 10px; top: 9px; font: 600 .7rem/1.6 var(--f-display); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); background: var(--bg); padding-left: 10px; box-shadow: -8px 0 8px var(--bg); pointer-events: none; }
-.tabs { padding-right: 84px; }
+.tabs { padding-right: 124px; }
 .bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 20; background: var(--bg); box-shadow: 0 1px 0 var(--line); }
 .tabs { display: flex; gap: 2px; overflow-x: auto; scrollbar-width: none; padding-block: 6px 4px; }
 .tabs::-webkit-scrollbar, .strip::-webkit-scrollbar, .seg::-webkit-scrollbar { display: none; }
@@ -326,7 +326,19 @@ a.nv { color: var(--accent); font: 800 .7rem var(--f-display); letter-spacing: .
 main.anim > * { animation: fadein .22s ease-out both; }
 .detail, .fx, .qpanel { animation: grow .18s ease-out both; }
 .tab, .dpill, .qbtn, .seg button { transition: background-color .15s, color .15s; }
-@media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
+/* live "now" marker on today's timeline */
+.tl > li.cur .row::before { background: var(--hot); border-color: var(--hot); }
+.tl > li > .row { z-index: 1; }
+.nowline { position: absolute; left: 0; right: 0; height: 0; pointer-events: none; transition: top .4s ease; }
+.nowline::before { content: ""; position: absolute; left: 66px; right: 10px; top: -1px; border-top: 2px dashed var(--hot); opacity: .55; z-index: 0; }
+.nowline .nd, .nowline .nt { z-index: 3; }
+.nowline .nd { position: absolute; left: 53px; top: -7px; width: 14px; height: 14px; border-radius: 50%; background: var(--hot); box-shadow: 0 0 0 3px var(--surface); }
+.nowline .nd::after { content: ""; position: absolute; inset: 0; border-radius: 50%; background: var(--hot); animation: ping 1.6s ease-out infinite; }
+.nowline .nt { position: absolute; left: 4px; top: -9px; width: 44px; text-align: center; font: 800 .74rem/18px var(--f-display); letter-spacing: .04em; color: #fff; background: var(--hot); border-radius: 999px; font-variant-numeric: tabular-nums; animation: blink 1.6s ease-in-out infinite; }
+@keyframes ping { from { transform: scale(1); opacity: .7; } to { transform: scale(2.8); opacity: 0; } }
+@keyframes blink { 50% { opacity: .55; } }
+.nowjump { border: 0; background: var(--hot-soft); color: var(--hot); border-radius: 999px; padding: 3px 10px; font: 700 .74rem var(--f-display); letter-spacing: .08em; text-transform: uppercase; cursor: pointer; margin-left: auto; flex: none; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } .nowline .nd::after, .nowline .nt { animation: none; } }
 </style>
 </head>
 <body>
@@ -457,20 +469,35 @@ const store = {
 const days = D.days;
 const dayIdx = date => days.findIndex(d => d.date === date);
 let tab = store.get('tab', 'pregled');
+/* Seoul clock. A plan day runs until 04:00 next morning, so a late night still counts as the evening before. ?now=2026-10-24T14:30 fakes the clock for testing. */
+const FAKE_NOW = (location.search.match(/[?&]now=([\d\-T:]+)/) || [])[1];
+function kst() {
+  const t = FAKE_NOW ? new Date(FAKE_NOW + '+09:00') : new Date();
+  const p = Object.fromEntries(new Intl.DateTimeFormat('en-US', { timeZone: 'Asia/Seoul', hourCycle: 'h23', year: 'numeric', month: 'numeric', day: 'numeric', weekday: 'short', hour: '2-digit', minute: '2-digit' }).formatToParts(t).map(x => [x.type, x.value]));
+  const h = +p.hour, mi = +p.minute;
+  const late = h < 4;
+  const pd = new Date(Date.UTC(+p.year, +p.month - 1, +p.day - (late ? 1 : 0)));
+  return { y: pd.getUTCFullYear(), m: pd.getUTCMonth() + 1, d: pd.getUTCDate(), min: h * 60 + mi + (late ? 1440 : 0), hm: `${String(h).padStart(2, '0')}:${p.minute}`, wd: p.weekday, cd: +p.day, cm: +p.month };
+}
 function todayIdx() {
-  const [y, m, dd] = new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Seoul', year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date()).split('-').map(Number);
+  const k = kst();
   const n = (mo, d) => (mo - 10) * 31 + d;
-  const t = (y < 2026 || (y === 2026 && m < 10)) ? -1 : y > 2026 ? 999 : n(m, dd);
+  const t = (k.y < 2026 || (k.y === 2026 && k.m < 10)) ? -1 : k.y > 2026 ? 999 : n(k.m, k.d);
   let idx = 0;
   days.forEach((d, i) => { const [d1, m1] = d.date.split('.').map(Number); if (n(m1, d1) <= t) idx = i; });
   return idx;
 }
-const TODAY = todayIdx();
-(function showNow() {
-  const p = Object.fromEntries(new Intl.DateTimeFormat('en-US', { timeZone: 'Asia/Seoul', weekday: 'short', day: 'numeric', month: 'numeric' }).formatToParts(new Date()).map(x => [x.type, x.value]));
-  const wd = { Mon: 'Pon', Tue: 'Uto', Wed: 'Sri', Thu: 'Čet', Fri: 'Pet', Sat: 'Sub', Sun: 'Ned' }[p.weekday] || p.weekday;
-  document.getElementById('now').textContent = `${wd} ${p.day}.${p.month}.`;
-})();
+// index of the plan day happening right now, or -1 outside the trip
+function liveIdx() { const k = kst(); return k.y === 2026 ? dayIdx(`${k.d}.${k.m}`) : -1; }
+let TODAY = todayIdx(), LIVE = liveIdx();
+const IDLE = 30 * 60e3;
+let hiddenAt = 0;
+function showNow() {
+  const k = kst();
+  const wd = { Mon: 'Pon', Tue: 'Uto', Wed: 'Sri', Thu: 'Čet', Fri: 'Pet', Sat: 'Sub', Sun: 'Ned' }[k.wd] || k.wd;
+  document.getElementById('now').textContent = `${wd} ${k.cd}.${k.cm}.${LIVE >= 0 ? ' · ' + k.hm : ''}`;
+}
+showNow();
 let cur = TODAY;
 const planView = store.get('planView', {});
 const openSlots = new Set();
@@ -482,6 +509,9 @@ const flashOpen = new Set();
   const m = h.match(/^dan-(\d+)-(\d+)$/);
   if (m) { const i = dayIdx(`${+m[1]}.${+m[2]}`); if (i >= 0) { tab = 'dani'; cur = i; } }
   else if (['dani', 'pregled', 'odluke', 'rezervacije', 'info'].includes(h)) tab = h;
+  else if (LIVE >= 0) tab = 'dani';
+  // during the trip, coming back after a break always lands on today, whatever day the URL still holds
+  if (LIVE >= 0 && Date.now() - store.get('seen', 0) > IDLE) { tab = 'dani'; cur = LIVE; }
 })();
 
 /* ---------- helpers ---------- */
@@ -725,7 +755,9 @@ function rowHTML(d, r, key, opts = {}) {
       ${slot.after ? `<div class="md">${md(slot.after)}</div>` : ''}
     </div>` : '';
   const detL = loc ? nvInline(det, loc.subs) : det;
-  return `<li class="${open ? 'open' : ''}${opts.gone ? ' gone' : ''}">${row}${detL}</li>`;
+  const tm = r.time.match(/(\d{1,2}):(\d\d)(?:\s*[–-]\s*~?(\d{1,2}):(\d\d))?/);
+  const ta = tm ? ` data-t="${+tm[1] * 60 + +tm[2]}"${tm[3] ? ` data-e="${+tm[3] * 60 + +tm[4]}"` : ''}` : '';
+  return `<li class="${open ? 'open' : ''}${opts.gone ? ' gone' : ''}"${ta}>${row}${detL}</li>`;
 }
 function planCard(d, p) {
   const det = p.detail;
@@ -799,7 +831,7 @@ function dayView() {
   ].filter(([k]) => panels[k]);
   if (qOpen && !panels[qOpen]) qOpen = null;
   let h = `<article style="--cc:${city.c}">
-  <h2 class="dayline"><span class="dot"></span><span class="dn">Dan ${dayNo(cur)}</span><span class="dtt">${inline(dp.title)}</span>${cur === TODAY ? '<span class="today" title="danas">⭐</span>' : ''}</h2>
+  <h2 class="dayline"><span class="dot"></span><span class="dn">Dan ${dayNo(cur)}</span><span class="dtt">${inline(dp.title)}</span>${cur === TODAY ? '<span class="today" title="danas">⭐</span>' : ''}${cur === LIVE ? '<button class="nowjump" data-act="now">● Sad</button>' : ''}</h2>
   <div class="qlist">${qlabels.map(([k, e, t]) => `<button class="qbtn" data-act="q" data-k="${k}" aria-expanded="${qOpen === k}"><span class="qe">${e}</span><span class="qs">${esc(t)}</span><span class="chev">›</span></button>${qOpen === k ? `<div class="qpanel stack">${panels[k]}</div>` : ''}`).join('')}</div>
   <div class="stack">`;
   if (d.plans.length) {
@@ -900,12 +932,75 @@ function render() {
   main.innerHTML = tab === 'dani' ? dayView() : tab === 'pregled' ? pregled() : tab === 'odluke' ? odluke() : tab === 'rezervacije' ? rezervacije() : info();
   const nd = [...main.querySelectorAll('details')];
   if (nd.length === openDetails.length) nd.forEach((x, i) => x.open = openDetails[i]);
+  placeNow();
 }
+/* Red "now" line over today's timeline, interpolated between the current row and the next one. */
+function placeNow() {
+  const tl = tab === 'dani' && cur === LIVE && document.querySelector('#main .tl');
+  if (!tl) return;
+  // rows in display order with a usable clock time; past-midnight rows wrap, out-of-order asides are skipped
+  const pts = []; let last = -1;
+  tl.querySelectorAll(':scope > li[data-t]').forEach(li => {
+    let t = +li.dataset.t;
+    if (last >= 0 && t < last - 720) t += 1440;
+    if (t < last) return;
+    let e = li.dataset.e != null ? +li.dataset.e : null;
+    if (e != null && e < t) e += 1440;
+    pts.push({ li, t, e }); last = t;
+  });
+  tl.querySelectorAll(':scope > li.cur').forEach(li => li.classList.remove('cur'));
+  if (!pts.length) return;
+  const now = kst().min;
+  let y, ci = -1;
+  if (now < pts[0].t) y = pts[0].li.offsetTop;
+  else {
+    ci = pts.reduce((a, p, i) => p.t <= now ? i : a, 0);
+    const p = pts[ci], q = pts[ci + 1];
+    const end = q ? q.t : (p.e != null ? p.e : p.t + 90);
+    const y1 = q ? q.li.offsetTop : p.li.offsetTop + p.li.offsetHeight;
+    const f = Math.min(1, (now - p.t) / Math.max(1, end - p.t));
+    y = p.li.offsetTop + f * (y1 - p.li.offsetTop);
+    // keep the time pill clear of the row's own time label
+    if (y - p.li.offsetTop < 30) y = p.li.offsetTop;
+    if (q || now <= end) p.li.classList.add('cur');
+  }
+  let el = tl.querySelector(':scope > .nowline');
+  if (!el) { el = document.createElement('div'); el.className = 'nowline'; el.setAttribute('aria-label', 'Sada'); el.innerHTML = '<span class="nt"></span><span class="nd"></span>'; tl.appendChild(el); }
+  el.style.top = Math.round(y) + 'px';
+  el.querySelector('.nt').textContent = kst().hm;
+  if (Date.now() < followUntil) scrollToNow(false);
+}
+// after load the layout keeps settling (fonts), so keep the marker in view for a moment
+let followUntil = 0;
+function scrollToNow(smooth = true) {
+  const el = document.querySelector('#main .nowline');
+  // measure from the target top, not the rect: the marker may still be gliding there
+  if (el) window.scrollTo({ top: el.parentNode.getBoundingClientRect().top + window.scrollY + parseFloat(el.style.top) - window.innerHeight / 3, behavior: smooth ? 'smooth' : 'auto' });
+}
+function followNow() { followUntil = Date.now() + 1500; scrollToNow(false); }
+function tick() {
+  const was = LIVE;
+  TODAY = todayIdx(); LIVE = liveIdx(); showNow();
+  // day rolled over while the previous day was on screen → follow it
+  if (LIVE !== was && LIVE >= 0 && tab === 'dani' && cur === was) go(LIVE);
+  else if (LIVE !== was) render();
+  else placeNow();
+}
+setInterval(tick, 30000);
+document.addEventListener('visibilitychange', () => {
+  if (document.hidden) { hiddenAt = Date.now(); return; }
+  if (hiddenAt && Date.now() - hiddenAt > IDLE && liveIdx() >= 0) { TODAY = todayIdx(); LIVE = liveIdx(); showNow(); go(LIVE); requestAnimationFrame(followNow); }
+  else tick();
+});
+// row heights shift with web fonts, open details and window width
+if (window.ResizeObserver) new ResizeObserver(() => placeNow()).observe(document.body);
+else window.addEventListener('resize', placeNow);
 function scrollPillIntoView() {
   const p = document.querySelector('.dpill[aria-current="true"]');
   if (p) p.scrollIntoView({ inline: 'center', block: 'nearest' });
 }
 function go(i) {
+  store.set('seen', Date.now());
   animNext = true; cur = i; tab = 'dani'; openSlots.clear(); qOpen = null; store.set('day', i); store.set('tab', tab);
   history.replaceState(null, '', '#dan-' + days[i].date.replace('.', '-'));
   render(); scrollPillIntoView(); window.scrollTo({ top: 0 });
@@ -914,8 +1009,9 @@ document.addEventListener('click', e => {
   if (e.target.closest('a[href]')) return;
   const b = e.target.closest('[data-act]'); if (!b) return;
   const a = b.dataset.act; const d = days[cur];
-  if (a === 'tab') { animNext = true; tab = b.dataset.t; store.set('tab', tab); history.replaceState(null, '', '#' + (tab === 'dani' ? 'dan-' + days[cur].date.replace('.', '-') : tab)); render(); if (tab === 'dani') scrollPillIntoView(); window.scrollTo({ top: 0 }); }
+  if (a === 'tab') { store.set('seen', Date.now()); animNext = true; tab = b.dataset.t; store.set('tab', tab); history.replaceState(null, '', '#' + (tab === 'dani' ? 'dan-' + days[cur].date.replace('.', '-') : tab)); render(); if (tab === 'dani') scrollPillIntoView(); window.scrollTo({ top: 0 }); }
   else if (a === 'go') go(+b.dataset.i);
+  else if (a === 'now') scrollToNow();
   else if (a === 'flash') { const i = +b.dataset.i; const was = flashOpen.has(i); flashOpen.clear(); if (!was) flashOpen.add(i); render(); }
   else if (a === 'q') { qOpen = qOpen === b.dataset.k ? null : b.dataset.k; render(); }
   else if (a === 'slot') { if (e.target.closest('.pickbtn')) return; const k = d.date + '|' + b.dataset.key; const was = openSlots.has(k); openSlots.clear(); if (!was) openSlots.add(k); render(); }
@@ -937,7 +1033,8 @@ window.addEventListener('hashchange', () => {
   if (m) { const i = dayIdx(`${+m[1]}.${+m[2]}`); if (i >= 0 && (i !== cur || tab !== 'dani')) go(i); }
   else if (['dani', 'pregled', 'odluke', 'rezervacije', 'info'].includes(h) && h !== tab) { tab = h; store.set('tab', tab); render(); window.scrollTo({ top: 0 }); }
 });
-render(); setSync(); requestAnimationFrame(scrollPillIntoView);
+render(); setSync(); requestAnimationFrame(scrollPillIntoView); store.set('seen', Date.now());
+if (tab === 'dani' && cur === LIVE) requestAnimationFrame(followNow);
 connect();
 </script>
 </body>
