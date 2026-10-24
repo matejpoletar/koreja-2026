@@ -200,6 +200,12 @@ for sec in sections:
         data['cities'][cid]['extras'] = {'heading': h, 'md': clean_md(sec['lines'])}
         continue
     dk = date_key(h)
+    # only "SUB 24.10. — …" style headings are days; a dated overview ("… PO KIŠI (dodano 24.10.)") is a city note
+    if dk and not re.match(r'(PON|UTO|SRI|ČET|PET|SUB|NED)\b', h):
+        cid = next((c for c in data['cities'] if c.split('-')[0] in slug(h)), None)
+        if cid: data['cities'][cid].setdefault('notes', []).append({'heading': h, 'md': clean_md(sec['lines'])})
+        else: print(f"unplaced dated section '{h}'", file=sys.stderr)
+        continue
     if not dk:
         continue
     # day

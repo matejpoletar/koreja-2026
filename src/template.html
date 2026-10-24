@@ -360,19 +360,12 @@ a.nv { color: var(--accent); font: 800 .7rem var(--f-display); letter-spacing: .
 main.anim > * { animation: fadein .22s ease-out both; }
 .detail, .fx, .qpanel { animation: grow .18s ease-out both; }
 .tab, .dpill, .qbtn, .seg button { transition: background-color .15s, color .15s; }
-/* live "now" marker on today's timeline */
-.tl > li.cur .row::before { background: var(--hot); border-color: var(--hot); }
-.tl > li > .row { z-index: 1; }
-.nowline { position: absolute; left: 0; right: 0; height: 0; pointer-events: none; transition: top .4s ease; }
-.nowline::before { content: ""; position: absolute; left: 66px; right: 10px; top: -1px; border-top: 2px dashed var(--hot); opacity: .55; z-index: 0; }
-.nowline .nd, .nowline .nt { z-index: 3; }
-.nowline .nd { position: absolute; left: 53px; top: -7px; width: 14px; height: 14px; border-radius: 50%; background: var(--hot); box-shadow: 0 0 0 3px var(--surface); }
-.nowline .nd::after { content: ""; position: absolute; inset: 0; border-radius: 50%; background: var(--hot); animation: ping 1.6s ease-out infinite; }
-.nowline .nt { position: absolute; left: 4px; top: -9px; width: 44px; text-align: center; font: 800 .74rem/18px var(--f-display); letter-spacing: .04em; color: #fff; background: var(--hot); border-radius: 999px; font-variant-numeric: tabular-nums; animation: blink 1.6s ease-in-out infinite; }
-@keyframes ping { from { transform: scale(1); opacity: .7; } to { transform: scale(2.8); opacity: 0; } }
-@keyframes blink { 50% { opacity: .55; } }
+/* live "now": the current slot on today's timeline glows red and its time turns into a red pill */
+.tl > li.cur > .row { animation: curglow 3.2s ease-in-out infinite; border-radius: 10px; }
+.tl > li.cur > .row .time { color: var(--surface); background: var(--hot); border-radius: 6px; margin: -1px -4px 0 -2px; padding: 1px 4px 0 2px; justify-self: end; }
+@keyframes curglow { 0%, 100% { background-color: color-mix(in srgb, var(--hot) 5%, transparent); } 50% { background-color: color-mix(in srgb, var(--hot) 17%, transparent); } }
 .nowjump { border: 0; background: var(--hot-soft); color: var(--hot); border-radius: 999px; padding: 3px 10px; font: 700 .74rem var(--f-display); letter-spacing: .08em; text-transform: uppercase; cursor: pointer; margin-left: auto; flex: none; }
-@media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } .nowline .nd::after, .nowline .nt { animation: none; } }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } .tl > li.cur > .row { animation: none; background-color: color-mix(in srgb, var(--hot) 12%, transparent); } }
 </style>
 </head>
 <body>
@@ -954,6 +947,7 @@ function dayView() {
   if (d.triggers) h += `<div class="sect">🅱️ Ako se dogodi…</div>${triggers(d.triggers)}`;
   h += `<div class="sect">Grad</div><div class="stack">`;
   if (cityData.intro) h += `<details class="fold"><summary>O gradu · ${esc(city.short)}</summary><div class="md">${md(cityData.intro)}</div></details>`;
+  (cityData.notes || []).forEach(n => h += `<details class="fold"><summary>${inline(n.heading)}</summary><div class="md">${md(n.md)}</div></details>`);
   if (cityData.extras) h += `<details class="fold"><summary>🧱 Dodatne opcije · ${esc(city.short)}</summary><div class="md">${md(cityData.extras.md)}</div></details>`;
   h += `</div>`;
   const prev = days[cur - 1], next = days[cur + 1];
@@ -1046,7 +1040,7 @@ function render() {
   main.querySelectorAll('.fcar').forEach(x => { if (car[x.dataset.c]) x.scrollLeft = car[x.dataset.c]; });
   placeNow();
 }
-/* Red "now" line over today's timeline, interpolated between the current row and the next one. */
+/* Mark today's current slot: the last row whose start time has passed (until the next row, or its end time if it is the last). */
 function placeNow() {
   const tl = tab === 'dani' && cur === LIVE && document.querySelector('#main .tl');
   if (!tl) return;
@@ -1060,34 +1054,20 @@ function placeNow() {
     if (e != null && e < t) e += 1440;
     pts.push({ li, t, e }); last = t;
   });
-  tl.querySelectorAll(':scope > li.cur').forEach(li => li.classList.remove('cur'));
-  if (!pts.length) return;
   const now = kst().min;
-  let y, ci = -1;
-  if (now < pts[0].t) y = pts[0].li.offsetTop;
-  else {
-    ci = pts.reduce((a, p, i) => p.t <= now ? i : a, 0);
-    const p = pts[ci], q = pts[ci + 1];
-    const end = q ? q.t : (p.e != null ? p.e : p.t + 90);
-    const y1 = q ? q.li.offsetTop : p.li.offsetTop + p.li.offsetHeight;
-    const f = Math.min(1, (now - p.t) / Math.max(1, end - p.t));
-    y = p.li.offsetTop + f * (y1 - p.li.offsetTop);
-    // keep the time pill clear of the row's own time label
-    if (y - p.li.offsetTop < 30) y = p.li.offsetTop;
-    if (q || now <= end) p.li.classList.add('cur');
-  }
-  let el = tl.querySelector(':scope > .nowline');
-  if (!el) { el = document.createElement('div'); el.className = 'nowline'; el.setAttribute('aria-label', 'Sada'); el.innerHTML = '<span class="nt"></span><span class="nd"></span>'; tl.appendChild(el); }
-  el.style.top = Math.round(y) + 'px';
-  el.querySelector('.nt').textContent = kst().hm;
+  const ci = pts.reduce((a, p, i) => p.t <= now ? i : a, -1);
+  const p = pts[ci], q = pts[ci + 1];
+  const on = p && (q || now <= (p.e != null ? p.e : p.t + 90)) ? p.li : null;
+  tl.querySelectorAll(':scope > li.cur').forEach(li => li !== on && li.classList.remove('cur'));
+  if (on) on.classList.add('cur');
   if (Date.now() < followUntil) scrollToNow(false);
 }
-// after load the layout keeps settling (fonts), so keep the marker in view for a moment
+// after load the layout keeps settling (fonts), so keep the current slot in view for a moment
 let followUntil = 0;
 function scrollToNow(smooth = true) {
-  const el = document.querySelector('#main .nowline');
-  // measure from the target top, not the rect: the marker may still be gliding there
-  if (el) window.scrollTo({ top: el.parentNode.getBoundingClientRect().top + window.scrollY + parseFloat(el.style.top) - window.innerHeight / 3, behavior: smooth ? 'smooth' : 'auto' });
+  const tl = document.querySelector('#main .tl');
+  const el = tl && (tl.querySelector(':scope > li.cur') || tl.querySelector(':scope > li[data-t]'));
+  if (el) window.scrollTo({ top: el.getBoundingClientRect().top + window.scrollY - window.innerHeight / 3, behavior: smooth ? 'smooth' : 'auto' });
 }
 function followNow() { followUntil = Date.now() + 1500; scrollToNow(false); }
 function tick() {
