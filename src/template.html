@@ -232,6 +232,40 @@ li.plancard { padding: 10px 8px; }
 .pcard .md { font-size: .9rem; }
 .pcard .tbl td, .pcard .kv > div { border-color: color-mix(in srgb, var(--plan) 25%, transparent); }
 
+/* meal picker (Food.md) */
+.mline { display: flex; align-items: baseline; gap: 6px; margin-top: 3px; font-size: .84rem; color: var(--muted); min-width: 0; }
+.mline b { color: var(--ink); font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; min-width: 0; }
+.mline .mn { font: 600 .64rem/1.6 var(--f-display); letter-spacing: .05em; text-transform: uppercase; white-space: nowrap; padding: 0 6px; border-radius: 999px; background: var(--warn-soft); color: var(--warn); }
+.mline.on b { color: var(--ok); }
+.mline.on .mn { background: var(--ok-soft); color: var(--ok); }
+.mp { cursor: default; display: grid; gap: 8px; min-width: 0; }
+.mnote { margin: 0; font-size: .82rem; color: var(--muted); }
+.mtabs { display: flex; gap: 4px; overflow-x: auto; scrollbar-width: none; }
+.mtabs::-webkit-scrollbar, .fcar::-webkit-scrollbar { display: none; }
+.mtabs button { border: 0; border-radius: 999px; padding: 4px 10px; background: var(--surface); color: var(--muted); font: 700 .72rem var(--f-display); letter-spacing: .06em; text-transform: uppercase; white-space: nowrap; cursor: pointer; }
+.mtabs button span { opacity: .6; margin-left: 2px; }
+.mtabs button[aria-pressed="true"] { background: var(--navy); color: var(--navy-ink); }
+.fcar { display: grid; grid-auto-flow: column; grid-auto-columns: min(80%, 270px); gap: 8px; overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: 2px; scrollbar-width: none; overscroll-behavior-x: contain; }
+.fcard { scroll-snap-align: start; background: var(--surface); border-radius: 12px; padding: 10px 11px; display: flex; flex-direction: column; gap: 5px; min-width: 0; box-shadow: 0 1px 0 var(--line); }
+.fcard.sel { box-shadow: inset 0 0 0 2px var(--ok); }
+.fh { display: flex; align-items: baseline; gap: 6px; min-width: 0; flex-wrap: wrap; }
+.fh b { font: 700 1rem/1.2 var(--f-display); letter-spacing: .02em; }
+.fh small { color: var(--muted); font-size: .78rem; }
+.fh em { font: 700 .6rem var(--f-display); text-transform: uppercase; letter-spacing: .08em; color: var(--plan); font-style: normal; }
+.ft { width: 8px; height: 8px; border-radius: 50%; flex: none; align-self: center; background: var(--accent); }
+.ft.g { background: var(--ok); }
+.ft.y { background: var(--warn); }
+.fs { margin: 0; font-size: .84rem; }
+.fcard details { font-size: .8rem; color: var(--muted); }
+.fcard summary { cursor: pointer; font: 700 .66rem var(--f-display); letter-spacing: .08em; text-transform: uppercase; color: var(--accent); }
+.fcard details p { margin: 4px 0 0; }
+.fw { margin: 0; font-size: .76rem; color: var(--muted); }
+.fb { display: flex; gap: 6px; margin-top: auto; padding-top: 4px; align-items: center; }
+.fnv { font: 700 .72rem var(--f-display); color: var(--accent); text-decoration: none; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0; }
+.fpick { margin-left: auto; flex: none; border: 1px solid var(--line); background: none; border-radius: 999px; padding: 3px 10px; font-size: .76rem; cursor: pointer; color: var(--ink); }
+.fpick.on { background: var(--ok); border-color: var(--ok); color: #fff; }
+.mp + .fold { margin-top: 4px; }
+
 /* alternatives */
 .alts { display: grid; gap: 8px; }
 .alts .ah { font: 700 .72rem var(--f-display); letter-spacing: .12em; text-transform: uppercase; color: var(--accent); }
@@ -538,11 +572,78 @@ function slotAlts(d, slot, slotKey) {
       <div class="at">${inline(a.title || '')}</div>
       ${a.text ? `<div class="md">${md(a.text)}</div>` : ''}
       ${a.meta.length ? `<div class="chips">${a.meta.map(m => `<span class="chip">${inline(m)}</span>`).join('')}</div>` : ''}
-      <button class="pickbtn${on ? ' on' : ''}" data-act="pickalt" data-slot="${esc(slotKey)}" data-alt="${ai}" ${db && canWrite ? '' : 'disabled title="Dijeljeno spremanje nije dostupno"'}>${on ? '✓ Ekipa bira ovo' : 'Odaberi umjesto termina'}</button>
+      <button class="pickbtn${on ? ' on' : ''}" data-act="pickalt" data-slot="${esc(slotKey)}" data-alt="${ai}" ${db && canWrite ? '' : 'disabled title="Dijeljeno spremanje nije dostupno"'}>${on ? '✓ Odabrano' : 'Odaberi ovo'}</button>
     </div>`;
   }).join('');
   return `<div class="alts"><div class="ah">↔ Zamjene (${slot.alts.length})</div><div class="cards">${cards}</div>
     ${slot.altNotes.map(n => `<p class="anote">${inline(n)}</p>`).join('')}</div>`;
+}
+/* ---------- meals (Food.md): a suggestion on the row, a swipeable list of options inside ---------- */
+const F = D.food || { meals: {}, areas: {}, dishes: [], fallback: {} };
+const MEAL_WORD = /ručak|ruča|večer|doruč|užin|jelo|hran|kava|kafić|pekar|piknik|piletin|tržnic|bbq|roštilj|chimaek|ramen|desert/i;
+const hm = s => { const m = (s || '').match(/(\d{1,2}):(\d\d)/); return m ? +m[1] * 60 + +m[2] : null; };
+const cap = s => s.charAt(0) + s.slice(1).toLowerCase();
+// meals without a clock time sit where that kind of meal usually is
+function mealMin(m) { const t = hm(m.time); if (t != null) return t; return { breakfast: 480, snack: 960, late: 1320 }[m.type] || (/VEČER/.test(m.kind) ? 1140 : 750); }
+const mealTab = {};
+const mealPick = (d, mi) => (pickDoc(d).meals || {})[mi] || null;
+function mealTabs(d, m) {
+  const areas = F.areas[m.region] || [], here = a => a.dates.includes(d.date);
+  return [
+    ['o', 'Obrok', m.options],
+    ['k', 'Kvart', [...areas.filter(here), ...areas.filter(a => !here(a) && a.any), ...areas.filter(a => !here(a) && !a.any)]],
+    ['s', 'Svuda', (F.fallback[m.type] || []).map(i => F.dishes[i])],
+    ['j', 'Sva jela', F.dishes],
+  ].filter(t => t[2].length);
+}
+function foodCard(o, mi, k, sel) {
+  const q = o.naver && o.naver[0];
+  return `<div class="fcard${sel ? ' sel' : ''}">
+    <div class="fh"><i class="ft ${o.tag || ''}"></i><b>${inline(o.name)}</b>${o.ko ? `<small>${esc(o.ko)}</small>` : ''}${o.price ? '<span title="skuplje">💸</span>' : ''}${o.plan ? '<em>plan</em>' : ''}</div>
+    ${o.short ? `<p class="fs">${inline(o.short)}</p>` : ''}
+    ${o.body ? `<details><summary>Više</summary><p>${inline(o.body)}</p></details>` : ''}
+    ${o.warn ? `<p class="fw">⚠️ ${inline(o.warn)}</p>` : ''}
+    <div class="fb">${q ? `<a class="fnv" href="${esc(nvSearch(q))}">🔎 ${esc(q)}</a>` : ''}<button class="fpick${sel ? ' on' : ''}" data-act="meal" data-m="${mi}" data-k="${k}" data-n="${esc(o.name)}">${sel ? '✓ Odabrano' : 'Uzmi ovo'}</button></div>
+  </div>`;
+}
+function mealPanel(d, m, mi) {
+  const tabs = mealTabs(d, m), pick = mealPick(d, mi);
+  const k = mealTab[d.date + '|' + mi] || (pick && tabs.some(t => t[0] === pick.k) ? pick.k : tabs[0][0]);
+  const t = tabs.find(x => x[0] === k) || tabs[0];
+  return `<div class="mp" data-act="noop">
+    ${m.note ? `<p class="mnote">${inline(m.note)}</p>` : ''}
+    <div class="mtabs">${tabs.map(([tk, l, list]) => `<button data-act="mtab" data-m="${mi}" data-k="${tk}" aria-pressed="${tk === t[0]}">${l}<span>${list.length}</span></button>`).join('')}</div>
+    <div class="fcar" data-c="${d.date}|${mi}|${t[0]}">${t[2].map(o => foodCard(o, mi, t[0], !!pick && pick.n === o.name)).join('')}</div>
+  </div>`;
+}
+function mealLine(d, m, mi) {
+  const p = mealPick(d, mi), sug = m.options.find(o => o.tag === 'g') || m.options[0];
+  const n = mealTabs(d, m).filter(t => t[0] !== 'j').reduce((a, t) => a + t[2].length, 0);
+  return `<span class="mline${p ? ' on' : ''}">${m.emoji} <b>${p ? '✓ ' : ''}${inline(p ? p.n : sug ? sug.name : cap(m.kind))}</b><span class="mn">${p ? 'odabrano' : n + ' opcija'}</span></span>`;
+}
+// attach each meal to the plan row it belongs to (close in time and about food), or give it a row of its own
+function placeMeals(d) {
+  const at = new Map(), free = [], taken = new Set();
+  const ms = F.meals[d.date] || [];
+  // meals with a clock time claim their rows first; untimed ones only take a row that opens with food
+  const order = ms.map((m, mi) => mi).sort((a, b) => (hm(ms[a].time) == null) - (hm(ms[b].time) == null));
+  order.forEach(mi => {
+    const m = ms[mi], t = mealMin(m), exact = hm(m.time) != null;
+    let best = -1, bd = 1e9;
+    d.rows.forEach((r, i) => {
+      const rt = hm(r.time); if (taken.has(i) || rt == null) return;
+      const dd = Math.abs(rt - t);
+      const ok = exact ? MEAL_WORD.test(r.text) && dd <= 45 :MEAL_WORD.test(r.text.slice(0, 40)) && dd <= 90;
+      if (ok && dd < bd) { bd = dd; best = i; }
+    });
+    if (best >= 0) { at.set(best, mi); taken.add(best); } else free.push(mi);
+  });
+  free.sort((a, b) => mealMin(F.meals[d.date][a]) - mealMin(F.meals[d.date][b]));
+  return { at, free };
+}
+function mealRow(d, mi) {
+  const m = F.meals[d.date][mi];
+  return rowHTML(d, { time: m.time.replace(/^~/, ''), key: '', text: `**${cap(m.kind)}**${m.where ? ' · ' + m.where : ''}`, slot: null }, 'm' + mi, { meal: [m, mi] });
 }
 /* Naver Map deep links (iOS app). Keyed by day → slot time; `main` gets a pill, `subs` get inline NAVER links after the first mention of `name` in the slot's details. Best-guess search queries, not verified addresses. */
 const NV = 'appname=com.sokogeo';
@@ -731,28 +832,31 @@ function rowHTML(d, r, key, opts = {}) {
   const slot = r.slot != null ? d.slots[r.slot] : null;
   const pd = pickDoc(d); const chosenIdx = slot ? (pd.slots || {})[key] : undefined;
   const chosen = slot && chosenIdx != null ? slot.alts[chosenIdx] : null;
-  const hasDetail = slot && (slot.body || slot.alts.length || slot.altNotes.length || slot.after);
+  const meal = opts.meal;
+  const hasDetail = meal || (slot && (slot.body || slot.alts.length || slot.altNotes.length || slot.after));
   const open = hasDetail && openSlots.has(d.date + '|' + key);
   const chips = [];
   if (slot) slot.meta.forEach(m => { const t = shortMeta(m); if (t) chips.push(`<span class="chip" title="${esc(m)}">${inline(t)}</span>`); });
-  if (slot && slot.alts.length) chips.push(`<span class="chip alt">↔ ${slot.alts.length}</span>`);
+  if (slot && slot.alts.length && !meal) chips.push(`<span class="chip alt">↔ ${slot.alts.length}</span>`);
   if (chosen) chips.push(`<span class="chip pick">✓ ${inline(chosen.title)}</span>`);
   const loc = (LOC[d.date] || {})[(key.startsWith('alt') ? 'B ' : '') + r.key];
   if (loc && loc.main) chips.push(`<a class="chip nvchip" href="${esc(nvHref(loc.main))}">📍 Naver</a>`);
   const timeSoft = !/\d/.test(r.time);
   const inner = `<span class="time${timeSoft ? ' soft' : ''}">${inline(r.time.replace(/^~/, ''))}</span>
-    <span class="txt"><p>${inline(r.text)}</p>${chips.length ? `<span class="chips">${chips.join('')}</span>` : ''}</span>
+    <span class="txt"><p>${inline(r.text)}</p>${meal ? mealLine(d, meal[0], meal[1]) : ''}${chips.length ? `<span class="chips">${chips.join('')}</span>` : ''}</span>
     <span class="chev" aria-hidden="true">${hasDetail ? '›' : ''}</span>`;
   const row = hasDetail
     ? `<button class="row" data-act="slot" data-key="${esc(key)}" aria-expanded="${open}">${inner}</button>`
     : `<div class="row">${inner}</div>`;
-  const det = open ? `<div class="detail" data-act="slot" data-key="${esc(key)}">
-      <h3 class="dtitle">${inline(slot.title)}</h3>
+  const plan = slot ? `<h3 class="dtitle">${inline(slot.title)}</h3>
       ${loc && loc.main ? nvPill(loc.main) : ''}
       ${slot.meta.length ? `<div class="chips wrap">${slot.meta.map(m => `<span class="chip">${inline(m)}</span>`).join('')}</div>` : ''}
       ${slot.body ? `<div class="md">${md(slot.body)}</div>` : ''}
       ${slotAlts(d, slot, key)}
-      ${slot.after ? `<div class="md">${md(slot.after)}</div>` : ''}
+      ${slot.after ? `<div class="md">${md(slot.after)}</div>` : ''}` : '';
+  // on a meal row the old fixed restaurant folds away under the picker
+  const det = open ? `<div class="detail" data-act="slot" data-key="${esc(key)}">
+      ${meal ? mealPanel(d, meal[0], meal[1]) + (slot ? `<details class="fold" data-act="noop"><summary>Iz plana · ${inline(slot.title)}</summary>${plan}</details>` : '') : plan}
     </div>` : '';
   const detL = loc ? nvInline(det, loc.subs) : det;
   const tm = r.time.match(/(\d{1,2}):(\d\d)(?:\s*[–-]\s*~?(\d{1,2}):(\d\d))?/);
@@ -780,14 +884,19 @@ function timeline(d) {
   if (p && p.rows) return `<ol class="tl">${p.rows.map((r, i) => rowHTML(d, r, 'alt' + i)).join('')}</ol>`;
   const rep = p ? new Set(p.replaces) : null;
   let html = '', cardDone = false, part = null;
+  const { at, free } = placeMeals(d);
   d.rows.forEach((r, i) => {
     const key = 'r' + i + '-' + r.key;
     const gone = rep && rep.has(r.key);
     const pt = partOf(r.key);
     if (pt && pt !== part) { html += `<li class="part">${pt}</li>`; part = pt; }
+    const rt = hm(r.time);
+    while (free.length && rt != null && mealMin(F.meals[d.date][free[0]]) <= rt) html += mealRow(d, free.shift());
     if (p && gone && !cardDone) { html += planCard(d, p); cardDone = true; }
-    html += rowHTML(d, r, key, { gone });
+    const mi = at.get(i);
+    html += rowHTML(d, r, key, { gone, meal: mi != null ? [F.meals[d.date][mi], mi] : null });
   });
+  free.forEach(mi => html += mealRow(d, mi));
   if (p && !cardDone) html = planCard(d, p) + html;
   return `<ol class="tl">${html}</ol>`;
 }
@@ -929,9 +1038,12 @@ function render() {
   document.getElementById('layout').className = 'layout' + (tab === 'dani' ? ' days' : '');
   const main = document.getElementById('main');
   main.classList.toggle('anim', animNext); animNext = false;
+  // keep each option carousel where it was scrolled to across re-renders (picking, switching tabs)
+  const car = Object.fromEntries([...main.querySelectorAll('.fcar')].map(x => [x.dataset.c, x.scrollLeft]));
   main.innerHTML = tab === 'dani' ? dayView() : tab === 'pregled' ? pregled() : tab === 'odluke' ? odluke() : tab === 'rezervacije' ? rezervacije() : info();
   const nd = [...main.querySelectorAll('details')];
   if (nd.length === openDetails.length) nd.forEach((x, i) => x.open = openDetails[i]);
+  main.querySelectorAll('.fcar').forEach(x => { if (car[x.dataset.c]) x.scrollLeft = car[x.dataset.c]; });
   placeNow();
 }
 /* Red "now" line over today's timeline, interpolated between the current row and the next one. */
@@ -1016,6 +1128,8 @@ document.addEventListener('click', e => {
   else if (a === 'q') { qOpen = qOpen === b.dataset.k ? null : b.dataset.k; render(); }
   else if (a === 'slot') { if (e.target.closest('.pickbtn')) return; const k = d.date + '|' + b.dataset.key; const was = openSlots.has(k); openSlots.clear(); if (!was) openSlots.add(k); render(); }
   else if (a === 'plan') { planView[d.date] = +b.dataset.i; store.set('planView', planView); openSlots.clear(); render(); }
+  else if (a === 'mtab') { mealTab[d.date + '|' + b.dataset.m] = b.dataset.k; render(); }
+  else if (a === 'meal') { const pd = { ...pickDoc(d), meals: { ...(pickDoc(d).meals || {}) } }; const m = b.dataset.m, n = b.dataset.n; pd.meals[m] = pd.meals[m] && pd.meals[m].n === n ? null : { n, k: b.dataset.k }; write('picks', pickId(d), pd); }
   else if (a === 'pickalt') { e.stopPropagation(); const pd = { ...pickDoc(d), slots: { ...(pickDoc(d).slots || {}) } }; const k = b.dataset.slot, i = +b.dataset.alt; pd.slots[k] = pd.slots[k] === i ? null : i; write('picks', pickId(d), pd); }
   else if (a === 'dec') { const s = S.dec[b.dataset.id] || {}; write('dec', b.dataset.id, { ...s, done: !s.done }); }
   else if (a === 'res') { const s = S.res[b.dataset.id] || {}; write('res', b.dataset.id, { ...s, done: !s.done }); }

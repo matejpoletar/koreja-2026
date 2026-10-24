@@ -368,6 +368,14 @@ wip = os.path.join(os.path.dirname(sys.argv[1]), 'KorejaWIP.md')
 if os.path.exists(wip):
     wl = open(wip, encoding='utf-8').read().split('\n')
     data['info'].append({'id': 'wip', 'title': wl[0].lstrip('# ').strip(), 'md': clean_md(wl[1:])})
+food = os.path.join(os.path.dirname(sys.argv[1]), 'Food.md')
+if os.path.exists(food):
+    sys.path.insert(0, os.path.dirname(__file__))
+    from food import parse_food
+    data['food'] = parse_food(open(food, encoding='utf-8').read())
+    fm = data['food']['meals']
+    print('food', len(fm), 'days', sum(len(v) for v in fm.values()), 'meals', sum(len(m['options']) for v in fm.values() for m in v), 'options',
+          sum(len(v) for v in data['food']['areas'].values()), 'areas', len(data['food']['dishes']), 'dishes')
 ids = [r['id'] for r in data['reservations']] + [d['id'] for d in decisions]
 assert len(ids) == len(set(ids)), 'dup ids'
 json.dump(data, open(out_path, 'w', encoding='utf-8'), ensure_ascii=False)
