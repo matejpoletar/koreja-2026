@@ -622,11 +622,14 @@ function placeMeals(d) {
   const order = ms.map((m, mi) => mi).sort((a, b) => (hm(ms[a].time) == null) - (hm(ms[b].time) == null));
   order.forEach(mi => {
     const m = ms[mi], t = mealMin(m), exact = hm(m.time) != null;
+    // a row that opens with this very meal ("Doručak …") keeps it even when the plan moved it a couple of hours
+    const own = m.kind.length > 3 && m.kind.slice(0, 5).toLowerCase();
     let best = -1, bd = 1e9;
     d.rows.forEach((r, i) => {
       const rt = hm(r.time); if (taken.has(i) || rt == null) return;
       const dd = Math.abs(rt - t);
-      const ok = exact ? MEAL_WORD.test(r.text) && dd <= 45 :MEAL_WORD.test(r.text.slice(0, 40)) && dd <= 90;
+      const named = own && r.text.slice(0, 40).replace(/[*_]/g, '').toLowerCase().startsWith(own);
+      const ok = named && dd <= 150 || (exact ? MEAL_WORD.test(r.text) && dd <= 45 :MEAL_WORD.test(r.text.slice(0, 40)) && dd <= 90);
       if (ok && dd < bd) { bd = dd; best = i; }
     });
     if (best >= 0) { at.set(best, mi); taken.add(best); } else free.push(mi);
