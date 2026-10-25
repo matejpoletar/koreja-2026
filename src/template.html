@@ -838,7 +838,7 @@ function rowHTML(d, r, key, opts = {}) {
   const loc = (LOC[d.date] || {})[(key.startsWith('alt') ? 'B ' : '') + r.key];
   if (loc && loc.main) chips.push(`<a class="chip nvchip" href="${esc(nvHref(loc.main))}">📍 Naver</a>`);
   const timeSoft = !/\d/.test(r.time);
-  const inner = `<span class="time${timeSoft ? ' soft' : ''}">${inline(r.time.replace(/^~/, ''))}</span>
+  const inner = `<span class="time${timeSoft ? ' soft' : ''}">${inline(r.time.replace(/^~/, '').replace(/(\d{1,2}:\d\d)\s*[–-]\s*~?\d{1,2}:\d\d/, '$1'))}</span>
     <span class="txt"><p>${inline(r.text)}</p>${meal ? mealLine(d, meal[0], meal[1]) : ''}${chips.length ? `<span class="chips">${chips.join('')}</span>` : ''}</span>
     <span class="chev" aria-hidden="true">${hasDetail ? '›' : ''}</span>`;
   const row = hasDetail
