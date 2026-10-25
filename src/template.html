@@ -362,7 +362,6 @@ main.anim > * { animation: fadein .22s ease-out both; }
 .tab, .dpill, .qbtn, .seg button { transition: background-color .15s, color .15s; }
 /* live "now": the current slot on today's timeline glows red and its time turns into a red pill */
 .tl > li.cur > .row { animation: curglow 3.2s ease-in-out infinite; border-radius: 10px; }
-.tl > li.cur > .row .time { color: var(--surface); background: var(--hot); border-radius: 6px; margin: -1px -4px 0 -2px; padding: 1px 4px 0 2px; justify-self: end; }
 @keyframes curglow { 0%, 100% { background-color: color-mix(in srgb, var(--hot) 5%, transparent); } 50% { background-color: color-mix(in srgb, var(--hot) 17%, transparent); } }
 .nowjump { border: 0; background: var(--hot-soft); color: var(--hot); border-radius: 999px; padding: 3px 10px; font: 700 .74rem var(--f-display); letter-spacing: .08em; text-transform: uppercase; cursor: pointer; margin-left: auto; flex: none; }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } .tl > li.cur > .row { animation: none; background-color: color-mix(in srgb, var(--hot) 12%, transparent); } }
@@ -838,7 +837,8 @@ function rowHTML(d, r, key, opts = {}) {
   const loc = (LOC[d.date] || {})[(key.startsWith('alt') ? 'B ' : '') + r.key];
   if (loc && loc.main) chips.push(`<a class="chip nvchip" href="${esc(nvHref(loc.main))}">📍 Naver</a>`);
   const timeSoft = !/\d/.test(r.time);
-  const inner = `<span class="time${timeSoft ? ' soft' : ''}">${inline(r.time.replace(/^~/, '').replace(/(\d{1,2}:\d\d)\s*[–-]\s*~?\d{1,2}:\d\d/, '$1'))}</span>
+  const shown = opts.rough ? r.time : r.time.replace(/^~/, '').replace(/(\d{1,2}:\d\d)\s*[–-]\s*~?\d{1,2}:\d\d/, '$1');
+  const inner = `<span class="time${timeSoft ? ' soft' : ''}">${inline(shown)}</span>
     <span class="txt"><p>${inline(r.text)}</p>${meal ? mealLine(d, meal[0], meal[1]) : ''}${chips.length ? `<span class="chips">${chips.join('')}</span>` : ''}</span>
     <span class="chev" aria-hidden="true">${hasDetail ? '›' : ''}</span>`;
   const row = hasDetail
@@ -874,8 +874,42 @@ function partOf(key) {
   const m = key.match(/^(\d\d):/); if (!m) return null;
   const h = +m[1]; return h < 12 ? 'Jutro' : h < 17 ? 'Popodne' : 'Večer';
 }
+/* Days shown as rough blocks instead of exact times: each block starts at its row time and takes every row until the next block.
+   The block is one line: its own merged text, or the row's text when it holds a single row. Only fixed times stay in the text. */
+const ROUGH = {
+  '26.10': [
+    ['08:30', '8:30–9:45', '**Buđenje i doručak u gradu**'],
+    ['09:50', '9:50–12:45', '**Bulguksa i Seokguram:** taksijem do Bulgukse (Kakao T naručiti u 09:45), ⏰ **u 10:00 iz taksija rezervacija Tajnog vrta** (dvoje paralelno, ticket.cdg.go.kr). Javorova cesta, ribnjak i glavno dvorište s pagodama Dabotap i Seokgatap, pa taksijem gore do **Seokgurama** (600 m do špilje i Bude). *Rezerva: bus 10 / 11, gore bus 12.*'],
+    ['12:40', '12:45–15:00', '**Ručak** 🅰️ ispod Bulgukse (Neulbom ili selo restorana) ili 🅱️ u gradu (ssambap, tteokgalbi), pa **kava i odmor na Hwangnidan-gilu**. ⚠️ Provjeriti radi li lokal ponedjeljkom.'],
+    ['15:00', '15:00–17:45', '🚲 **Biciklom po istočnoj strani:** najam kod Daereungwona, Gyerim → Woljeonggyo → polje Hwangnyongsa → Bunhwangsa → **Cheomseongdae i pink muhly na zalazak (17:35)**, pa odmor u Airbnbu. ☔ Ako kiši: Nacionalni muzej ili dvorana Hwangnyongsa.'],
+    ['19:00', '~19:00'],
+    ['21:00', '~21:00'],
+  ],
+};
+function roughTimeline(d, blocks) {
+  const { at } = placeMeals(d);
+  const groups = blocks.map(b => ({ b, rows: [] })), loose = [];
+  d.rows.forEach((r, i) => {
+    // "do 15:00" ends at that time, so it belongs to the block before
+    const t = hm(r.time) == null ? null : hm(r.time) - (/^do\b/.test(r.time) ? 1 : 0);
+    const g = t == null ? null : groups.filter(g => hm(g.b[0]) <= t).pop();
+    (g ? g.rows : loose).push(i);
+  });
+  let html = '', part = null;
+  groups.forEach((g, gi) => {
+    const pt = partOf(g.b[0]);
+    if (pt && pt !== part) { html += `<li class="part">${pt}</li>`; part = pt; }
+    const mi = g.rows.map(i => at.get(i)).find(x => x != null);
+    const one = g.rows.length === 1 && !g.b[2] ? d.rows[g.rows[0]] : null;
+    const r = one ? { ...one, time: g.b[1] } : { time: g.b[1], key: '', text: g.b[2] || '', slot: null };
+    html += rowHTML(d, r, one ? 'r' + g.rows[0] + '-' + one.key : 'blk' + gi, { rough: true, meal: mi != null ? [F.meals[d.date][mi], mi] : null });
+  });
+  loose.forEach(i => { const r = d.rows[i]; html += rowHTML(d, r, 'r' + i + '-' + r.key, { meal: at.has(i) ? [F.meals[d.date][at.get(i)], at.get(i)] : null }); });
+  return `<ol class="tl">${html}</ol>`;
+}
 function timeline(d) {
   const pv = planView[d.date] || 0;
+  if (!pv && ROUGH[d.date]) return roughTimeline(d, ROUGH[d.date]);
   const p = pv > 0 ? d.plans[pv - 1] : null;
   if (p && p.rows) return `<ol class="tl">${p.rows.map((r, i) => rowHTML(d, r, 'alt' + i)).join('')}</ol>`;
   const rep = p ? new Set(p.replaces) : null;
