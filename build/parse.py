@@ -97,10 +97,10 @@ for line in part('DIO 2')['lines']:
             cells = [c.strip() for c in line.strip().strip('|').split('|')]
             if all(re.fullmatch(r'-*', c) for c in cells) or (len(cells) == 2 and cells == ['', '']):
                 if not d['_in_table']:
-                    d['tables'] += 1; d['_in_table'] = True
+                    d['tables'] += 1; d['_in_table'] = True; d.setdefault('labels', {})[d['tables']] = d.pop('_label', None)
                 continue
             if not d['_in_table']:
-                d['tables'] += 1; d['_in_table'] = True
+                d['tables'] += 1; d['_in_table'] = True; d.setdefault('labels', {})[d['tables']] = d.pop('_label', None)
             t = cells[0]
             if len(cells) == 3:
                 # A/B day: header row is skipped; column A is the main table, column B becomes the alternative (table 2)
@@ -114,6 +114,8 @@ for line in part('DIO 2')['lines']:
             d['rows'].append({'time': t.replace('**', ''), 'text': txt, 'table': d['tables']})
         elif line.strip() == '':
             d['_in_table'] = False
+        elif line.startswith('**'):
+            d['_label'] = line.strip()
 data['smjestaj'] = clean_md(smjestaj)
 for c in data['cities'].values():
     c['intro'] = clean_md(c['intro'])
@@ -240,6 +242,9 @@ for sec in sections:
         sh = s['h']
         if 'OKIDAČI' in sh:
             day['triggers'] = clean_md(s['lines'])
+        elif sh.startswith('🅱️') and TIME_RE.match(sh.lstrip('🅱️ ~')):
+            slot = parse_slot(sh.lstrip('🅱️ ').strip(), s['lines']); slot['br'] = 'B'
+            day['slots'].append(slot)
         elif sh.startswith('🅱️') or sh.startswith('Srednji put'):
             meta = []
             ls = s['lines'][:]
@@ -250,7 +255,7 @@ for sec in sections:
             day['plans3'].append({'title': sh.lstrip('🅱️ ').strip(), 'meta': meta, 'md': slot['body'], 'alts': slot['alts'], 'after': slot['after']})
         else:
             stripped = sh.lstrip('⏰ ').strip()
-            if TIME_RE.match(stripped.lstrip('~')) or stripped.lower().startswith('večer prije'):
+            if re.match(r'(?:(?:Jutro|Večer)\s+)?(?:🅰️\s*)?~?\d{1,2}:\d\d', stripped) or stripped.lower().startswith('večer prije'):
                 day['slots'].append(parse_slot(sh, s['lines']))
             else:
                 day['info'].append({'title': sh, 'md': clean_md(s['lines']), 'top': sh.startswith('⏰ ODLUKE')})
@@ -262,11 +267,13 @@ PLANS = {
     '23.10': [{'match': 'Delpino', 'label': 'Plan B · Delpino', 'replaces': ['14:00', '15:30']}],
     '24.10': [{'match': 'Plan C', 'label': 'Plan C · Gangneung', 'replaces': ['06:35', '06:55', '08:00', '09:36', '12:30', '13:30', '14:30', '17:00']}],
     '27.10': [{'match': 'Eonyang', 'label': 'Plan B · Eonyang', 'replaces': ['10:00']}],
-    '30.10': [{'match': 'Banpo', 'label': 'Plan B · Banpo', 'replaces': ['15:30', '18:00', '19:15', '20:30']},
-              {'match': 'Srednji put', 'label': 'Srednji put', 'replaces': ['15:30', '18:00', '19:15', '20:30']}],
-    '31.10': [{'match': 'Hongdae', 'label': 'Plan B · Hongdae', 'replaces': ['17:30', '18:00', '19:15', '20:30', '21:15', '22:00']}],
-    '2.11': [{'match': 'jumbo', 'label': 'Rezerva · jumbo taksi', 'replaces': ['07:25', '07:45']}],
+    # no 'replaces': extra branches of the day's inline 🅰️/🅱️ fork ('a' names branch A)
+    '30.10': [{'match': 'Banpo', 'label': 'Natrag u Seoul · Banpo', 'a': 'Večer u Suwonu'},
+              {'match': 'Srednji put', 'label': 'Srednji put'}],
+    '2.11': [{'match': 'jumbo', 'label': 'Jumbo taksi', 'a': 'AREX', 'replaces': ['07:25', '07:45']}],
 }
+# rows the site shows as one: the later row's text joins the earlier one ("Izlazak …, pa AREX …")
+JOIN = {'30.10': [('09:10', '09:20')]}
 ALT_RE = re.compile(r'\s*·?\s*\*↔[^*]*\*')
 report = []
 for day in data['days']:
@@ -275,29 +282,71 @@ for day in data['days']:
     day['city'] = d2.get('city')
     day['transfer'] = clean_md(d2.get('transfer', []))
     day['flash'] = flash.get(day['date'])
-    main_rows = [r for r in d2['rows'] if r['table'] == 1 and not r['time'].startswith('🅱️')]
-    brows = [r for r in d2['rows'] if r['time'].startswith('🅱️')]
+    # "🅰️ 18:00" / "🅱️ 17:15" rows are branches of an inline fork; an untimed "🅱️" row only summarises plan B
+    untimed_b = lambda r: r['time'].startswith('🅱️') and not TIME_RE.search(r['time'])
+    main_rows = [r for r in d2['rows'] if r['table'] == 1 and not untimed_b(r)]
+    brows = [r for r in d2['rows'] if untimed_b(r)]
     alt_rows = [r for r in d2['rows'] if r['table'] == 2]
+    # tables headed "**Jutro 🅰️ (…)**" / "**Jutro 🅱️ (…)**" are versions; unmarked tables are shared
+    labels = d2.get('labels', {})
+    tbl_br = {n: 'A' if '🅰️' in l else 'B' if '🅱️' in l else None for n, l in labels.items() if l}
+    if any(tbl_br.values()) and not any(c.get('altTable') for c in PLANS.get(day['date'], [])):
+        main_rows = [r for r in d2['rows'] if not untimed_b(r)]
+    else:
+        tbl_br = {}
+    def blabel(t):
+        # "**Jutro 🅰️ (u krevetu do ponoći) — …**" → "U krevetu do ponoći"; "✅ Karte dobivene" stays as is
+        t = re.sub(r'[*]', '', t).replace('🅰️', '').replace('🅱️', '').strip()
+        m = re.search(r'\(([^)]+)\)', t)
+        t = m.group(1) if m else t.split(' — ')[0]
+        return t[:1].upper() + t[1:]
     def mkrow(r):
-        return {'time': r['time'], 'key': time_key(r['time']), 'text': ALT_RE.sub('', r['text']).strip(), 'altHint': bool(ALT_RE.search(r['text'])), 'slot': None}
-    rows = [mkrow(r) for r in main_rows]
+        br = 'A' if r['time'].startswith('🅰️') else 'B' if r['time'].startswith('🅱️') else tbl_br.get(r['table'])
+        t = r['time'].replace('🅰️', '').replace('🅱️', '').strip() if br else r['time']
+        return {'time': t, 'key': time_key(t), 'text': ALT_RE.sub('', r['text']).strip(), 'altHint': bool(ALT_RE.search(r['text'])), 'slot': None, 'br': br}
+    rows, sec, nsec, pend, seen_t = [], None, 0, None, set()
+    for r in main_rows:
+        if not r['text'].strip():
+            # "✅ Karte dobivene" / "❌ Karte nisu dobivene" open the versions, "Za obje" closes them
+            if re.match(r'(?i)za (obje|oba|sve)', r['time']): sec, nsec = None, 0
+            else: sec, nsec, pend = 'ABC'[min(nsec, 2)], nsec + 1, r['time'].strip()
+            continue
+        row = mkrow(r)
+        if sec and not row['br']: row['br'] = sec
+        if pend and row['br'] == sec: row['blabel'], pend = pend, None
+        if tbl_br.get(r['table']) and r['table'] not in seen_t: row['blabel'] = blabel(labels[r['table']]); seen_t.add(r['table'])
+        rows.append(row)
+    for k1, k2 in JOIN.get(day['date'], []):
+        r1 = next((r for r in rows if r['key'] == k1), None)
+        r2 = next((r for r in rows if r['key'] == k2 and r1 and r['br'] == r1['br']), None)
+        if r1 and r2:
+            r1['text'] = r1['text'] + ' → ' + r2['text']
+            rows.remove(r2)
     used = set()
     last_idx = -1
     for si, s in enumerate(day['slots']):
-        idx = next((i for i, r in enumerate(rows) if r['slot'] is None and r['key'] == s['key'] and i not in used), None)
+        idx = next((i for i, r in enumerate(rows) if r['slot'] is None and r['key'] == s['key'] and i not in used and (r['br'] == 'B') == (s.get('br') == 'B')), None)
+        dual = '🅱️' in s['timeLabel'] and '🅰️' in s['timeLabel']
+        if dual:
+            bk = time_key(s['timeLabel'].split('🅱️')[1])
+            bi = next((i for i, r in enumerate(rows) if r['slot'] is None and r['br'] == 'B' and r['key'] == bk), None)
+            if bi is not None: rows[bi]['slot'] = si; used.add(bi)
         if idx is None:
             # A/B days use time ranges ("Jutro 09:30–11:45"); attach the slot to the range row that names it
             w = re.sub(r'[*_]', '', s['title']).split()[0].lower()
-            idx = next((i for i, r in enumerate(rows) if r['slot'] is None and '–' in r['time'] and len(w) > 3 and w in re.sub(r'[*_]', '', r['text']).lower()), None)
+            idx = next((i for i, r in enumerate(rows) if r['slot'] is None and ('–' in r['time'] or dual) and r['br'] != 'B' and len(w) > 3 and w in re.sub(r'[*_]', '', r['text']).lower()), None)
             if idx is not None:
                 rows[idx]['slot'] = si; used.add(idx); last_idx = idx
                 continue
+            if dual: continue
         if idx is None:
-            newrow = {'time': s['timeLabel'].lstrip('⏰ '), 'key': s['key'], 'text': '**' + s['title'] + '**', 'altHint': False, 'slot': si, 'd3only': True}
+            newrow = {'time': s['timeLabel'].lstrip('⏰ '), 'key': s['key'], 'text': '**' + s['title'] + '**', 'altHint': False, 'slot': si, 'd3only': True, 'br': s.get('br')}
             pos = last_idx + 1
             if re.fullmatch(r'\d\d:\d\d', s['key']):
                 later = [i for i, r in enumerate(rows) if re.fullmatch(r'\d\d:\d\d', r['key']) and r['key'] > s['key']]
                 if later: pos = later[0]
+            # a slot squeezed in among one version's rows belongs to that version
+            if not newrow['br'] and 0 < pos < len(rows) and rows[pos - 1]['br'] and rows[pos]['br'] == rows[pos - 1]['br']: newrow['br'] = rows[pos]['br']
             rows.insert(pos, newrow)
             used = {i + 1 if i >= pos else i for i in used}
             last_idx = pos
@@ -308,10 +357,56 @@ for day in data['days']:
         if r['slot'] is None:
             report.append(f"{day['date']}: D2-only row '{r['time']}'")
     day['rows'] = rows
+    # forks: a stretch of the day with 🅰️/🅱️ versions, chosen in place on the timeline
+    forks = []
+    def label_in(slot, mark):
+        m = slot and re.search(r'\*\*' + mark + r'\s*([^*]+?)\*\*', slot['body'] + '\n' + slot['after'])
+        return m.group(1).strip() if m else None
+    # a stretch of versioned rows is one fork; an A row right after a B row starts the next one
+    runs = []
+    for i, r in enumerate(rows):
+        if not r['br']: continue
+        if runs and runs[-1][-1] == i - 1 and not (r['br'] == 'A' and rows[i - 1]['br'] != 'A'): runs[-1].append(i)
+        else: runs.append([i])
+    for run in runs:
+        fk = len(forks)
+        # the row just before that says "🅰️ ili 🅱️" / "Odluka" is where the choice is made
+        hi = run[0] - 1
+        head = hi if hi >= 0 and not rows[hi]['br'] and re.search(r'🅰️ ili 🅱️|Odluka', rows[hi]['text']) else None
+        hs = day['slots'][rows[head]['slot']] if head is not None and rows[head]['slot'] is not None else None
+        for i in run: rows[i]['fk'] = fk
+        if head is not None: rows[head]['fk'] = fk; rows[head]['head'] = True
+        def lab(m, e):
+            own = next((rows[i]['blabel'] for i in run if rows[i]['br'] == m and rows[i].get('blabel')), None)
+            return own or (label_in(hs, e) or '').rstrip(':') or 'Verzija ' + m
+        forks.append({'branches': [{'mark': m, 'label': lab(m, e), 'summary': '', 'detail': None}
+                                   for m, e in (('A', '🅰️'), ('B', '🅱️'), ('C', '🅲')) if any(rows[i]['br'] == m for i in run) or m == 'B']})
     # plans
     plans = []
     cfg = PLANS.get(day['date'], [])
     for c in cfg:
+        if not c.get('altTable'):
+            p3 = next((x for x in day['plans3'] if c['match'].lower() in x['title'].lower()), None)
+            b = next((r for r in brows if c['match'].lower() in r['text'].lower()), None)
+            if b: brows.remove(b)
+            if p3: day['plans3'].remove(p3)
+            else: report.append(f"{day['date']}: plan '{c['label']}' has no D3 section")
+            alt = {'mark': 'B', 'label': c['label'], 'summary': b['text'] if b else '', 'detail': p3}
+            if c.get('replaces') and not (alt['summary'] or alt['detail']):
+                continue
+            if c.get('replaces'):
+                # the replaced rows are version A of a fork of their own
+                fk = len(forks)
+                for r in rows:
+                    if r['key'] in c['replaces'] and not r['br']: r['br'] = 'A'; r['fk'] = fk
+                forks.append({'branches': [{'mark': 'A', 'label': c.get('a', 'Plan A'), 'summary': '', 'detail': None}, alt]})
+            elif forks:
+                f = forks[-1]
+                if c.get('a'): f['branches'][0]['label'] = c['a']
+                bb = next((x for x in f['branches'] if x['mark'] == 'B'), None)
+                if bb and not any(r.get('fk') == len(forks) - 1 and r['br'] == 'B' for r in rows) and not bb['summary']: bb.update({k: v for k, v in alt.items() if k != 'mark'})
+                else: alt['mark'] = 'ABC'[len(f['branches'])]; f['branches'].append(alt)
+            continue
         p = {'label': c['label'], 'replaces': c['replaces'], 'summary': '', 'detail': None, 'rows': None}
         if c.get('altTable') and not alt_rows:
             continue
@@ -333,7 +428,35 @@ for day in data['days']:
         plans.append(p)
     for b in brows: report.append(f"{day['date']}: unassigned B row {b['text'][:50]}")
     for p in day['plans3']: report.append(f"{day['date']}: unassigned D3 plan {p['title']}")
+    def timed_rows(md_):
+        lines = md_.split('\n')
+        tbl = [[c.strip() for c in l.strip().strip('|').split('|')] for l in lines if l.startswith('|')]
+        tr = [(c[0].replace('**', ''), c[1]) for c in tbl if len(c) >= 2 and TIME_RE.search(c[0])]
+        if tr: return tr, '\n'.join(l for l in lines if not l.startswith('|')).strip()
+        paras = md_.strip().split('\n\n'); first = paras[0]
+        body, _, rest = first.partition('. ')
+        cl = [c for c in re.split(r',\s+', body) if TIME_RE.search(c)]
+        if len(cl) < 2: return [], md_
+        out = []
+        for c in re.split(r',\s+', body):
+            m = TIME_RE.search(c)
+            if not m: out[-1] = (out[-1][0], out[-1][1] + ', ' + c); continue
+            t = c if re.search(r'\bza\b', c) else re.sub(r'\s*\b(?:oko|u)\s+~?\d{1,2}:\d\d', '', c)
+            t = re.sub(r'\*\*\s*\*\*', '', t).strip()
+            out.append((m.group(1), re.sub(r'^(\**)(\w)', lambda x: x.group(1) + x.group(2).upper(), t)))
+        return out, '\n\n'.join(([rest] if rest else []) + paras[1:]).strip()
+    for fk, f in enumerate(forks):
+        for b in f['branches']:
+            if b['detail'] and not any(r.get('fk') == fk and r['br'] == b['mark'] for r in rows):
+                tr, restmd = timed_rows(b['detail']['md'])
+                if not tr: continue
+                at = max(i for i, r in enumerate(rows) if r.get('fk') == fk) + 1
+                for j, (t, x) in enumerate(tr):
+                    rows.insert(at + j, {'time': t, 'key': time_key(t), 'text': x, 'altHint': False, 'slot': None, 'br': b['mark'], 'fk': fk})
+                b['summary'] = ''
+                b['detail'] = dict(b['detail'], md=restmd) if restmd else None
     day['plans'] = plans
+    day['forks'] = forks
     day['leftPlans3'] = day.pop('plans3')
     day['decisions'] = [x['id'] for x in decisions if x['date'] == day['date']]
 
@@ -382,6 +505,8 @@ if os.path.exists(food):
     fm = data['food']['meals']
     print('food', len(fm), 'days', sum(len(v) for v in fm.values()), 'meals', sum(len(m['options']) for v in fm.values() for m in v), 'options',
           sum(len(v) for v in data['food']['areas'].values()), 'areas', len(data['food']['dishes']), 'dishes')
+# what each named place is, written for the site (src/places.json): a line on the row, more when it opens
+data['places'] = json.load(open(os.path.join(os.path.dirname(__file__), '..', 'src', 'places.json'), encoding='utf-8'))
 ids = [r['id'] for r in data['reservations']] + [d['id'] for d in decisions]
 assert len(ids) == len(set(ids)), 'dup ids'
 json.dump(data, open(out_path, 'w', encoding='utf-8'), ensure_ascii=False)

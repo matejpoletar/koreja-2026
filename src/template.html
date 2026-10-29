@@ -226,6 +226,25 @@ li.gone .row { opacity: .45; }
 li.gone .txt { text-decoration: line-through; text-decoration-color: var(--muted); }
 
 li.plancard { padding: 10px 8px; }
+/* inline 🅰️/🅱️ fork: a version switch in the timeline, the chosen version's rows on a coloured rail */
+.tl > li.fsel { padding: 2px 8px 8px 70px; }
+.fsw { display: flex; gap: 6px; flex-wrap: wrap; }
+.fsw button { border: 1.5px solid var(--bc); background: var(--surface); color: var(--bc); border-radius: 999px; padding: 5px 12px; font: 700 .8rem var(--f-display); letter-spacing: .03em; cursor: pointer; }
+.fsw button[aria-pressed="true"] { background: var(--bc); color: var(--surface); }
+.fb-A, .br-A { --bc: var(--accent); } .fb-B, .br-B { --bc: var(--plan); } .fb-C, .br-C { --bc: var(--ok); }
+.tl > li.br { background: color-mix(in srgb, var(--bc) 9%, transparent); }
+.tl > li.br::before { content: ""; position: absolute; left: 58px; top: 0; bottom: 0; width: 4px; background: var(--bc); }
+.tl > li.br .bm { font: 800 .62rem/1.6 var(--f-display); letter-spacing: .06em; color: var(--surface); background: var(--bc); border-radius: 4px; padding: 0 4px; margin-right: 5px; vertical-align: 1px; }
+.tl > li.br .bdet { margin: 0 8px 10px 70px; }
+.tl > li.fend { padding: 4px 8px 4px 70px; font: 700 .64rem var(--f-display); letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+/* what a place is: a line under the row, the full write-up when it opens */
+.what { display: grid; gap: 2px; margin-top: 4px; font-size: .82rem; line-height: 1.4; color: var(--muted); }
+.what b { color: var(--ink); font-weight: 600; }
+.about { display: grid; gap: 4px; }
+.about h4 { margin: 0; font: 700 .95rem var(--f-display); letter-spacing: .03em; color: var(--navy); }
+.about p { margin: 0; font-size: .9rem; max-width: 72ch; }
+.about .why { color: var(--muted); }
+.about .why b { color: var(--ink); }
 .pcard { border-radius: 12px; background: var(--plan-soft); padding: 12px 14px; display: grid; gap: 8px; border-left: 4px solid var(--plan); }
 .pcard .ph { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
 .pcard .ph b { font: 800 1.2rem var(--f-display); color: var(--plan); text-transform: uppercase; letter-spacing: .03em; }
@@ -823,12 +842,25 @@ function shortMeta(m) {
   if (/^🦵/.test(m)) return m.match(/^(🦵+)/)[1];
   return m;
 }
+// places are described from Thursday 29.10. on, each once per day as the timeline is drawn
+const PL = (D.places || []).map(p => ({ ...p, re: new RegExp(p.m, 'i') }));
+const PL_FROM = dayIdx('29.10');
+let plSeen = new Set();
+function placesOf(d, r, slot) {
+  // notes (❌, 🔁, ⚠️ …) only mention places, they are not stops
+  if (days.indexOf(d) < PL_FROM || /^[^\p{L}\p{N}~]/u.test(r.time)) return [];
+  // getting somewhere ("Taksi do Seongsua") is not the place itself; the stop that follows gets the description
+  if (/^\**(Taksi|Linija|Pješice|Do |Izlazak|Natrag)/.test(r.text)) return [];
+  const s = r.text + ' ' + (slot ? slot.title : '');
+  return PL.filter(p => p.re.test(s) && !plSeen.has(p.n) && plSeen.add(p.n));
+}
 function rowHTML(d, r, key, opts = {}) {
   const slot = r.slot != null ? d.slots[r.slot] : null;
+  const pl = key.startsWith('m') ? [] : placesOf(d, r, slot);
   const pd = pickDoc(d); const chosenIdx = slot ? (pd.slots || {})[key] : undefined;
   const chosen = slot && chosenIdx != null ? slot.alts[chosenIdx] : null;
   const meal = opts.meal;
-  const hasDetail = meal || (slot && (slot.body || slot.alts.length || slot.altNotes.length || slot.after));
+  const hasDetail = meal || pl.length || (slot && (slot.body || slot.alts.length || slot.altNotes.length || slot.after));
   const open = hasDetail && openSlots.has(d.date + '|' + key);
   const chips = [];
   if (slot) slot.meta.forEach(m => { const t = shortMeta(m); if (t) chips.push(`<span class="chip" title="${esc(m)}">${inline(t)}</span>`); });
@@ -839,7 +871,7 @@ function rowHTML(d, r, key, opts = {}) {
   const timeSoft = !/\d/.test(r.time);
   const shown = opts.rough ? r.time : r.time.replace(/^~/, '').replace(/(\d{1,2}:\d\d)\s*[–-]\s*~?\d{1,2}:\d\d/, '$1');
   const inner = `<span class="time${timeSoft ? ' soft' : ''}">${inline(shown)}</span>
-    <span class="txt"><p>${inline(r.text)}</p>${meal ? mealLine(d, meal[0], meal[1]) : ''}${chips.length ? `<span class="chips">${chips.join('')}</span>` : ''}</span>
+    <span class="txt"><p>${opts.br ? `<span class="bm">${opts.br}</span>` : ''}${inline(r.text)}</p>${pl.length ? `<span class="what">${pl.slice(0, 3).map(p => `<span><b>${esc(p.n)}</b> — ${inline(p.w)}</span>`).join('')}</span>` : ''}${meal ? mealLine(d, meal[0], meal[1]) : ''}${chips.length ? `<span class="chips">${chips.join('')}</span>` : ''}</span>
     <span class="chev" aria-hidden="true">${hasDetail ? '›' : ''}</span>`;
   const row = hasDetail
     ? `<button class="row" data-act="slot" data-key="${esc(key)}" aria-expanded="${open}">${inner}</button>`
@@ -851,13 +883,14 @@ function rowHTML(d, r, key, opts = {}) {
       ${slotAlts(d, slot, key)}
       ${slot.after ? `<div class="md">${md(slot.after)}</div>` : ''}` : '';
   // on a meal row the old fixed restaurant folds away under the picker
+  const about = pl.map(p => `<div class="about"><h4>${esc(p.n)}</h4><p>${inline(p.a)}</p>${p.y ? `<p class="why"><b>Zašto ići:</b> ${inline(p.y)}</p>` : ''}</div>`).join('');
   const det = open ? `<div class="detail" data-act="slot" data-key="${esc(key)}">
-      ${meal ? mealPanel(d, meal[0], meal[1]) + (slot ? `<details class="fold" data-act="noop"><summary>Iz plana · ${inline(slot.title)}</summary>${plan}</details>` : '') : plan}
+      ${about}${meal ? mealPanel(d, meal[0], meal[1]) + (slot ? `<details class="fold" data-act="noop"><summary>Iz plana · ${inline(slot.title)}</summary>${plan}</details>` : '') : plan}
     </div>` : '';
   const detL = loc ? nvInline(det, loc.subs) : det;
   const tm = r.time.match(/(\d{1,2}):(\d\d)(?:\s*[–-]\s*~?(\d{1,2}):(\d\d))?/);
   const ta = tm ? ` data-t="${+tm[1] * 60 + +tm[2]}"${tm[3] ? ` data-e="${+tm[3] * 60 + +tm[4]}"` : ''}` : '';
-  return `<li class="${open ? 'open' : ''}${opts.gone ? ' gone' : ''}"${ta}>${row}${detL}</li>`;
+  return `<li class="${open ? 'open' : ''}${opts.gone ? ' gone' : ''}${opts.br ? ' br br-' + opts.br : ''}"${ta}>${row}${detL}</li>`;
 }
 function planCard(d, p) {
   const det = p.detail;
@@ -907,7 +940,10 @@ function roughTimeline(d, blocks) {
   loose.forEach(i => { const r = d.rows[i]; html += rowHTML(d, r, 'r' + i + '-' + r.key, { meal: at.has(i) ? [F.meals[d.date][at.get(i)], at.get(i)] : null }); });
   return `<ol class="tl">${html}</ol>`;
 }
+const forkPick = store.get('forkPick', {});
+const forkSel = (d, fk) => { const v = forkPick[d.date + '|' + fk]; return d.forks[fk].branches.some(b => b.mark === v) ? v : 'A'; };
 function timeline(d) {
+  plSeen = new Set();
   const pv = planView[d.date] || 0;
   if (!pv && ROUGH[d.date]) return roughTimeline(d, ROUGH[d.date]);
   const p = pv > 0 ? d.plans[pv - 1] : null;
@@ -915,7 +951,34 @@ function timeline(d) {
   const rep = p ? new Set(p.replaces) : null;
   let html = '', cardDone = false, part = null;
   const { at, free } = placeMeals(d);
+  const forks = d.forks || [], shown = new Set();
+  const plain = (r, i, br) => {
+    const pt = partOf(r.key);
+    if (pt && pt !== part) { html += `<li class="part">${pt}</li>`; part = pt; }
+    const mi = at.get(i);
+    html += rowHTML(d, r, 'r' + i + '-' + r.key, { br, meal: mi != null ? [F.meals[d.date][mi], mi] : null });
+  };
+  // the switch, then only the chosen version: its own rows, or its summary and details when it has none
+  const fork = fk => {
+    const f = forks[fk], sel = forkSel(d, fk);
+    html += `<li class="fsel"><div class="fsw" role="group" aria-label="Verzija">${f.branches.map(b =>
+      `<button class="fb-${b.mark}" data-act="fork" data-f="${fk}" data-b="${b.mark}" aria-pressed="${sel === b.mark}">${b.mark} · ${esc(b.label)}</button>`).join('')}</div></li>`;
+    const own = d.rows.map((r, i) => [r, i]).filter(([r]) => r.fk === fk && r.br === sel);
+    if (own.length) own.forEach(([r, i]) => plain(r, i, sel));
+    else {
+      const b = f.branches.find(x => x.mark === sel), det = b.detail;
+      html += `<li class="br br-${sel}"><div class="row"><span class="time"></span><span class="txt"><p><span class="bm">${sel}</span>${inline(b.summary || '**' + b.label + '**')}</p></span><span class="chev"></span></div>${det ? `<details class="fold bdet"><summary>Detalji · ${inline(det.title)}</summary><div class="md">${md(det.md)}${det.after ? md(det.after) : ''}</div></details>` : ''}</li>`;
+    }
+    const last = Math.max(...d.rows.map((r, i) => r.fk === fk ? i : -1));
+    const nx = d.rows[last + 1];
+    if (nx && !(nx.fk != null && nx.fk !== fk)) html += `<li class="fend">⤵ dalje isto za sve</li>`;
+  };
   d.rows.forEach((r, i) => {
+    if (!p && r.fk != null && forks[r.fk]) {
+      if (r.head) { plain(r, i); fork(r.fk); shown.add(r.fk); }
+      else if (!shown.has(r.fk)) { fork(r.fk); shown.add(r.fk); }
+      return;
+    }
     const key = 'r' + i + '-' + r.key;
     const gone = rep && rep.has(r.key);
     const pt = partOf(r.key);
@@ -1144,6 +1207,7 @@ document.addEventListener('click', e => {
   else if (a === 'flash') { const i = +b.dataset.i; const was = flashOpen.has(i); flashOpen.clear(); if (!was) flashOpen.add(i); render(); }
   else if (a === 'q') { qOpen = qOpen === b.dataset.k ? null : b.dataset.k; render(); }
   else if (a === 'slot') { if (e.target.closest('.pickbtn')) return; const k = d.date + '|' + b.dataset.key; const was = openSlots.has(k); openSlots.clear(); if (!was) openSlots.add(k); render(); }
+  else if (a === 'fork') { forkPick[d.date + '|' + b.dataset.f] = b.dataset.b; store.set('forkPick', forkPick); render(); }
   else if (a === 'plan') { planView[d.date] = +b.dataset.i; store.set('planView', planView); openSlots.clear(); render(); }
   else if (a === 'mtab') { mealTab[d.date + '|' + b.dataset.m] = b.dataset.k; render(); }
   else if (a === 'meal') { const pd = { ...pickDoc(d), meals: { ...(pickDoc(d).meals || {}) } }; const m = b.dataset.m, n = b.dataset.n; pd.meals[m] = pd.meals[m] && pd.meals[m].n === n ? null : { n, k: b.dataset.k }; write('picks', pickId(d), pd); }
