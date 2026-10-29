@@ -4,349 +4,399 @@
   "n": "Nampo-dong",
   "w": "staro središte Busana uz luku, ulice za šoping i uličnu hranu",
   "a": "Stari centar Busana uz luku: trgovačke ulice, natkrivene tržnice i trg BIFF, nazvan po Busanskom filmskom festivalu, gdje se jede ulična hrana poput ssiat hotteoka (slatke palačinke punjene sjemenkama). Odmah do je velika riblja tržnica Jagalchi.",
-  "y": "Puno toga na malom prostoru za zadnji sat u Busanu, a lako se stigne natrag na stanicu."
+  "y": "Puno toga na malom prostoru za zadnji sat u Busanu, a lako se stigne natrag na stanicu.",
+  "g": "staro središte uz luku"
  },
  {
   "m": "milmyeon",
   "n": "Milmyeon (밀면)",
   "w": "busanski hladni rezanci od pšenice",
   "a": "Hladni rezanci od pšeničnog brašna u ledenoj juhi od goveđeg ili svinjskog temeljca, s malo ljutog umaka na vrhu. Nastali su tijekom Korejskog rata, kad su izbjeglice sa sjevera u Busanu naengmyeon umjesto od heljde radile od pšenice iz američke pomoći.",
-  "y": "Jelo koje se jede praktički samo u Busanu, lagano i brzo prije vlaka."
+  "y": "Jelo koje se jede praktički samo u Busanu, lagano i brzo prije vlaka.",
+  "g": "hladni pšenični rezanci"
  },
  {
   "m": "Pokpo",
   "n": "Cafe Pokpo (카페폭포)",
   "w": "kafić ispred umjetnog slapa na potoku Hongjecheon",
   "a": "Kafić uz potok Hongjecheon na sjeverozapadu Seoula, s terasom i velikim staklima okrenutima prema umjetnom slapu koji pada niz stijenu. Slap teče samo u određenim terminima (raspored je na Instagramu @cafe.pokpo). Navečer se pali rasvjeta.",
-  "y": "Neobičan prizor, slap usred grada, i mirna kava odmah nakon dolaska u Seoul."
+  "y": "Neobičan prizor, slap usred grada, i mirna kava odmah nakon dolaska u Seoul.",
+  "g": ""
  },
  {
   "m": "Yukmong",
   "n": "Yukmong (육몽)",
   "w": "restoran korejskog roštilja u kojem meso peče osoblje",
   "a": "Korejski BBQ: na stolu je roštilj, a osoblje peče i reže svinjetinu dok se jede s prilozima (banchan). Meso se zamata u list salate s češnjakom, ssamjangom (gusti umak od soje i čilija) i kimchijem, i jede u jednom zalogaju.",
-  "y": "Pravi seulski roštilj bez brige oko pečenja; ako se svidi, vraćamo se u nedjelju."
+  "y": "Pravi seulski roštilj bez brige oko pečenja; ako se svidi, vraćamo se u nedjelju.",
+  "g": ""
  },
  {
   "m": "Hongdae",
   "n": "Hongdae (홍대)",
   "w": "studentska četvrt oko Sveučilišta Hongik, središte noćnog života",
   "a": "Četvrt oko Sveučilišta Hongik, poznatog po umjetničkom fakultetu. Ulice su pune buskera i plesnih grupa, arkada, foto-kioska, jeftinih restorana, barova i klubova. Večerom i vikendom je najživlji dio Seoula za mlade, a naš smještaj je odmah do.",
-  "y": "Najbolje mjesto u gradu za večer bez plana: igre, hrana i piće na svakom koraku."
+  "y": "Najbolje mjesto u gradu za večer bez plana: igre, hrana i piće na svakom koraku.",
+  "g": "studentska i noćna četvrt"
  },
  {
   "m": "batting cage",
   "n": "Batting cage",
   "w": "kavez u kojem se palicom udaraju bejzbolske loptice iz stroja",
   "a": "Bejzbol je u Koreji sport broj jedan, a po gradu su automati-kavezi: stroj izbacuje loptice, vi udarate palicom. Plaća se po rundi od dvadesetak loptica, a brzina se bira.",
-  "y": "Kratka i smiješna aktivnost za ekipu, ne treba nikakvo znanje."
+  "y": "Kratka i smiješna aktivnost za ekipu, ne treba nikakvo znanje.",
+  "g": "kavez za bejzbolske udarce"
  },
  {
   "m": "foto-kios",
   "n": "Foto-kiosci (인생네컷)",
   "w": "samoposlužne foto-kabine s rekvizitima",
   "a": "Kabine u kojima se za par tisuća wona snimi traka od četiri fotografije, uz perike, šešire i naočale na raspolaganju, i odmah ispiše. Korejci ovo rade stalno, s prijateljima i na izlascima.",
-  "y": "Najjeftiniji i najzabavniji suvenir s puta."
+  "y": "Najjeftiniji i najzabavniji suvenir s puta.",
+  "g": "foto-kabine s rekvizitima"
  },
  {
   "m": "Escape room|Deepthinker",
   "n": "Escape room Deepthinker",
   "w": "soba za bijeg: tim rješava zagonetke da bi izašao na vrijeme",
   "a": "Escape roomovi (방탈출) su u Seoulu vrlo popularni i često raskošno uređeni, s pravim scenografijama. Tim ima oko sat vremena da rješavanjem zagonetki otključa izlaz. Naša soba je na engleskom i bez horora.",
-  "y": "Odlična zajednička aktivnost za četvero, a korejske su sobe poznate po kvaliteti."
+  "y": "Odlična zajednička aktivnost za četvero, a korejske su sobe poznate po kvaliteti.",
+  "g": ""
  },
  {
   "m": "noraebang",
   "n": "Noraebang (노래방)",
   "w": "korejski karaoke u privatnoj sobici",
   "a": "Karaoke u maloj zatvorenoj sobi samo za vaše društvo, s mikrofonima, svjetlima i ogromnim katalogom pjesama, i engleskih. U coin noraebangu plaća se po pjesmi, pa je idealan za kratko.",
-  "y": "Dio svake korejske večeri, a u Hongdaeu ih je na svakom uglu."
+  "y": "Dio svake korejske večeri, a u Hongdaeu ih je na svakom uglu.",
+  "g": "karaoke u privatnoj sobici"
  },
  {
   "m": "pocha",
   "n": "Pocha (포장마차)",
   "w": "šatori i mali barovi sa sojuom i jelima uz piće",
   "a": "Pojangmacha su tradicionalno narančasti šatori na ulici, a danas i mali barovi u istom stilu, gdje se uz soju jede anju, hrana za uz piće: tteokbokki, pržene lignje, riblji kolač u juhi. Opušteno, glasno i jeftino.",
-  "y": "Najkorejskiji način za kasnu noć."
+  "y": "Najkorejskiji način za kasnu noć.",
+  "g": ""
  },
  {
   "m": "Hwaseong(?! Haenggung| Eocha)|Ravni zidovi|zidin",
   "n": "Tvrđava Hwaseong (수원 화성)",
   "w": "UNESCO-ova tvrđava iz 18. stoljeća oko starog Suwona",
   "a": "Kralj Jeongjo dao ju je izgraditi 1794.–1796. oko novog Suwona, blizu groba svoga oca, princa Sadoa. Zidovi dugi oko 5,7 km imaju vrata, stražarnice, topničke platforme i paviljone, a građeni su uz tada nove tehnike poput dizalica. Od 1997. je na UNESCO-ovom popisu svjetske baštine.",
-  "y": "Jedna od najljepših povijesnih šetnji u Koreji: ravni dijelovi zidova vode kroz grad s pogledom na krovove i brda."
+  "y": "Jedna od najljepših povijesnih šetnji u Koreji: ravni dijelovi zidova vode kroz grad s pogledom na krovove i brda.",
+  "g": "tvrđava Hwaseong, UNESCO"
  },
  {
   "m": "Haenggung(?!-dong)",
   "n": "Hwaseong Haenggung (화성행궁)",
   "w": "kraljeva privremena palača unutar tvrđave",
   "a": "Najveća privremena palača dinastije Joseon, u kojoj je kralj Jeongjo boravio kad je posjećivao očev grob. Ovdje je 1795. priredio slavnu proslavu 60. rođendana svoje majke. Većina zgrada obnovljena je krajem 20. stoljeća prema detaljnim kraljevskim zapisima.",
-  "y": "Manja i mirnija od seulskih palača, lako se obiđe, a ispred je besplatni borilački nastup."
+  "y": "Manja i mirnija od seulskih palača, lako se obiđe, a ispred je besplatni borilački nastup.",
+  "g": "kraljeva privremena palača"
  },
  {
   "m": "Muye 24",
   "n": "Muye 24-gi (무예24기)",
   "w": "besplatni nastup tradicionalnih korejskih borilačkih vještina",
   "a": "Izvođači u kostimima kraljevske straže pokazuju 24 borilačke tehnike, s mačevima, kopljima i bez oružja, prema vojnom priručniku iz 1790. sastavljenom po nalogu kralja Jeongja. Traje oko pola sata, ispred palače.",
-  "y": "Kratko, spektakularno i besplatno, ali samo ujutro."
+  "y": "Kratko, spektakularno i besplatno, ali samo ujutro.",
+  "g": ""
  },
  {
   "m": "pržene piletine|Tongdak",
   "n": "Uličica pržene piletine (수원 통닭거리)",
   "w": "ulica restorana s cijelom piletinom prženom u željeznim kotlovima",
   "a": "Suwon je poznat po tongdaku, cijeloj piletini prženoj u velikim kotlovima kao nekad na tržnicama. Uz piletinu se obično dobiju i prženi pileći želuci, a pije se pivo. U ulici je više poznatih lokala jedan do drugoga.",
-  "y": "Korejska pržena piletina je kult, a ovo je jedno od njenih kultnih mjesta."
+  "y": "Korejska pržena piletina je kult, a ovo je jedno od njenih kultnih mjesta.",
+  "g": ""
  },
  {
   "m": "Hwahongmun",
   "n": "Hwahongmun (화홍문)",
   "w": "kameni most sa sedam lukova preko potoka, s paviljonom na vrhu",
   "a": "Sjeverna vodena vrata tvrđave: most sa sedam lučnih otvora preko potoka Suwoncheon, s drvenim paviljonom na vrhu. Kad potok teče, voda se prelijeva kroz lukove. Navečer je osvijetljen i jedan je od najfotografiranijih prizora Suwona.",
-  "y": "Najljepše mjesto tvrđave, posebno u sumrak kad se upali rasvjeta."
+  "y": "Najljepše mjesto tvrđave, posebno u sumrak kad se upali rasvjeta.",
+  "g": "most-vrata sa sedam lukova"
  },
  {
   "m": "paviljon nad jezerom|Banghwa",
   "n": "Banghwasuryujeong (방화수류정)",
   "w": "paviljon na zidinama iznad jezerca s otočićem",
   "a": "Elegantni paviljon na kutu zidina, odmah do Hwahongmuna, a ispod njega je okruglo jezerce s otočićem i vrbama. Mještani na travi oko jezerca piknikuju i gledaju zalazak sunca.",
-  "y": "Najljepši pogled na tvrđavu i mirno mjesto za predah."
+  "y": "Najljepši pogled na tvrđavu i mirno mjesto za predah.",
+  "g": "Banghwasuryujeong"
  },
  {
   "m": "Yeonmudae|streličarstv",
   "n": "Streličarstvo u Yeonmudaeu (연무대)",
   "w": "gađanje tradicionalnim korejskim lukom",
   "a": "Na nekadašnjem vojnom vježbalištu na istočnoj strani tvrđave gađa se tradicionalnim korejskim lukom (gukgung): za sitniš se dobije deset strijela i kratka uputa. Koreja je svjetska velesila u streličarstvu.",
-  "y": "Kratko, jeftino i natjecateljski zabavno."
+  "y": "Kratko, jeftino i natjecateljski zabavno.",
+  "g": "tradicionalnim korejskim lukom"
  },
  {
   "m": "Eocha|vlakić",
   "n": "Hwaseong Eocha (화성어차)",
   "w": "turistički vlakić sa zmajevom glavom uz zidine",
   "a": "Vozilo oblikovano kao kraljevska nosiljka sa zmajevom glavom, koje vozi uz dio tvrđave između glavnih točaka.",
-  "y": "Pogled na zidine bez hodanja, kad noge već bole."
+  "y": "Pogled na zidine bez hodanja, kad noge već bole.",
+  "g": ""
  },
  {
   "m": "Haenggung-dong",
   "n": "Haenggung-dong (행궁동)",
   "w": "četvrt kafića, murala i radionica oko palače",
   "a": "Stare kuće oko palače pretvorene su u kafiće, male galerije i obrtničke radionice, a zidovi su oslikani muralima. Najživlja je ulica Haenggung-gil.",
-  "y": "Najbolje mjesto u Suwonu za kavu i odmor između dvije šetnje."
+  "y": "Najbolje mjesto u Suwonu za kavu i odmor između dvije šetnje.",
+  "g": "četvrt kafića i murala oko palače"
  },
  {
   "m": "Yeonpo",
   "n": "Yeonpo Galbi (연포갈비)",
   "w": "stari restoran sa Suwon galbijem, odmah uz Hwahongmun",
   "a": "Suwon galbi su velika goveđa rebra marinirana uglavnom solju, a ne slatkim soja-umakom kao drugdje, i peku se na roštilju za stolom. Yeonpo je jedan od poznatih starih galbi restorana, pa se nakon večere izlazi ravno na osvijetljene zidine.",
-  "y": "Za Korejce je Suwon sinonim za galbi, a ovdje ga jedemo tamo gdje je nastao."
+  "y": "Za Korejce je Suwon sinonim za galbi, a ovdje ga jedemo tamo gdje je nastao.",
+  "g": "stari galbi restoran"
  },
  {
   "m": "Gabojung",
   "n": "Gabojung (가보정)",
   "w": "veliki i skuplji galbi restoran u Suwonu",
   "a": "Jedan od najpoznatijih galbi restorana u Suwonu, s nekoliko zgrada i stotinama mjesta, poznat po galbiju od domaće govedine hanwoo. Skuplji je i treba rezervacija.",
-  "y": "Ako želimo vrhunski galbi i svečaniju večer."
+  "y": "Ako želimo vrhunski galbi i svečaniju večer.",
+  "g": "najpoznatiji, skuplji galbi restoran"
  },
  {
   "m": "Flying Suwon|^Balon",
   "n": "Flying Suwon (플라잉수원)",
   "w": "balon na sajli koji se diže iznad tvrđave",
   "a": "Veliki balon s košarom na sajli, koji se diže na oko 150 m i nekoliko minuta lebdi nad tvrđavom. Navečer se odozgo vide osvijetljene zidine i grad. Po jačem vjetru ne leti.",
-  "y": "Jedini način da se cijela tvrđava vidi odjednom, posebno noću."
+  "y": "Jedini način da se cijela tvrđava vidi odjednom, posebno noću.",
+  "g": "Flying Suwon, balon na sajli nad tvrđavom"
  },
  {
   "m": "Banpo",
   "n": "Duga fontana na mostu Banpo (달빛무지개분수)",
   "w": "fontana s glazbom i svjetlima duž mosta preko rijeke Han",
   "a": "Most Banpo ima mlaznice duž obje strane, pa voda pada u rijeku uz glazbu i šarena svjetla. Upisan je u Guinnessovu knjigu rekorda kao najduža fontana na mostu. Gleda se s travnjaka parka Banpo Hangang uz rijeku.",
-  "y": "Klasičan seulski prizor, a ovo su zadnje večeri sezone."
+  "y": "Klasičan seulski prizor, a ovo su zadnje večeri sezone.",
+  "g": "fontana s glazbom na mostu preko Hana"
  },
  {
   "m": "Ramyeon",
   "n": "Ramyeon uz rijeku Han (한강라면)",
   "w": "instant rezanci iz aparata u trgovini, jedu se uz rijeku",
   "a": "U trgovinama u parkovima uz Han stoje aparati za ramyeon: kupi se paket, stavi u posudu i aparat ga za par minuta skuha. Jede se na travi s pogledom na rijeku i most. Prizor iz mnogih K-drama.",
-  "y": "Jeftino, toplo i vrlo korejski."
+  "y": "Jeftino, toplo i vrlo korejski.",
+  "g": ""
  },
  {
   "m": "Changdeokgung",
   "n": "Palača Changdeokgung (창덕궁)",
   "w": "UNESCO-ova palača dinastije Joseon, skladno uklopljena u prirodu",
   "a": "Palača iz 1405., omiljena rezidencija mnogih kraljeva dinastije Joseon. Za razliku od strogo simetričnog Gyeongbokgunga, zgrade prate obronak i prirodu, zbog čega je na UNESCO-ovom popisu. Glavna dvorana Injeongjeon je na putu prema vrtu.",
-  "y": "Najljepša seulska palača i jedini ulaz u Tajni vrt."
+  "y": "Najljepša seulska palača i jedini ulaz u Tajni vrt.",
+  "g": "palača iz 1405., UNESCO"
  },
  {
   "m": "Tajni vrt|Tajnog vrta",
   "n": "Tajni vrt, Huwon (후원)",
   "w": "kraljevski vrt iza palače Changdeokgung, ulaz samo s vodičem",
   "a": "Šumoviti vrt iza palače, s jezercima, paviljonima i kraljevskom knjižnicom, gdje su se kraljevi odmarali, čitali i pisali poeziju. Najpoznatiji prizor je jezerce Buyongji s paviljonom. Ulazi se samo u grupi s vodičem, a krajem listopada vrt je u jesenskim bojama.",
-  "y": "Jedno od najljepših mjesta u Seoulu, a sada je vrhunac jesenskog lišća."
+  "y": "Jedno od najljepših mjesta u Seoulu, a sada je vrhunac jesenskog lišća.",
+  "g": "kraljevski vrt, samo s vodičem"
  },
  {
   "m": "Ikseon",
   "n": "Ikseon-dong (익선동)",
   "w": "uličice s hanok kućama iz 1920-ih, pune kafića i restorana",
   "a": "Jedna od najstarijih hanok četvrti u Seoulu: uske uličice s niskim tradicionalnim kućama, koje su postale kafići, restorani, slastičarnice i male trgovine.",
-  "y": "Šarmantan spoj starog i modernog Seoula, idealan za ručak i desert."
+  "y": "Šarmantan spoj starog i modernog Seoula, idealan za ručak i desert.",
+  "g": "hanok uličice s kafićima"
  },
  {
   "m": "Cheongsudang",
   "n": "Cheongsudang (청수당)",
   "w": "hanok kafić uređen kao vrt s jezercem i bambusom",
   "a": "Kafić u Ikseon-dongu u koji se ulazi kroz vrt s bambusom i vodom, a unutra je jezerce i tradicionalno uređen prostor. Poznat je po desertima, pa vikendom zna biti red.",
-  "y": "Jedan od najljepše uređenih kafića u gradu."
+  "y": "Jedan od najljepše uređenih kafića u gradu.",
+  "g": "hanok kafić s jezercem"
  },
  {
   "m": "Mangwon Hangang|Bicikli uz Han",
   "n": "Park Mangwon Hangang i bicikli Ttareungi (따릉이)",
   "w": "park uz rijeku Han i seulski gradski bicikli",
   "a": "Mangwon je jedan od parkova uz rijeku Han, s travnjacima, trgovinama i biciklističkom stazom koja ide uz cijelu rijeku. Ttareungi su seulski javni bicikli, iznajme se aplikacijom na sat ili dva.",
-  "y": "Najopušteniji način da se vidi Seoul: ravna staza uz vodu, ispod mostova i s pogledom na grad."
+  "y": "Najopušteniji način da se vidi Seoul: ravna staza uz vodu, ispod mostova i s pogledom na grad.",
+  "g": "gradski bicikli Ttareungi, park Mangwon"
  },
  {
   "m": "Gwanghwamun",
   "n": "Gwanghwamun (광화문)",
   "w": "glavna vrata palače Gyeongbokgung i trg ispred njih",
   "a": "Monumentalna južna vrata palače Gyeongbokgung. Ispred je široki trg s kipovima kralja Sejonga, tvorca korejskog pisma, i admirala Yi Sun-sina.",
-  "y": "Početna točka za palaču i jedan od simbola Seoula."
+  "y": "Početna točka za palaču i jedan od simbola Seoula.",
+  "g": "glavna vrata palače"
  },
  {
   "m": "Gyeongbokgung",
   "n": "Palača Gyeongbokgung (경복궁)",
   "w": "glavna i najveća kraljevska palača dinastije Joseon",
   "a": "Glavna palača Seoula, iz 1395. Najpoznatiji su prijestolna dvorana Geunjeongjeon i paviljon Gyeonghoeru na jezeru, a iza palače se dižu planine. Na glavnim vratima održava se svečana smjena straže u povijesnim kostimima.",
-  "y": "Simbol Seoula i obavezna stanica, a jesensko lišće u dvorištima je sada lijepo."
+  "y": "Simbol Seoula i obavezna stanica, a jesensko lišće u dvorištima je sada lijepo.",
+  "g": "glavna kraljevska palača"
  },
  {
   "m": "Smjena straže",
   "n": "Smjena kraljevske straže",
   "w": "svečana ceremonija ispred palače",
   "a": "Rekonstrukcija ceremonije iz doba dinastije Joseon: stražari u šarenim kostimima, uz bubnjeve i zastave, smjenjuju se ispred vrata palače. Traje dvadesetak minuta.",
-  "y": "Kratko, živopisno i besplatno."
+  "y": "Kratko, živopisno i besplatno.",
+  "g": ""
  },
  {
   "m": "Mumu-dae",
   "n": "Vidikovac Mumu-dae (무무대)",
   "w": "vidikovac na obronku Inwangsana iznad palače",
   "a": "Vidikovac na cesti uz planinu Inwangsan s pogledom na palaču Gyeongbokgung, Plavu kuću (bivšu predsjedničku rezidenciju), planinu Bugaksan i centar grada. Odavde se pješice spušta prema Seochonu.",
-  "y": "Jedan od najljepših pogleda na stari Seoul, bez penjanja."
+  "y": "Jedan od najljepših pogleda na stari Seoul, bez penjanja.",
+  "g": "na obronku Inwangsana"
  },
  {
   "m": "Suseong-dong",
   "n": "Dolina Suseong-dong (수성동 계곡)",
   "w": "kamenita dolina s potokom na obroncima Inwangsana",
   "a": "Mala dolina s potokom, stijenama i kamenim mostićem, koju je naslikao poznati slikar dinastije Joseon Jeong Seon.",
-  "y": "Kratka zelena šetnja usred grada, na putu u Seochon."
+  "y": "Kratka zelena šetnja usred grada, na putu u Seochon.",
+  "g": "s potokom i kamenim mostićem"
  },
  {
   "m": "Seochon",
   "n": "Seochon (서촌)",
   "w": "stara četvrt zapadno od palače: hanok kuće, galerije i barovi",
   "a": "Četvrt zapadno od Gyeongbokgunga, s hanok kućama, malim galerijama, kafićima i barovima. Mirnija je i manje turistička od Bukchona. Ovdje su i tržnica Tongin i Bar Cham.",
-  "y": "Autentičan stari Seoul, lijep za šetnju i za večer."
+  "y": "Autentičan stari Seoul, lijep za šetnju i za večer.",
+  "g": "stara hanok četvrt"
  },
  {
   "m": "Tongin",
   "n": "Tržnica Tongin (통인시장)",
   "w": "tržnica na kojoj se ručak kupuje starinskim mjedenim novčićima",
   "a": "Mala natkrivena tržnica u Seochonu. Na ulazu se kupe stari mjedeni novčići (yeopjeon) i kutija, pa se po štandovima mijenjaju za jela po izboru. Obavezno probati gireum tteokbokki, rižine kolačiće pržene na ulju.",
-  "y": "Zabavan ručak u kojem se proba puno jela pomalo."
+  "y": "Zabavan ručak u kojem se proba puno jela pomalo.",
+  "g": "ručak za mjedene novčiće"
  },
  {
   "m": "Head spa",
   "n": "Korejski head spa",
   "w": "njega tjemena i kose s dugom masažom",
   "a": "U Koreji vrlo popularan tretman: pregled tjemena kamerom, dubinsko pranje, masaža glave, vrata i ramena, maska za kosu i sušenje. Traje oko sat vremena.",
-  "y": "Savršen odmor usred dana punog hodanja."
+  "y": "Savršen odmor usred dana punog hodanja.",
+  "g": "njega tjemena i masaža"
  },
  {
   "m": "Sindanga|Mabongrim",
   "n": "Sindang i tteokbokki kod bake Mabongrim (마복림)",
   "w": "četvrt tteokbokkija, gdje je nastao tteokbokki s gochujangom",
   "a": "U ulici tteokbokkija u Sindang-dongu lokali rade od 1970-ih. Baka Ma Bok-rim smatra se izumiteljicom današnjeg crvenog tteokbokkija s gochujangom: rižini kolačići, riblji kolač, rezanci i jaja kuhaju se u plitkom loncu na stolu.",
-  "y": "Kultno mjesto za najpopularniju korejsku uličnu hranu."
+  "y": "Kultno mjesto za najpopularniju korejsku uličnu hranu.",
+  "g": "izumiteljica crvenog tteokbokkija"
  },
  {
   "m": "Zoo Sindang|Jusindang",
   "n": "Zoo Sindang (주신당)",
   "w": "skriveni koktel-bar u tržnici, tematiziran kineskim zodijakom",
   "a": "Bar skriven u natkrivenoj tržnici u Sindangu, s interijerom i koktelima posvećenima 12 životinja kineskog zodijaka. Nalazi se na listi Asia's 50 Best Bars, pa se zna čekati.",
-  "y": "Iskustvo samo po sebi: do vrhunskog bara se dolazi kroz staru tržnicu."
+  "y": "Iskustvo samo po sebi: do vrhunskog bara se dolazi kroz staru tržnicu.",
+  "g": "skriveni koktel-bar"
  },
  {
-  "m": "🚁",
+  "m": "Drone show",
   "n": "Drone show u parku Ttukseom Hangang",
   "w": "stotine dronova sa svjetlima iznad rijeke Han",
   "a": "Subotom navečer stotine svjetlećih dronova iznad rijeke crtaju slike i animacije uz glazbu. Besplatno je, gleda se s travnjaka parka Ttukseom, a otkazuje se po jakom vjetru ili kiši.",
-  "y": "Spektakularno i besplatno, baš za zadnju subotu u Seoulu."
+  "y": "Spektakularno i besplatno, baš za zadnju subotu u Seoulu.",
+  "g": ""
  },
  {
-  "m": "🎃",
+  "m": "Noć vještica",
   "n": "Noć vještica u Hongdaeu",
   "w": "najveća Halloween zabava u Seoulu",
   "a": "Za Noć vještica ulice Hongdaea ispune se ljudima u kostimima, barovi i klubovi imaju tematske zabave, a na ulicama je hrana i glazba. Policija usmjerava gužvu, pa treba slijediti njihove upute.",
-  "y": "Zadnja subota u listopadu vrhunac je sezone, a mi smo baš tada u Seoulu."
+  "y": "Zadnja subota u listopadu vrhunac je sezone, a mi smo baš tada u Seoulu.",
+  "g": ""
  },
  {
   "m": "Imun",
   "n": "Imun Seolnongtang (이문설농탕)",
   "w": "najstariji restoran u Seoulu (od 1904.), juha od goveđih kostiju",
   "a": "Seolleongtang je mliječnobijela juha od goveđih kostiju koje se kuhaju satima, s tankim komadima mesa i rezancima. Sol i mladi luk dodaju se po ukusu. Imun radi od 1904. i smatra se najstarijim restoranom u gradu.",
-  "y": "Komad povijesti u zdjeli i savršen doručak nakon duge noći."
+  "y": "Komad povijesti u zdjeli i savršen doručak nakon duge noći.",
+  "g": ""
  },
  {
   "m": "Seongsu",
   "n": "Seongsu (성수동)",
   "w": "bivša industrijska četvrt, danas kafići u tvornicama i pop-up trgovine",
   "a": "Nekad četvrt tvornica i postolara, danas najmodernija četvrt Seoula, često zvana seulski Brooklyn: kafići i galerije u starim tvornicama i skladištima, pop-up trgovine poznatih brendova i korejski dizajnerski dućani. Ulica ručno rađenih cipela još postoji.",
-  "y": "Najbolje mjesto za vidjeti suvremeni Seoul i za šoping."
+  "y": "Najbolje mjesto za vidjeti suvremeni Seoul i za šoping.",
+  "g": "seulski „Brooklyn”"
  },
  {
   "m": "Daelim Changgo",
   "n": "Daelim Changgo (대림창고)",
   "w": "kafić-galerija u starom skladištu, simbol Seongsua",
   "a": "Bivše skladište pretvoreno u veliki kafić i izložbeni prostor, s golim zidovima od opeke i umjetninama. Jedno od prvih mjesta koja su pokrenula preobrazbu Seongsua.",
-  "y": "Ikona četvrti i dobra kava pod krovom."
+  "y": "Ikona četvrti i dobra kava pod krovom.",
+  "g": "kafić-galerija u skladištu"
  },
  {
   "m": "Olive Young",
   "n": "Olive Young",
   "w": "najveći korejski lanac kozmetike i njege",
   "a": "Korejska kozmetika (K-beauty) je fenomen: Olive Young je lanac s tisućama proizvoda za njegu kože, maskama, kremama za sunčanje i šminkom, često na akciji. Strancima s putovnicom često se odmah vraća porez.",
-  "y": "Najbolje mjesto za poklone i kozmetiku za doma."
+  "y": "Najbolje mjesto za poklone i kozmetiku za doma.",
+  "g": "lanac korejske kozmetike"
  },
  {
   "m": "Seoul Forest",
   "n": "Seoul Forest (서울숲)",
   "w": "veliki gradski park odmah do Seongsua",
   "a": "Velik park s drvoredima, jezercima i ograđenim prostorom s jelenima, lijep u jesenskim bojama.",
-  "y": "Zelena pauza između kafića i trgovina."
+  "y": "Zelena pauza između kafića i trgovina.",
+  "g": "veliki park"
  },
  {
   "m": "Seoul Sky",
   "n": "Seoul Sky",
   "w": "vidikovac na vrhu Lotte World Towera, najviše zgrade u Koreji",
   "a": "Lotte World Tower visok je 555 m, a vidikovac na vrhu, na oko 500 m, ima pogled na cijeli grad i stakleni pod. Najbolje je po vedrom vremenu i u sumrak.",
-  "y": "Cijeli Seoul na dlanu."
+  "y": "Cijeli Seoul na dlanu.",
+  "g": "vidikovac Lotte World Towera"
  },
  {
   "m": "Bar Cham",
   "n": "Bar Cham (참)",
   "w": "koktel-bar u hanok kući, među najboljima u Aziji",
   "a": "Mali bar u tradicionalnoj hanok kući u Seochonu, s koktelima od korejskih sastojaka i pića. Redovito je na listi Asia's 50 Best Bars, pa je najbolje doći na otvaranje.",
-  "y": "Vrhunski kokteli u autentičnom ambijentu, kao oproštaj od Seoula."
+  "y": "Vrhunski kokteli u autentičnom ambijentu, kao oproštaj od Seoula.",
+  "g": ""
  },
  {
   "m": "Yeonnam-dong",
   "n": "Yeonnam-dong (연남동)",
   "w": "naša četvrt: kafići i restorani uz park na staroj pruzi",
   "a": "Mirnija susjedna četvrt Hongdaea, puna malih kafića, pekara i restorana, uz dugi park Gyeongui Line Forest Park nastao na mjestu stare željezničke pruge.",
-  "y": "Lijepo za doručak i večernju šetnju, odmah ispred vrata."
+  "y": "Lijepo za doručak i večernju šetnju, odmah ispred vrata.",
+  "g": "naša četvrt"
  },
  {
   "m": "Gyeongui Line Forest",
   "n": "Gyeongui Line Forest Park (경의선숲길)",
   "w": "dugi park na mjestu stare pruge",
   "a": "Park koji se proteže kroz Yeonnam-dong na mjestu stare željezničke pruge, sa stazama, travnjacima, kafićima i uličnim sviračima. Mještani ga zovu Yeontral Park.",
-  "y": "Najljepša šetnja u našem kvartu."
+  "y": "Najljepša šetnja u našem kvartu.",
+  "g": "park na staroj pruzi"
  }
 ]

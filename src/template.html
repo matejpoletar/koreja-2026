@@ -238,13 +238,9 @@ li.plancard { padding: 10px 8px; }
 .tl > li.br .bdet { margin: 0 8px 10px 70px; }
 .tl > li.fend { padding: 4px 8px 4px 70px; font: 700 .64rem var(--f-display); letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
 /* what a place is: a line under the row, the full write-up when it opens */
-.what { display: grid; gap: 2px; margin-top: 4px; font-size: .82rem; line-height: 1.4; color: var(--muted); }
-.what b { color: var(--ink); font-weight: 600; }
-.about { display: grid; gap: 4px; }
-.about h4 { margin: 0; font: 700 .95rem var(--f-display); letter-spacing: .03em; color: var(--navy); }
-.about p { margin: 0; font-size: .9rem; max-width: 72ch; }
-.about .why { color: var(--muted); }
-.about .why b { color: var(--ink); }
+.gl { color: var(--muted); font-weight: 400; }
+.md.about p { margin: 0 0 6px; }
+.md.about em { color: var(--muted); }
 .pcard { border-radius: 12px; background: var(--plan-soft); padding: 12px 14px; display: grid; gap: 8px; border-left: 4px solid var(--plan); }
 .pcard .ph { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
 .pcard .ph b { font: 800 1.2rem var(--f-display); color: var(--plan); text-transform: uppercase; letter-spacing: .03em; }
@@ -854,13 +850,40 @@ function placesOf(d, r, slot) {
   const s = r.text + ' ' + (slot ? slot.title : '');
   return PL.filter(p => p.re.test(s) && !plSeen.has(p.n) && plSeen.add(p.n));
 }
+// a short gloss after the place's name in the row, unless the row already says as much:
+// inside a bold name it goes at the end of the name ("**Yeonpo Galbiju** (…)", "**Seongsu pod krovom** (…):"),
+// and an existing "(…)" right after a bold name takes it in front ("**Gyeongbokgung** (glavna palača; 10 min …)")
+const stems = s => (s.toLowerCase().match(/\p{L}{4,}/gu) || []).map(w => w.slice(0, 5));
+function glossed(text, pl) {
+  const have = new Set(stems(text)), at = [];
+  pl.forEach(p => {
+    const gw = stems(p.g || '');
+    if (!gw.length || gw.filter(w => have.has(w)).length * 2 >= gw.length) return;
+    const m = p.re.exec(text); if (!m) return;
+    let e = m.index + m[0].length;
+    if ((text.slice(0, m.index).match(/\*\*/g) || []).length % 2) {
+      const k = text.slice(e).search(/[,:(]|\*\*/);
+      e = k < 0 ? text.length : e + k;
+      while (/[ .]/.test(text[e - 1])) e--;
+    } else {
+      while (e < text.length && /[\p{L}\p{N}-]/u.test(text[e])) e++;
+      if (/^\s*\(/.test(text.slice(e))) return;
+    }
+    at.push([e, p.g]);
+  });
+  at.sort((x, y) => y[0] - x[0]).forEach(([e], i) => text = text.slice(0, e) + `\u0001${i}\u0001` + text.slice(e));
+  return inline(text).replace(/\u0001(\d+)\u0001(<\/strong>)?( \()?/g, (_, i, close, paren) =>
+    paren ? `${close || ''} <span class="gl">(${esc(at[i][1])};</span> ` : ` <span class="gl">(${esc(at[i][1])})</span>${close || ''}`);
+}
 function rowHTML(d, r, key, opts = {}) {
   const slot = r.slot != null ? d.slots[r.slot] : null;
   const pl = key.startsWith('m') ? [] : placesOf(d, r, slot);
   const pd = pickDoc(d); const chosenIdx = slot ? (pd.slots || {})[key] : undefined;
   const chosen = slot && chosenIdx != null ? slot.alts[chosenIdx] : null;
   const meal = opts.meal;
-  const hasDetail = meal || pl.length || (slot && (slot.body || slot.alts.length || slot.altNotes.length || slot.after));
+  // the plan already describes the place its slot is about; only the others get a paragraph
+  const about = pl.filter(p => !(slot && p.re.test(slot.title) && slot.body.length > 150));
+  const hasDetail = meal || about.length || (slot && (slot.body || slot.alts.length || slot.altNotes.length || slot.after));
   const open = hasDetail && openSlots.has(d.date + '|' + key);
   const chips = [];
   if (slot) slot.meta.forEach(m => { const t = shortMeta(m); if (t) chips.push(`<span class="chip" title="${esc(m)}">${inline(t)}</span>`); });
@@ -871,21 +894,22 @@ function rowHTML(d, r, key, opts = {}) {
   const timeSoft = !/\d/.test(r.time);
   const shown = opts.rough ? r.time : r.time.replace(/^~/, '').replace(/(\d{1,2}:\d\d)\s*[–-]\s*~?\d{1,2}:\d\d/, '$1');
   const inner = `<span class="time${timeSoft ? ' soft' : ''}">${inline(shown)}</span>
-    <span class="txt"><p>${opts.br ? `<span class="bm">${opts.br}</span>` : ''}${inline(r.text)}</p>${pl.length ? `<span class="what">${pl.slice(0, 3).map(p => `<span><b>${esc(p.n)}</b> — ${inline(p.w)}</span>`).join('')}</span>` : ''}${meal ? mealLine(d, meal[0], meal[1]) : ''}${chips.length ? `<span class="chips">${chips.join('')}</span>` : ''}</span>
+    <span class="txt"><p>${opts.br ? `<span class="bm">${opts.br}</span>` : ''}${glossed(r.text, pl)}</p>${meal ? mealLine(d, meal[0], meal[1]) : ''}${chips.length ? `<span class="chips">${chips.join('')}</span>` : ''}</span>
     <span class="chev" aria-hidden="true">${hasDetail ? '›' : ''}</span>`;
   const row = hasDetail
     ? `<button class="row" data-act="slot" data-key="${esc(key)}" aria-expanded="${open}">${inner}</button>`
     : `<div class="row">${inner}</div>`;
+  const aboutHTML = about.length ? `<div class="md about">${about.map(p => `<p><strong>${esc(p.n)}:</strong> ${inline(p.a)} <em>${inline(p.y)}</em></p>`).join('')}</div>` : '';
   const plan = slot ? `<h3 class="dtitle">${inline(slot.title)}</h3>
       ${loc && loc.main ? nvPill(loc.main) : ''}
       ${slot.meta.length ? `<div class="chips wrap">${slot.meta.map(m => `<span class="chip">${inline(m)}</span>`).join('')}</div>` : ''}
+      ${meal ? '' : aboutHTML}
       ${slot.body ? `<div class="md">${md(slot.body)}</div>` : ''}
       ${slotAlts(d, slot, key)}
       ${slot.after ? `<div class="md">${md(slot.after)}</div>` : ''}` : '';
   // on a meal row the old fixed restaurant folds away under the picker
-  const about = pl.map(p => `<div class="about"><h4>${esc(p.n)}</h4><p>${inline(p.a)}</p>${p.y ? `<p class="why"><b>Zašto ići:</b> ${inline(p.y)}</p>` : ''}</div>`).join('');
   const det = open ? `<div class="detail" data-act="slot" data-key="${esc(key)}">
-      ${about}${meal ? mealPanel(d, meal[0], meal[1]) + (slot ? `<details class="fold" data-act="noop"><summary>Iz plana · ${inline(slot.title)}</summary>${plan}</details>` : '') : plan}
+      ${meal ? aboutHTML + mealPanel(d, meal[0], meal[1]) + (slot ? `<details class="fold" data-act="noop"><summary>Iz plana · ${inline(slot.title)}</summary>${plan}</details>` : '') : slot ? plan : aboutHTML}
     </div>` : '';
   const detL = loc ? nvInline(det, loc.subs) : det;
   const tm = r.time.match(/(\d{1,2}):(\d\d)(?:\s*[–-]\s*~?(\d{1,2}):(\d\d))?/);
